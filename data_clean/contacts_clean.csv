@@ -1,1 +1,250 @@
-
+contact_id,first_name,last_name,email,company,job_title,lifecycle_stage,created_date,owner
+1,Amanda,Lopez,amanda.lopez@northbridgeops.com,Northbridge Ops,Operations Manager,Lead,2024-01-14,Jamie Lee
+2,Marcus,Chen,marcus.chen@revpoint.ca,RevPoint Solutions,Director of Sales,MQL,2024-02-03,Jamie Lee
+3,Sarah,Patel,sarah.patel@clearwave.io,ClearWave Analytics,Marketing Manager,Lead,2024-03-22,Alex Morgan
+4,Daniel,Reed,daniel.reed@skylinehr.com,Skyline HR,COO,SQL,2024-04-10,Alex Morgan
+5,Emily,Nguyen,emily.nguyen@brightpath.ca,BrightPath Systems,RevOps Manager,Lead,2024-05-18,Jordan Smith
+6,Michael,Turner,michael.turner@quantumfleet.com,QuantumFleet,VP Operations,MQL,2024-06-02,Jordan Smith
+7,Olivia,Grant,olivia.grant@mapletech.ca,MapleTech,Sales Manager,Lead,2024-06-27,Jamie Lee
+8,Jason,Kim,jason.kim@everline.io,Everline Software,Director of Revenue,SQL,2024-07-15,Alex Morgan
+9,Rebecca,Stone,rebecca.stone@bluepeak.ca,BluePeak Systems,Operations Lead,Lead,2024-08-01,Jordan Smith
+10,Anthony,Clark,anthony.clark@signalpath.io,SignalPath,Sales Director,MQL,2024-08-22,Jamie Lee
+11,Laura,Mitchell,laura.mitchell@zenflow.ca,ZenFlow,Marketing Director,Lead,2024-01-05,Jamie Lee
+12,Kevin,Brooks,kevin.brooks@apexlogic.io,ApexLogic,CTO,SQL,2024-01-08,Alex Morgan
+13,Natalie,Young,natalie.young@brightwave.ca,BrightWave,Sales Coordinator,Lead,2024-01-11,Jordan Smith
+14,Patrick,James,patrick.james@corelytics.com,CoreLytics,VP Sales,MQL,2024-01-15,Jamie Lee
+15,Isabella,Moore,isabella.moore@northpeak.ca,NorthPeak,Operations Analyst,Lead,2024-01-18,Alex Morgan
+16,Jacob,White,jacob.white@revworks.io,RevWorks,Director of Ops,SQL,2024-01-20,Jordan Smith
+17,Victoria,Hall,victoria.hall@skylogic.ca,SkyLogic,Marketing Lead,Lead,2024-01-23,Jamie Lee
+18,Christopher,Adams,chris.adams@everpath.io,EverPath,COO,MQL,2024-01-25,Alex Morgan
+19,Grace,Walker,grace.walker@mapledata.ca,MapleData,Sales Manager,Lead,2024-01-28,Jordan Smith
+20,Andrew,Scott,andrew.scott@signalcore.io,SignalCore,VP Revenue,SQL,2024-01-30,Jamie Lee
+21,Julia,Price,julia.price@northbridgeops.com,Northbridge Ops,Sales Coordinator,Lead,2024-02-01,Jamie Lee
+22,Steven,Gray,steven.gray@revpoint.ca,RevPoint Solutions,Marketing Manager,MQL,2024-02-04,Jamie Lee
+23,Monica,Shaw,monica.shaw@clearwave.io,ClearWave Analytics,Operations Lead,Lead,2024-02-06,Alex Morgan
+24,Henry,Cooper,henry.cooper@skylinehr.com,Skyline HR,Director of HR,SQL,2024-02-08,Alex Morgan
+25,Chloe,Diaz,chloe.diaz@brightpath.ca,BrightPath Systems,Sales Manager,Lead,2024-02-10,Jordan Smith
+26,Jonathan,Evans,jon.evans@quantumfleet.com,QuantumFleet,COO,MQL,2024-02-12,Jordan Smith
+27,Sophia,Bell,sophia.bell@mapletech.ca,MapleTech,Marketing Specialist,Lead,2024-02-14,Jamie Lee
+28,Brandon,Lee,brandon.lee@everline.io,Everline Software,VP Sales,SQL,2024-02-16,Alex Morgan
+29,Hailey,Green,hailey.green@bluepeak.ca,BluePeak Systems,Operations Analyst,Lead,2024-02-18,Jordan Smith
+30,Eric,King,eric.king@signalpath.io,SignalPath,Director of Ops,MQL,2024-02-20,Jamie Lee
+31,Melissa,Turner,melissa.turner@zenflow.ca,ZenFlow,Marketing Lead,Lead,2024-02-22,Jamie Lee
+32,Shawn,Reed,shawn.reed@apexlogic.io,ApexLogic,VP Engineering,SQL,2024-02-24,Alex Morgan
+33,Paige,Howard,paige.howard@brightwave.ca,BrightWave,Sales Lead,Lead,2024-02-26,Jordan Smith
+34,Timothy,Long,tim.long@corelytics.com,CoreLytics,Director of Revenue,MQL,2024-02-28,Jamie Lee
+35,Kayla,Adler,kayla.adler@northpeak.ca,NorthPeak,Marketing Manager,Lead,2024-03-01,Alex Morgan
+36,Logan,Price,logan.price@revworks.io,RevWorks,COO,SQL,2024-03-03,Jordan Smith
+37,Faith,Campbell,faith.campbell@skylogic.ca,SkyLogic,Sales Coordinator,Lead,2024-03-05,Jamie Lee
+38,Mitchell,Hayes,mitchell.hayes@everpath.io,EverPath,VP Revenue,MQL,2024-03-07,Alex Morgan
+39,Daniela,Reyes,daniela.reyes@mapledata.ca,MapleData,Marketing Specialist,Lead,2024-03-09,Jordan Smith
+40,Colin,Stewart,colin.stewart@signalcore.io,SignalCore,Director of Sales,SQL,2024-03-11,Jamie Lee
+41,Alyssa,James,alyssa.james@northbridgeops.com,Northbridge Ops,Operations Lead,Lead,2024-03-13,Jamie Lee
+42,Peter,Nguyen,peter.nguyen@revpoint.ca,RevPoint Solutions,Sales Manager,MQL,2024-03-15,Jamie Lee
+43,Vanessa,Clark,vanessa.clark@clearwave.io,ClearWave Analytics,Director of Ops,Lead,2024-03-17,Alex Morgan
+44,Shane,Martin,shane.martin@skylinehr.com,Skyline HR,VP HR,SQL,2024-03-19,Alex Morgan
+45,Rachel,Kim,rachel.kim@brightpath.ca,BrightPath Systems,Marketing Lead,Lead,2024-03-21,Jordan Smith
+46,Tyler,Moore,tyler.moore@quantumfleet.com,QuantumFleet,Director of Ops,MQL,2024-03-23,Jordan Smith
+47,Angela,Scott,angela.scott@mapletech.ca,MapleTech,Sales Lead,Lead,2024-03-25,Jamie Lee
+48,Corey,White,corey.white@everline.io,Everline Software,COO,SQL,2024-03-27,Alex Morgan
+49,Michelle,Stone,michelle.stone@bluepeak.ca,BluePeak Systems,Marketing Manager,Lead,2024-03-29,Jordan Smith
+50,Justin,Reed,justin.reed@signalpath.io,SignalPath,VP Revenue,MQL,2024-03-31,Jamie Lee
+52,Erin,Walsh,erin.walsh@zenflow.ca,ZenFlow,Operations Manager,Lead,2024-04-02,Jamie Lee
+53,Marcus,Young,marcus.young@apexlogic.io,ApexLogic,Director of Ops,SQL,2024-04-04,Alex Morgan
+54,Tara,Mitchell,tara.mitchell@brightwave.ca,BrightWave,Marketing Specialist,Lead,2024-04-06,Jordan Smith
+55,Shawn,Lopez,shawn.lopez@corelytics.com,CoreLytics,VP Revenue,MQL,2024-04-08,Jamie Lee
+56,Isabelle,Reed,isabelle.reed@northpeak.ca,NorthPeak,Sales Lead,Lead,2024-04-10,Alex Morgan
+57,Connor,James,connor.james@revworks.io,RevWorks,Director of Sales,SQL,2024-04-12,Jordan Smith
+58,Naomi,Clark,naomi.clark@skylogic.ca,SkyLogic,Marketing Manager,Lead,2024-04-14,Jamie Lee
+59,Brent,Hayes,brent.hayes@everpath.io,EverPath,COO,MQL,2024-04-16,Alex Morgan
+60,Elena,Moore,elena.moore@mapledata.ca,MapleData,Sales Coordinator,Lead,2024-04-18,Jordan Smith
+61,Caleb,Scott,caleb.scott@signalcore.io,SignalCore,Director of Revenue,SQL,2024-04-20,Jamie Lee
+62,Marissa,Nguyen,marissa.nguyen@northbridgeops.com,Northbridge Ops,Marketing Lead,Lead,2024-04-22,Jamie Lee
+63,Tyson,Gray,tyson.gray@revpoint.ca,RevPoint Solutions,VP Sales,MQL,2024-04-24,Jamie Lee
+64,Alexa,Stone,alexa.stone@clearwave.io,ClearWave Analytics,Operations Manager,Lead,2024-04-26,Alex Morgan
+65,Shane,Cooper,shane.cooper@skylinehr.com,Skyline HR,Director of Ops,SQL,2024-04-28,Alex Morgan
+66,Danielle,Price,danielle.price@brightpath.ca,BrightPath Systems,Marketing Specialist,Lead,2024-04-30,Jordan Smith
+67,Colton,Evans,colton.evans@quantumfleet.com,QuantumFleet,VP Revenue,MQL,2024-05-02,Jordan Smith
+68,Leah,Grant,leah.grant@mapletech.ca,MapleTech,Sales Manager,Lead,2024-05-04,Jamie Lee
+69,Victor,White,victor.white@everline.io,Everline Software,Director of Ops,SQL,2024-05-06,Alex Morgan
+70,Amber,Stone,amber.stone@bluepeak.ca,BluePeak Systems,Marketing Lead,Lead,2024-05-08,Jordan Smith
+71,Noah,Clark,noah.clark@signalpath.io,SignalPath,Sales Coordinator,MQL,2024-05-10,Jamie Lee
+72,Hailey,Mitchell,hailey.mitchell@zenflow.ca,ZenFlow,Marketing Manager,Lead,2024-05-12,Jamie Lee
+73,Brady,Reed,brady.reed@apexlogic.io,ApexLogic,Director of Revenue,SQL,2024-05-14,Alex Morgan
+74,Elise,Howard,elise.howard@brightwave.ca,BrightWave,Sales Lead,Lead,2024-05-16,Jordan Smith
+75,Travis,Long,travis.long@corelytics.com,CoreLytics,VP Sales,MQL,2024-05-18,Jamie Lee
+76,Kaylee,Adler,kaylee.adler@northpeak.ca,NorthPeak,Operations Analyst,Lead,2024-05-20,Alex Morgan
+77,Jonah,Price,jonah.price@revworks.io,RevWorks,Director of Ops,SQL,2024-05-22,Jordan Smith
+78,Sienna,Campbell,sienna.campbell@skylogic.ca,SkyLogic,Marketing Specialist,Lead,2024-05-24,Jamie Lee
+79,Garrett,Hayes,garrett.hayes@everpath.io,EverPath,VP Revenue,MQL,2024-05-26,Alex Morgan
+80,Adriana,Reyes,adriana.reyes@mapledata.ca,MapleData,Sales Manager,Lead,2024-05-28,Jordan Smith
+81,Colby,Stewart,colby.stewart@signalcore.io,SignalCore,Director of Sales,SQL,2024-05-30,Jamie Lee
+82,Alana,James,alana.james@northbridgeops.com,Northbridge Ops,Marketing Lead,Lead,2024-06-01,Jamie Lee
+83,Spencer,Nguyen,spencer.nguyen@revpoint.ca,RevPoint Solutions,Sales Manager,MQL,2024-06-03,Jamie Lee
+84,Marina,Clark,marina.clark@clearwave.io,ClearWave Analytics,Director of Ops,Lead,2024-06-05,Alex Morgan
+85,Shawn,Martin,shawn.martin@skylinehr.com,Skyline HR,VP HR,SQL,2024-06-07,Alex Morgan
+86,Rebecca,Kim,rebecca.kim@brightpath.ca,BrightPath Systems,Marketing Lead,Lead,2024-06-09,Jordan Smith
+87,Tyler,Moore,tyler.moore@quantumfleet.com,QuantumFleet,Director of Ops,MQL,2024-06-11,Jordan Smith
+88,Angela,Scott,angela.scott@mapletech.ca,MapleTech,Sales Lead,Lead,2024-06-13,Jamie Lee
+89,Corey,White,corey.white@everline.io,Everline Software,COO,SQL,2024-06-15,Alex Morgan
+90,Michelle,Stone,michelle.stone@bluepeak.ca,BluePeak Systems,Marketing Manager,Lead,2024-06-17,Jordan Smith
+91,Justin,Reed,justin.reed@signalpath.io,SignalPath,VP Revenue,MQL,2024-06-19,Jamie Lee
+92,Erin,Walsh,erin.walsh@zenflow.ca,ZenFlow,Operations Manager,Lead,2024-06-21,Jamie Lee
+93,Marcus,Young,marcus.young@apexlogic.io,ApexLogic,Director of Ops,SQL,2024-06-23,Alex Morgan
+94,Tara,Mitchell,tara.mitchell@brightwave.ca,BrightWave,Marketing Specialist,Lead,2024-06-25,Jordan Smith
+95,Shawn,Lopez,shawn.lopez@corelytics.com,CoreLytics,VP Revenue,MQL,2024-06-27,Jamie Lee
+96,Isabelle,Reed,isabelle.reed@northpeak.ca,NorthPeak,Sales Lead,Lead,2024-06-29,Alex Morgan
+97,Connor,James,connor.james@revworks.io,RevWorks,Director of Sales,SQL,2024-07-01,Jordan Smith
+98,Naomi,Clark,naomi.clark@skylogic.ca,SkyLogic,Marketing Manager,Lead,2024-07-03,Jamie Lee
+99,Brent,Hayes,brent.hayes@everpath.io,EverPath,COO,MQL,2024-07-05,Alex Morgan
+100,Elena,Moore,elena.moore@mapledata.ca,MapleData,Sales Coordinator,Lead,2024-07-07,Jordan Smith
+101,Elise,Turner,elise.turner@northbridgeops.com,Northbridge Ops,Operations Analyst,Lead,2024-07-09,Jamie Lee
+102,Marcus,Reid,marcus.reid@revpoint.ca,RevPoint Solutions,Sales Lead,MQL,2024-07-11,Jamie Lee
+103,Sabrina,Lopez,sabrina.lopez@clearwave.io,ClearWave Analytics,Marketing Manager,Lead,2024-07-13,Alex Morgan
+104,Henry,Walters,henry.walters@skylinehr.com,Skyline HR,Director of Ops,SQL,2024-07-15,Alex Morgan
+105,Chloe,Andrews,chloe.andrews@brightpath.ca,BrightPath Systems,Sales Coordinator,Lead,2024-07-17,Jordan Smith
+106,Michael,Shaw,michael.shaw@quantumfleet.com,QuantumFleet,VP Revenue,MQL,2024-07-19,Jordan Smith
+107,Olivia,Hayes,olivia.hayes@mapletech.ca,MapleTech,Marketing Lead,Lead,2024-07-21,Jamie Lee
+108,Jason,Reed,jason.reed@everline.io,Everline Software,Director of Sales,SQL,2024-07-23,Alex Morgan
+109,Rebecca,Moore,rebecca.moore@bluepeak.ca,BluePeak Systems,Operations Lead,Lead,2024-07-25,Jordan Smith
+110,Anthony,Price,anthony.price@signalpath.io,SignalPath,Sales Manager,MQL,2024-07-27,Jamie Lee
+111,Laura,Kim,laura.kim@zenflow.ca,ZenFlow,Marketing Specialist,Lead,2024-07-29,Jamie Lee
+112,Kevin,Diaz,kevin.diaz@apexlogic.io,ApexLogic,Director of Revenue,SQL,2024-07-31,Alex Morgan
+113,Natalie,Scott,natalie.scott@brightwave.ca,BrightWave,Sales Lead,Lead,2024-08-02,Jordan Smith
+114,Patrick,Nguyen,patrick.nguyen@corelytics.com,CoreLytics,VP Sales,MQL,2024-08-04,Jamie Lee
+115,Isabella,James,isabella.james@northpeak.ca,NorthPeak,Marketing Lead,Lead,2024-08-06,Alex Morgan
+116,Jacob,Stone,jacob.stone@revworks.io,RevWorks,Director of Ops,SQL,2024-08-08,Jordan Smith
+117,Victoria,Reed,victoria.reed@skylogic.ca,SkyLogic,Sales Coordinator,Lead,2024-08-10,Jamie Lee
+118,Christopher,Moore,chris.moore@everpath.io,EverPath,VP Revenue,MQL,2024-08-12,Alex Morgan
+119,Grace,Hayes,grace.hayes@mapledata.ca,MapleData,Marketing Manager,Lead,2024-08-14,Jordan Smith
+120,Andrew,Clark,andrew.clark@signalcore.io,SignalCore,Director of Sales,SQL,2024-08-16,Jamie Lee
+121,Julia,Lopez,julia.lopez@northbridgeops.com,Northbridge Ops,Operations Lead,Lead,2024-08-18,Jamie Lee
+122,Steven,Reid,steven.reid@revpoint.ca,RevPoint Solutions,Marketing Manager,MQL,2024-08-20,Jamie Lee
+123,Monica,Walsh,monica.walsh@clearwave.io,ClearWave Analytics,Operations Manager,Lead,2024-08-22,Alex Morgan
+124,Henry,James,henry.james@skylinehr.com,Skyline HR,Director of HR,SQL,2024-08-24,Alex Morgan
+125,Chloe,Grant,chloe.grant@brightpath.ca,BrightPath Systems,Sales Manager,Lead,2024-08-26,Jordan Smith
+126,Jonathan,Moore,jon.moore@quantumfleet.com,QuantumFleet,COO,MQL,2024-08-28,Jordan Smith
+127,Sophia,Reed,sophia.reed@mapletech.ca,MapleTech,Marketing Specialist,Lead,2024-08-30,Jamie Lee
+128,Brandon,Clark,brandon.clark@everline.io,Everline Software,VP Sales,SQL,2024-09-01,Alex Morgan
+129,Hailey,Price,hailey.price@bluepeak.ca,BluePeak Systems,Operations Analyst,Lead,2024-09-03,Jordan Smith
+130,Eric,Mitchell,eric.mitchell@signalpath.io,SignalPath,Director of Ops,MQL,2024-09-05,Jamie Lee
+131,Melissa,Reed,melissa.reed@zenflow.ca,ZenFlow,Marketing Lead,Lead,2024-09-07,Jamie Lee
+132,Shawn,Young,shawn.young@apexlogic.io,ApexLogic,VP Engineering,SQL,2024-09-09,Alex Morgan
+133,Paige,Lopez,paige.lopez@brightwave.ca,BrightWave,Sales Lead,Lead,2024-09-11,Jordan Smith
+134,Timothy,Scott,tim.scott@corelytics.com,CoreLytics,Director of Revenue,MQL,2024-09-13,Jamie Lee
+135,Kayla,Moore,kayla.moore@northpeak.ca,NorthPeak,Marketing Manager,Lead,2024-09-15,Alex Morgan
+136,Logan,Reid,logan.reid@revworks.io,RevWorks,COO,SQL,2024-09-17,Jordan Smith
+137,Faith,Hayes,faith.hayes@skylogic.ca,SkyLogic,Sales Coordinator,Lead,2024-09-19,Jamie Lee
+138,Mitchell,Clark,mitchell.clark@everpath.io,EverPath,VP Revenue,MQL,2024-09-21,Alex Morgan
+139,Daniela,Moore,daniela.moore@mapledata.ca,MapleData,Marketing Specialist,Lead,2024-09-23,Jordan Smith
+140,Colin,James,colin.james@signalcore.io,SignalCore,Director of Sales,SQL,2024-09-25,Jamie Lee
+141,Alyssa,Reed,alyssa.reed@northbridgeops.com,Northbridge Ops,Operations Lead,Lead,2024-09-27,Jamie Lee
+142,Peter,Young,peter.young@revpoint.ca,RevPoint Solutions,Sales Manager,MQL,2024-09-29,Jamie Lee
+143,Vanessa,Walsh,vanessa.walsh@clearwave.io,ClearWave Analytics,Director of Ops,Lead,2024-10-01,Alex Morgan
+144,Shane,Moore,shane.moore@skylinehr.com,Skyline HR,VP HR,SQL,2024-10-03,Alex Morgan
+145,Rachel,Grant,rachel.grant@brightpath.ca,BrightPath Systems,Marketing Lead,Lead,2024-10-05,Jordan Smith
+146,Tyler,Reid,tyler.reid@quantumfleet.com,QuantumFleet,Director of Ops,MQL,2024-10-07,Jordan Smith
+147,Angela,Hayes,angela.hayes@mapletech.ca,MapleTech,Sales Lead,Lead,2024-10-09,Jamie Lee
+148,Corey,Clark,corey.clark@everline.io,Everline Software,COO,SQL,2024-10-11,Alex Morgan
+149,Michelle,Moore,michelle.moore@bluepeak.ca,BluePeak Systems,Marketing Manager,Lead,2024-10-13,Jordan Smith
+150,Justin,Price,justin.price@signalpath.io,SignalPath,VP Revenue,MQL,2024-10-15,Jamie Lee
+151,Erin,Reed,erin.reed@zenflow.ca,ZenFlow,Operations Manager,Lead,2024-10-17,Jamie Lee
+152,Marcus,Walsh,marcus.walsh@apexlogic.io,ApexLogic,Director of Ops,SQL,2024-10-19,Alex Morgan
+153,Tara,Young,tara.young@brightwave.ca,BrightWave,Marketing Specialist,Lead,2024-10-21,Jordan Smith
+154,Shawn,Grant,shawn.grant@corelytics.com,CoreLytics,VP Revenue,MQL,2024-10-23,Jamie Lee
+155,Isabelle,Moore,isabelle.moore@northpeak.ca,NorthPeak,Sales Lead,Lead,2024-10-25,Alex Morgan
+156,Connor,Reid,connor.reid@revworks.io,RevWorks,Director of Sales,SQL,2024-10-27,Jordan Smith
+157,Naomi,Hayes,naomi.hayes@skylogic.ca,SkyLogic,Marketing Manager,Lead,2024-10-29,Jamie Lee
+158,Brent,Clark,brent.clark@everpath.io,EverPath,COO,MQL,2024-10-31,Alex Morgan
+159,Elena,Moore,elena.moore@mapledata.ca,MapleData,Sales Coordinator,Lead,2024-11-02,Jordan Smith
+160,Caleb,Reed,caleb.reed@signalcore.io,SignalCore,Director of Revenue,SQL,2024-11-04,Jamie Lee
+161,Marissa,Young,marissa.young@northbridgeops.com,Northbridge Ops,Marketing Lead,Lead,2024-11-06,Jamie Lee
+162,Tyson,Walsh,tyson.walsh@revpoint.ca,RevPoint Solutions,VP Sales,MQL,2024-11-08,Jamie Lee
+163,Alexa,Grant,alexa.grant@clearwave.io,ClearWave Analytics,Operations Manager,Lead,2024-11-10,Alex Morgan
+164,Shane,Moore,shane.moore@skylinehr.com,Skyline HR,Director of Ops,SQL,2024-11-12,Alex Morgan
+165,Danielle,Reid,danielle.reid@brightpath.ca,BrightPath Systems,Marketing Specialist,Lead,2024-11-14,Jordan Smith
+166,Colton,Hayes,colton.hayes@quantumfleet.com,QuantumFleet,VP Revenue,MQL,2024-11-16,Jordan Smith
+167,Leah,Clark,leah.clark@mapletech.ca,MapleTech,Sales Manager,Lead,2024-11-18,Jamie Lee
+168,Victor,Moore,victor.moore@everline.io,Everline Software,Director of Ops,SQL,2024-11-20,Alex Morgan
+169,Amber,Reed,amber.reed@bluepeak.ca,BluePeak Systems,Marketing Lead,Lead,2024-11-22,Jordan Smith
+170,Noah,Walsh,noah.walsh@signalpath.io,SignalPath,Sales Coordinator,MQL,2024-11-24,Jamie Lee
+171,Hailey,Young,hailey.young@zenflow.ca,ZenFlow,Marketing Manager,Lead,2024-11-26,Jamie Lee
+172,Brady,Grant,brady.grant@apexlogic.io,ApexLogic,Director of Revenue,SQL,2024-11-28,Alex Morgan
+173,Elise,Moore,elise.moore@brightwave.ca,BrightWave,Sales Lead,Lead,2024-11-30,Jordan Smith
+174,Travis,Reid,travis.reid@corelytics.com,CoreLytics,VP Sales,MQL,2024-12-02,Jamie Lee
+175,Kaylee,Hayes,kaylee.hayes@northpeak.ca,NorthPeak,Operations Analyst,Lead,2024-12-04,Alex Morgan
+176,Jonah,Clark,jonah.clark@revworks.io,RevWorks,Director of Ops,SQL,2024-12-06,Jordan Smith
+177,Sienna,Moore,sienna.moore@skylogic.ca,SkyLogic,Marketing Specialist,Lead,2024-12-08,Jamie Lee
+178,Garrett,Reed,garrett.reed@everpath.io,EverPath,VP Revenue,MQL,2024-12-10,Alex Morgan
+179,Adriana,Hayes,adriana.hayes@mapledata.ca,MapleData,Sales Manager,Lead,2024-12-12,Jordan Smith
+180,Colby,Clark,colby.clark@signalcore.io,SignalCore,Director of Sales,SQL,2024-12-14,Jamie Lee
+181,Alana,Moore,alana.moore@northbridgeops.com,Northbridge Ops,Marketing Lead,Lead,2024-12-16,Jamie Lee
+182,Spencer,Reid,spencer.reid@revpoint.ca,RevPoint Solutions,Sales Manager,MQL,2024-12-18,Jamie Lee
+183,Marina,Walsh,marina.walsh@clearwave.io,ClearWave Analytics,Director of Ops,Lead,2024-12-20,Alex Morgan
+184,Shawn,Young,shawn.young@skylinehr.com,Skyline HR,VP HR,SQL,2024-12-22,Alex Morgan
+185,Rebecca,Grant,rebecca.grant@brightpath.ca,BrightPath Systems,Marketing Lead,Lead,2024-12-24,Jordan Smith
+186,Tyler,Moore,tyler.moore@quantumfleet.com,QuantumFleet,Director of Ops,MQL,2024-12-26,Jordan Smith
+187,Angela,Reed,angela.reed@mapletech.ca,MapleTech,Sales Lead,Lead,2024-12-28,Jamie Lee
+188,Corey,Hayes,corey.hayes@everline.io,Everline Software,COO,SQL,2024-12-30,Alex Morgan
+189,Michelle,Clark,michelle.clark@bluepeak.ca,BluePeak Systems,Marketing Manager,Lead,2024-12-31,Jordan Smith
+190,Justin,Moore,justin.moore@signalpath.io,SignalPath,VP Revenue,MQL,2025-01-02,Jamie Lee
+191,Erin,Reid,erin.reid@zenflow.ca,ZenFlow,Operations Manager,Lead,2025-01-04,Jamie Lee
+192,Marcus,Walsh,marcus.walsh@apexlogic.io,ApexLogic,Director of Ops,SQL,2025-01-06,Alex Morgan
+193,Tara,Young,tara.young@brightwave.ca,BrightWave,Marketing Specialist,Lead,2025-01-08,Jordan Smith
+194,Shawn,Grant,shawn.grant@corelytics.com,CoreLytics,VP Revenue,MQL,2025-01-10,Jamie Lee
+195,Isabelle,Moore,isabelle.moore@northpeak.ca,NorthPeak,Sales Lead,Lead,2025-01-12,Alex Morgan
+196,Connor,Reid,connor.reid@revworks.io,RevWorks,Director of Sales,SQL,2025-01-14,Jordan Smith
+197,Naomi,Hayes,naomi.hayes@skylogic.ca,SkyLogic,Marketing Manager,Lead,2025-01-16,Jamie Lee
+198,Brent,Clark,brent.clark@everpath.io,EverPath,COO,MQL,2025-01-18,Alex Morgan
+199,Elena,Moore,elena.moore@mapledata.ca,MapleData,Sales Coordinator,Lead,2025-01-20,Jordan Smith
+200,Caleb,Reid,caleb.reid@signalcore.io,SignalCore,Director of Revenue,SQL,2025-01-22,Jamie Lee
+201,Marissa,Young,marissa.young@northbridgeops.com,Northbridge Ops,Marketing Lead,Lead,2025-01-24,Jamie Lee
+202,Tyson,Walsh,tyson.walsh@revpoint.ca,RevPoint Solutions,VP Sales,MQL,2025-01-26,Jamie Lee
+203,Alexa,Grant,alexa.grant@clearwave.io,ClearWave Analytics,Operations Manager,Lead,2025-01-28,Alex Morgan
+204,Shane,Moore,shane.moore@skylinehr.com,Skyline HR,Director of Ops,SQL,2025-01-30,Alex Morgan
+205,Danielle,Reid,danielle.reid@brightpath.ca,BrightPath Systems,Marketing Specialist,Lead,2025-02-01,Jordan Smith
+206,Colton,Hayes,colton.hayes@quantumfleet.com,QuantumFleet,VP Revenue,MQL,2025-02-03,Jordan Smith
+207,Leah,Clark,leah.clark@mapletech.ca,MapleTech,Sales Manager,Lead,2025-02-05,Jamie Lee
+208,Victor,Moore,victor.moore@everline.io,Everline Software,Director of Ops,SQL,2025-02-07,Alex Morgan
+209,Amber,Reed,amber.reed@bluepeak.ca,BluePeak Systems,Marketing Lead,Lead,2025-02-09,Jordan Smith
+210,Noah,Walsh,noah.walsh@signalpath.io,SignalPath,Sales Coordinator,MQL,2025-02-11,Jamie Lee
+211,Hailey,Young,hailey.young@zenflow.ca,ZenFlow,Marketing Manager,Lead,2025-02-13,Jamie Lee
+212,Brady,Grant,brady.grant@apexlogic.io,ApexLogic,Director of Revenue,SQL,2025-02-15,Alex Morgan
+213,Elise,Moore,elise.moore@brightwave.ca,BrightWave,Sales Lead,Lead,2025-02-17,Jordan Smith
+214,Travis,Reid,travis.reid@corelytics.com,CoreLytics,VP Sales,MQL,2025-02-19,Jamie Lee
+215,Kaylee,Hayes,kaylee.hayes@northpeak.ca,NorthPeak,Operations Analyst,Lead,2025-02-21,Alex Morgan
+216,Jonah,Clark,jonah.clark@revworks.io,RevWorks,Director of Ops,SQL,2025-02-23,Jordan Smith
+217,Sienna,Moore,sienna.moore@skylogic.ca,SkyLogic,Marketing Specialist,Lead,2025-02-25,Jamie Lee
+218,Garrett,Reed,garrett.reed@everpath.io,EverPath,VP Revenue,MQL,2025-02-27,Alex Morgan
+219,Adriana,Hayes,adriana.hayes@mapledata.ca,MapleData,Sales Manager,Lead,2025-03-01,Jordan Smith
+220,Colby,Clark,colby.clark@signalcore.io,SignalCore,Director of Sales,SQL,2025-03-03,Jamie Lee
+221,Alana,Moore,alana.moore@northbridgeops.com,Northbridge Ops,Marketing Lead,Lead,2025-03-05,Jamie Lee
+222,Spencer,Reid,spencer.reid@revpoint.ca,RevPoint Solutions,Sales Manager,MQL,2025-03-07,Jamie Lee
+223,Marina,Walsh,marina.walsh@clearwave.io,ClearWave Analytics,Director of Ops,Lead,2025-03-09,Alex Morgan
+224,Shawn,Young,shawn.young@skylinehr.com,Skyline HR,VP HR,SQL,2025-03-11,Alex Morgan
+225,Rebecca,Grant,rebecca.grant@brightpath.ca,BrightPath Systems,Marketing Lead,Lead,2025-03-13,Jordan Smith
+226,Tyler,Moore,tyler.moore@quantumfleet.com,QuantumFleet,Director of Ops,MQL,2025-03-15,Jordan Smith
+227,Angela,Reed,angela.reed@mapletech.ca,MapleTech,Sales Lead,Lead,2025-03-17,Jamie Lee
+228,Corey,Hayes,corey.hayes@everline.io,Everline Software,COO,SQL,2025-03-19,Alex Morgan
+229,Michelle,Clark,michelle.clark@bluepeak.ca,BluePeak Systems,Marketing Manager,Lead,2025-03-21,Jordan Smith
+230,Justin,Moore,justin.moore@signalpath.io,SignalPath,VP Revenue,MQL,2025-03-23,Jamie Lee
+231,Erin,Reid,erin.reid@zenflow.ca,ZenFlow,Operations Manager,Lead,2025-03-25,Jamie Lee
+232,Marcus,Walsh,marcus.walsh@apexlogic.io,ApexLogic,Director of Ops,SQL,2025-03-27,Alex Morgan
+233,Tara,Young,tara.young@brightwave.ca,BrightWave,Marketing Specialist,Lead,2025-03-29,Jordan Smith
+234,Shawn,Grant,shawn.grant@corelytics.com,CoreLytics,VP Revenue,MQL,2025-03-31,Jamie Lee
+235,Isabelle,Moore,isabelle.moore@northpeak.ca,NorthPeak,Sales Lead,Lead,2025-04-02,Alex Morgan
+236,Connor,Reid,connor.reid@revworks.io,RevWorks,Director of Sales,SQL,2025-04-04,Jordan Smith
+237,Naomi,Hayes,naomi.hayes@skylogic.ca,SkyLogic,Marketing Manager,Lead,2025-04-06,Jamie Lee
+238,Brent,Clark,brent.clark@everpath.io,EverPath,COO,MQL,2025-04-08,Alex Morgan
+239,Elena,Moore,elena.moore@mapledata.ca,MapleData,Sales Coordinator,Lead,2025-04-10,Jordan Smith
+240,Caleb,Reid,caleb.reid@signalcore.io,SignalCore,Director of Revenue,SQL,2025-04-12,Jamie Lee
+241,Marissa,Young,marissa.young@northbridgeops.com,Northbridge Ops,Marketing Lead,Lead,2025-04-14,Jamie Lee
+242,Tyson,Walsh,tyson.walsh@revpoint.ca,RevPoint Solutions,VP Sales,MQL,2025-04-16,Jamie Lee
+243,Alexa,Grant,alexa.grant@clearwave.io,ClearWave Analytics,Operations Manager,Lead,2025-04-18,Alex Morgan
+244,Shane,Moore,shane.moore@skylinehr.com,Skyline HR,Director of Ops,SQL,2025-04-20,Alex Morgan
+245,Danielle,Reid,danielle.reid@brightpath.ca,BrightPath Systems,Marketing Specialist,Lead,2025-04-22,Jordan Smith
+246,Colton,Hayes,colton.hayes@quantumfleet.com,QuantumFleet,VP Revenue,MQL,2025-04-24,Jordan Smith
+247,Leah,Clark,leah.clark@mapletech.ca,MapleTech,Sales Manager,Lead,2025-04-26,Jamie Lee
+248,Victor,Moore,victor.moore@everline.io,Everline Software,Director of Ops,SQL,2025-04-28,Alex Morgan
+249,Amber,Reed,amber.reed@bluepeak.ca,BluePeak Systems,Marketing Lead,Lead,2025-04-30,Jordan Smith
+250,Noah,Walsh,noah.walsh@signalpath.io,SignalPath,Sales Coordinator,MQL,2025-05-02,Jamie Lee
