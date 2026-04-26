@@ -1,1 +1,651 @@
-
+deal_id,contact_id,deal_name,deal_stage,amount,created_date,close_date,owner
+1,12,Enterprise RevOps Suite,Prospecting,45000,2024-01-10,,Alex Morgan
+2,3,Analytics Dashboard Upgrade,Qualification,18000,2024-01-12,2024-02-15,Alex Morgan
+3,7,CRM Integration Package,Proposal,22000,2024-01-14,,Jamie Lee
+4,1,Workflow Automation Build,Closed Won,32000,2024-01-16,2024-02-02,Jamie Lee
+5,5,Sales Pipeline Optimization,Negotiation,27000,2024-01-18,,Jordan Smith
+6,9,Data Cleanup & Migration,Prospecting,15000,2024-01-20,,Jordan Smith
+7,4,HR Analytics Suite,Closed Lost,40000,2024-01-22,2024-02-01,Alex Morgan
+8,2,Lead Scoring Model,Qualification,12000,2024-01-24,2024-02-20,Jamie Lee
+9,6,RevOps Quarterly Audit,Proposal,9000,2024-01-26,,Jordan Smith
+10,8,Revenue Forecasting Engine,Negotiation,30000,2024-01-28,,Alex Morgan
+11,11,Marketing Attribution Setup,Prospecting,14000,2024-02-01,,Jamie Lee
+12,13,Sales Enablement Toolkit,Qualification,16000,2024-02-03,2024-03-01,Jordan Smith
+13,15,Customer Journey Mapping,Proposal,11000,2024-02-05,,Alex Morgan
+14,10,Pipeline Health Review,Closed Won,8000,2024-02-07,2024-02-25,Jamie Lee
+15,14,Revenue Insights Dashboard,Negotiation,25000,2024-02-09,,Jamie Lee
+16,16,Operational Efficiency Audit,Prospecting,13000,2024-02-11,,Jordan Smith
+17,18,Marketing Ops Automation,Qualification,21000,2024-02-13,2024-03-10,Alex Morgan
+18,20,Sales Team Performance Suite,Proposal,26000,2024-02-15,,Jamie Lee
+19,17,Lead Routing Optimization,Closed Lost,9000,2024-02-17,2024-03-05,Jamie Lee
+20,19,CRM Data Governance Setup,Negotiation,28000,2024-02-19,,Jordan Smith
+21,21,Sales Playbook Development,Prospecting,15000,2024-02-21,,Jamie Lee
+22,23,Attribution Model Build,Qualification,17000,2024-02-23,2024-03-18,Alex Morgan
+23,22,Marketing Funnel Analysis,Proposal,9000,2024-02-25,,Jamie Lee
+24,24,HR Workflow Automation,Closed Won,31000,2024-02-27,2024-03-12,Alex Morgan
+25,25,Sales Ops Training Program,Negotiation,20000,2024-02-29,,Jordan Smith
+26,26,Quarterly RevOps Audit,Prospecting,14000,2024-03-02,,Jordan Smith
+27,27,CRM Custom Reporting,Qualification,16000,2024-03-04,2024-04-01,Jamie Lee
+28,28,Sales Forecasting Model,Proposal,24000,2024-03-06,,Alex Morgan
+29,29,Data Hygiene Overhaul,Closed Lost,10000,2024-03-08,2024-03-28,Jordan Smith
+30,30,Revenue Engine Build,Negotiation,35000,2024-03-10,,Jamie Lee
+31,31,Marketing Ops Audit,Prospecting,12000,2024-03-12,,Jamie Lee
+32,32,Engineering Workflow Optimization,Qualification,20000,2024-03-14,2024-04-10,Alex Morgan
+33,33,Sales Coaching Program,Proposal,15000,2024-03-16,,Jordan Smith
+34,34,Revenue Insights Dashboard,Closed Won,27000,2024-03-18,2024-04-02,Jamie Lee
+35,35,Customer Segmentation Model,Negotiation,22000,2024-03-20,,Alex Morgan
+36,36,RevOps Infrastructure Setup,Prospecting,30000,2024-03-22,,Jordan Smith
+37,37,Sales Funnel Optimization,Qualification,18000,2024-03-24,2024-04-20,Jamie Lee
+38,38,Revenue Forecasting Engine,Proposal,26000,2024-03-26,,Alex Morgan
+39,39,Marketing Attribution Setup,Closed Lost,14000,2024-03-28,2024-04-15,Jordan Smith
+40,40,Sales Pipeline Optimization,Negotiation,25000,2024-03-30,,Jamie Lee
+41,41,Workflow Automation Build,Prospecting,16000,2024-04-01,,Jamie Lee
+42,42,Lead Scoring Model,Qualification,12000,2024-04-03,2024-04-28,Jamie Lee
+43,43,CRM Integration Package,Proposal,22000,2024-04-05,,Alex Morgan
+44,44,HR Analytics Suite,Closed Won,40000,2024-04-07,2024-04-25,Alex Morgan
+45,45,Sales Enablement Toolkit,Negotiation,20000,2024-04-09,,Jordan Smith
+46,46,Operational Efficiency Audit,Prospecting,13000,2024-04-11,,Jordan Smith
+47,47,Marketing Ops Automation,Qualification,21000,2024-04-13,2024-05-10,Jamie Lee
+48,48,Sales Team Performance Suite,Proposal,26000,2024-04-15,,Alex Morgan
+49,49,Lead Routing Optimization,Closed Lost,9000,2024-04-17,2024-05-05,Jordan Smith
+50,50,CRM Data Governance Setup,Negotiation,28000,2024-04-19,,Jamie Lee
+51,51,Sales Playbook Development,Prospecting,15000,2024-04-21,,Jamie Lee
+52,52,Attribution Model Build,Qualification,17000,2024-04-23,2024-05-18,Alex Morgan
+53,53,Marketing Funnel Analysis,Proposal,9000,2024-04-25,,Jamie Lee
+54,54,HR Workflow Automation,Closed Won,31000,2024-04-27,2024-05-12,Jordan Smith
+55,55,Sales Ops Training Program,Negotiation,20000,2024-04-29,,Jamie Lee
+56,56,Quarterly RevOps Audit,Prospecting,14000,2024-05-01,,Alex Morgan
+57,57,CRM Custom Reporting,Qualification,16000,2024-05-03,2024-06-01,Jordan Smith
+58,58,Sales Forecasting Model,Proposal,24000,2024-05-05,,Jamie Lee
+59,59,Data Hygiene Overhaul,Closed Lost,10000,2024-05-07,2024-05-28,Alex Morgan
+60,60,Revenue Engine Build,Negotiation,35000,2024-05-09,,Jordan Smith
+61,61,Marketing Ops Audit,Prospecting,12000,2024-05-11,,Jamie Lee
+62,62,Engineering Workflow Optimization,Qualification,20000,2024-05-13,2024-06-10,Alex Morgan
+63,63,Sales Coaching Program,Proposal,15000,2024-05-15,,Jamie Lee
+64,64,Revenue Insights Dashboard,Closed Won,27000,2024-05-17,2024-06-02,Jordan Smith
+65,65,Customer Segmentation Model,Negotiation,22000,2024-05-19,,Alex Morgan
+66,66,RevOps Infrastructure Setup,Prospecting,30000,2024-05-21,,Jordan Smith
+67,67,Sales Funnel Optimization,Qualification,18000,2024-05-23,2024-06-20,Jamie Lee
+68,68,Revenue Forecasting Engine,Proposal,26000,2024-05-25,,Alex Morgan
+69,69,Marketing Attribution Setup,Closed Lost,14000,2024-05-27,2024-06-15,Jordan Smith
+70,70,Sales Pipeline Optimization,Negotiation,25000,2024-05-29,,Jamie Lee
+71,71,Workflow Automation Build,Prospecting,16000,2024-05-31,,Jamie Lee
+72,72,Lead Scoring Model,Qualification,12000,2024-06-02,2024-06-28,Jamie Lee
+73,73,CRM Integration Package,Proposal,22000,2024-06-04,,Alex Morgan
+74,74,HR Analytics Suite,Closed Won,40000,2024-06-06,2024-06-25,Jordan Smith
+75,75,Sales Enablement Toolkit,Negotiation,20000,2024-06-08,,Jamie Lee
+76,76,Operational Efficiency Audit,Prospecting,13000,2024-06-10,,Alex Morgan
+77,77,Marketing Ops Automation,Qualification,21000,2024-06-12,2024-07-10,Jordan Smith
+78,78,Sales Team Performance Suite,Proposal,26000,2024-06-14,,Jamie Lee
+79,79,Lead Routing Optimization,Closed Lost,9000,2024-06-16,2024-07-05,Alex Morgan
+80,80,CRM Data Governance Setup,Negotiation,28000,2024-06-18,,Jordan Smith
+81,81,Sales Playbook Development,Prospecting,15000,2024-06-20,,Jamie Lee
+82,82,Attribution Model Build,Qualification,17000,2024-06-22,2024-07-18,Jamie Lee
+83,83,Marketing Funnel Analysis,Proposal,9000,2024-06-24,,Alex Morgan
+84,84,HR Workflow Automation,Closed Won,31000,2024-06-26,2024-07-12,Jordan Smith
+85,85,Sales Ops Training Program,Negotiation,20000,2024-06-28,,Jamie Lee
+86,86,Quarterly RevOps Audit,Prospecting,14000,2024-06-30,,Alex Morgan
+87,87,CRM Custom Reporting,Qualification,16000,2024-07-02,2024-08-01,Jordan Smith
+88,88,Sales Forecasting Model,Proposal,24000,2024-07-04,,Jamie Lee
+89,89,Data Hygiene Overhaul,Closed Lost,10000,2024-07-06,2024-07-28,Alex Morgan
+90,90,Revenue Engine Build,Negotiation,35000,2024-07-08,,Jordan Smith
+91,91,Marketing Ops Audit,Prospecting,12000,2024-07-10,,Jamie Lee
+92,92,Engineering Workflow Optimization,Qualification,20000,2024-07-12,2024-08-10,Alex Morgan
+93,93,Sales Coaching Program,Proposal,15000,2024-07-14,,Jamie Lee
+94,94,Revenue Insights Dashboard,Closed Won,27000,2024-07-16,2024-08-02,Jordan Smith
+95,95,Customer Segmentation Model,Negotiation,22000,2024-07-18,,Alex Morgan
+96,96,RevOps Infrastructure Setup,Prospecting,30000,2024-07-20,,Jordan Smith
+97,97,Sales Funnel Optimization,Qualification,18000,2024-07-22,2024-08-20,Jamie Lee
+98,98,Revenue Forecasting Engine,Proposal,26000,2024-07-24,,Alex Morgan
+99,99,Marketing Attribution Setup,Closed Lost,14000,2024-07-26,2024-08-15,Jordan Smith
+100,100,Sales Pipeline Optimization,Negotiation,25000,2024-07-28,,Jamie Lee
+101,101,Workflow Automation Build,Prospecting,16000,2024-07-30,,Jamie Lee
+102,102,Lead Scoring Model,Qualification,12000,2024-08-01,2024-08-28,Jamie Lee
+103,103,CRM Integration Package,Proposal,22000,2024-08-03,,Alex Morgan
+104,104,HR Analytics Suite,Closed Won,40000,2024-08-05,2024-08-25,Alex Morgan
+105,105,Sales Enablement Toolkit,Negotiation,20000,2024-08-07,,Jordan Smith
+106,106,Operational Efficiency Audit,Prospecting,13000,2024-08-09,,Jordan Smith
+107,107,Marketing Ops Automation,Qualification,21000,2024-08-11,2024-09-10,Jamie Lee
+108,108,Sales Team Performance Suite,Proposal,26000,2024-08-13,,Alex Morgan
+109,109,Lead Routing Optimization,Closed Lost,9000,2024-08-15,2024-09-05,Jordan Smith
+110,110,CRM Data Governance Setup,Negotiation,28000,2024-08-17,,Jamie Lee
+111,111,Sales Playbook Development,Prospecting,15000,2024-08-19,,Jamie Lee
+112,112,Attribution Model Build,Qualification,17000,2024-08-21,2024-09-18,Alex Morgan
+113,113,Marketing Funnel Analysis,Proposal,9000,2024-08-23,,Jamie Lee
+114,114,HR Workflow Automation,Closed Won,31000,2024-08-25,2024-09-12,Jordan Smith
+115,115,Sales Ops Training Program,Negotiation,20000,2024-08-27,,Jamie Lee
+116,116,Quarterly RevOps Audit,Prospecting,14000,2024-08-29,,Alex Morgan
+117,117,CRM Custom Reporting,Qualification,16000,2024-08-31,2024-10-01,Jordan Smith
+118,118,Sales Forecasting Model,Proposal,24000,2024-09-02,,Jamie Lee
+119,119,Data Hygiene Overhaul,Closed Lost,10000,2024-09-04,2024-09-28,Alex Morgan
+120,120,Revenue Engine Build,Negotiation,35000,2024-09-06,,Jordan Smith
+121,121,Marketing Ops Audit,Prospecting,12000,2024-09-08,,Jamie Lee
+122,122,Engineering Workflow Optimization,Qualification,20000,2024-09-10,2024-10-10,Alex Morgan
+123,123,Sales Coaching Program,Proposal,15000,2024-09-12,,Jamie Lee
+124,124,Revenue Insights Dashboard,Closed Won,27000,2024-09-14,2024-10-02,Jordan Smith
+125,125,Customer Segmentation Model,Negotiation,22000,2024-09-16,,Alex Morgan
+126,126,RevOps Infrastructure Setup,Prospecting,30000,2024-09-18,,Jordan Smith
+127,127,Sales Funnel Optimization,Qualification,18000,2024-09-20,2024-10-20,Jamie Lee
+128,128,Revenue Forecasting Engine,Proposal,26000,2024-09-22,,Alex Morgan
+129,129,Marketing Attribution Setup,Closed Lost,14000,2024-09-24,2024-10-15,Jordan Smith
+130,130,Sales Pipeline Optimization,Negotiation,25000,2024-09-26,,Jamie Lee
+131,131,Workflow Automation Build,Prospecting,16000,2024-09-28,,Jamie Lee
+132,132,Lead Scoring Model,Qualification,12000,2024-09-30,2024-10-28,Jamie Lee
+133,133,CRM Integration Package,Proposal,22000,2024-10-02,,Alex Morgan
+134,134,HR Analytics Suite,Closed Won,40000,2024-10-04,2024-10-25,Alex Morgan
+135,135,Sales Enablement Toolkit,Negotiation,20000,2024-10-06,,Jordan Smith
+136,136,Operational Efficiency Audit,Prospecting,13000,2024-10-08,,Jordan Smith
+137,137,Marketing Ops Automation,Qualification,21000,2024-10-10,2024-11-10,Jamie Lee
+138,138,Sales Team Performance Suite,Proposal,26000,2024-10-12,,Alex Morgan
+139,139,Lead Routing Optimization,Closed Lost,9000,2024-10-14,2024-11-05,Jordan Smith
+140,140,CRM Data Governance Setup,Negotiation,28000,2024-10-16,,Jamie Lee
+141,141,Sales Playbook Development,Prospecting,15000,2024-10-18,,Jamie Lee
+142,142,Attribution Model Build,Qualification,17000,2024-10-20,2024-11-18,Alex Morgan
+143,143,Marketing Funnel Analysis,Proposal,9000,2024-10-22,,Jamie Lee
+144,144,HR Workflow Automation,Closed Won,31000,2024-10-24,2024-11-12,Jordan Smith
+145,145,Sales Ops Training Program,Negotiation,20000,2024-10-26,,Jamie Lee
+146,146,Quarterly RevOps Audit,Prospecting,14000,2024-10-28,,Alex Morgan
+147,147,CRM Custom Reporting,Qualification,16000,2024-10-30,2024-12-01,Jordan Smith
+148,148,Sales Forecasting Model,Proposal,24000,2024-11-01,,Jamie Lee
+149,149,Data Hygiene Overhaul,Closed Lost,10000,2024-11-03,2024-11-28,Alex Morgan
+150,150,Revenue Engine Build,Negotiation,35000,2024-11-05,,Jordan Smith
+151,151,Marketing Ops Audit,Prospecting,12000,2024-11-07,,Jamie Lee
+152,152,Engineering Workflow Optimization,Qualification,20000,2024-11-09,2024-12-10,Alex Morgan
+153,153,Sales Coaching Program,Proposal,15000,2024-11-11,,Jamie Lee
+154,154,Revenue Insights Dashboard,Closed Won,27000,2024-11-13,2024-12-02,Jordan Smith
+155,155,Customer Segmentation Model,Negotiation,22000,2024-11-15,,Alex Morgan
+156,156,RevOps Infrastructure Setup,Prospecting,30000,2024-11-17,,Jordan Smith
+157,157,Sales Funnel Optimization,Qualification,18000,2024-11-19,2024-12-20,Jamie Lee
+158,158,Revenue Forecasting Engine,Proposal,26000,2024-11-21,,Alex Morgan
+159,159,Marketing Attribution Setup,Closed Lost,14000,2024-11-23,2024-12-15,Jordan Smith
+160,160,Sales Pipeline Optimization,Negotiation,25000,2024-11-25,,Jamie Lee
+161,161,Workflow Automation Build,Prospecting,16000,2024-11-27,,Jamie Lee
+162,162,Lead Scoring Model,Qualification,12000,2024-11-29,2024-12-28,Jamie Lee
+163,163,CRM Integration Package,Proposal,22000,2024-12-01,,Alex Morgan
+164,164,HR Analytics Suite,Closed Won,40000,2024-12-03,2024-12-25,Alex Morgan
+165,165,Sales Enablement Toolkit,Negotiation,20000,2024-12-05,,Jordan Smith
+166,166,Operational Efficiency Audit,Prospecting,13000,2024-12-07,,Jordan Smith
+167,167,Marketing Ops Automation,Qualification,21000,2024-12-09,2025-01-10,Jamie Lee
+168,168,Sales Team Performance Suite,Proposal,26000,2024-12-11,,Alex Morgan
+169,169,Lead Routing Optimization,Closed Lost,9000,2024-12-13,2025-01-05,Jordan Smith
+170,170,CRM Data Governance Setup,Negotiation,28000,2024-12-15,,Jamie Lee
+171,171,Sales Playbook Development,Prospecting,15000,2024-12-17,,Jamie Lee
+172,172,Attribution Model Build,Qualification,17000,2024-12-19,2025-01-18,Alex Morgan
+173,173,Marketing Funnel Analysis,Proposal,9000,2024-12-21,,Jamie Lee
+174,174,HR Workflow Automation,Closed Won,31000,2024-12-23,2025-01-12,Jordan Smith
+175,175,Sales Ops Training Program,Negotiation,20000,2024-12-25,,Jamie Lee
+176,176,Quarterly RevOps Audit,Prospecting,14000,2024-12-27,,Alex Morgan
+177,177,CRM Custom Reporting,Qualification,16000,2024-12-29,2025-02-01,Jordan Smith
+178,178,Sales Forecasting Model,Proposal,24000,2024-12-31,,Jamie Lee
+179,179,Data Hygiene Overhaul,Closed Lost,10000,2025-01-02,2025-01-28,Alex Morgan
+180,180,Revenue Engine Build,Negotiation,35000,2025-01-04,,Jordan Smith
+181,181,Marketing Ops Audit,Prospecting,12000,2025-01-06,,Jamie Lee
+182,182,Engineering Workflow Optimization,Qualification,20000,2025-01-08,2025-02-10,Alex Morgan
+183,183,Sales Coaching Program,Proposal,15000,2025-01-10,,Jamie Lee
+184,184,Revenue Insights Dashboard,Closed Won,27000,2025-01-12,2025-02-02,Jordan Smith
+185,185,Customer Segmentation Model,Negotiation,22000,2025-01-14,,Alex Morgan
+186,186,RevOps Infrastructure Setup,Prospecting,30000,2025-01-16,,Jordan Smith
+187,187,Sales Funnel Optimization,Qualification,18000,2025-01-18,2025-02-20,Jamie Lee
+188,188,Revenue Forecasting Engine,Proposal,26000,2025-01-20,,Alex Morgan
+189,189,Marketing Attribution Setup,Closed Lost,14000,2025-01-22,2025-02-15,Jordan Smith
+190,190,Sales Pipeline Optimization,Negotiation,25000,2025-01-24,,Jamie Lee
+191,191,Workflow Automation Build,Prospecting,16000,2025-01-26,,Jamie Lee
+192,192,Lead Scoring Model,Qualification,12000,2025-01-28,2025-02-28,Jamie Lee
+193,193,CRM Integration Package,Proposal,22000,2025-01-30,,Alex Morgan
+194,194,HR Analytics Suite,Closed Won,40000,2025-02-01,2025-02-25,Alex Morgan
+195,195,Sales Enablement Toolkit,Negotiation,20000,2025-02-03,,Jordan Smith
+196,196,Operational Efficiency Audit,Prospecting,13000,2025-02-05,,Jordan Smith
+197,197,Marketing Ops Automation,Qualification,21000,2025-02-07,2025-03-10,Jamie Lee
+198,198,Sales Team Performance Suite,Proposal,26000,2025-02-09,,Alex Morgan
+199,199,Lead Routing Optimization,Closed Lost,9000,2025-02-11,2025-03-05,Jordan Smith
+200,200,CRM Data Governance Setup,Negotiation,28000,2025-02-13,,Jamie Lee
+201,201,Sales Playbook Development,Prospecting,15000,2025-02-15,,Jamie Lee
+202,202,Attribution Model Build,Qualification,17000,2025-02-17,2025-03-18,Alex Morgan
+203,203,Marketing Funnel Analysis,Proposal,9000,2025-02-19,,Jamie Lee
+204,204,HR Workflow Automation,Closed Won,31000,2025-02-21,2025-03-12,Jordan Smith
+205,205,Sales Ops Training Program,Negotiation,20000,2025-02-23,,Jamie Lee
+206,206,Quarterly RevOps Audit,Prospecting,14000,2025-02-25,,Alex Morgan
+207,207,CRM Custom Reporting,Qualification,16000,2025-02-27,2025-04-01,Jordan Smith
+208,208,Sales Forecasting Model,Proposal,24000,2025-03-01,,Jamie Lee
+209,209,Data Hygiene Overhaul,Closed Lost,10000,2025-03-03,2025-03-28,Alex Morgan
+210,210,Revenue Engine Build,Negotiation,35000,2025-03-05,,Jordan Smith
+211,211,Marketing Ops Audit,Prospecting,12000,2025-03-07,,Jamie Lee
+212,212,Engineering Workflow Optimization,Qualification,20000,2025-03-09,2025-04-10,Alex Morgan
+213,213,Sales Coaching Program,Proposal,15000,2025-03-11,,Jamie Lee
+214,214,Revenue Insights Dashboard,Closed Won,27000,2025-03-13,2025-04-02,Jordan Smith
+215,215,Customer Segmentation Model,Negotiation,22000,2025-03-15,,Alex Morgan
+216,216,RevOps Infrastructure Setup,Prospecting,30000,2025-03-17,,Jordan Smith
+217,217,Sales Funnel Optimization,Qualification,18000,2025-03-19,2025-04-20,Jamie Lee
+218,218,Revenue Forecasting Engine,Proposal,26000,2025-03-21,,Alex Morgan
+219,219,Marketing Attribution Setup,Closed Lost,14000,2025-03-23,2025-04-15,Jordan Smith
+220,220,Sales Pipeline Optimization,Negotiation,25000,2025-03-25,,Jamie Lee
+221,221,Workflow Automation Build,Prospecting,16000,2025-03-27,,Jamie Lee
+222,222,Lead Scoring Model,Qualification,12000,2025-03-29,2025-04-28,Jamie Lee
+223,223,CRM Integration Package,Proposal,22000,2025-03-31,,Alex Morgan
+224,224,HR Analytics Suite,Closed Won,40000,2025-04-02,2025-04-25,Alex Morgan
+225,225,Sales Enablement Toolkit,Negotiation,20000,2025-04-04,,Jordan Smith
+226,226,Operational Efficiency Audit,Prospecting,13000,2025-04-06,,Jordan Smith
+227,227,Marketing Ops Automation,Qualification,21000,2025-04-08,2025-05-10,Jamie Lee
+228,228,Sales Team Performance Suite,Proposal,26000,2025-04-10,,Alex Morgan
+229,229,Lead Routing Optimization,Closed Lost,9000,2025-04-12,2025-05-05,Jordan Smith
+230,230,CRM Data Governance Setup,Negotiation,28000,2025-04-14,,Jamie Lee
+231,231,Sales Playbook Development,Prospecting,15000,2025-04-16,,Jamie Lee
+232,232,Attribution Model Build,Qualification,17000,2025-04-18,2025-05-18,Alex Morgan
+233,233,Marketing Funnel Analysis,Proposal,9000,2025-04-20,,Jamie Lee
+234,234,HR Workflow Automation,Closed Won,31000,2025-04-22,2025-05-12,Jordan Smith
+235,235,Sales Ops Training Program,Negotiation,20000,2025-04-24,,Jamie Lee
+236,236,Quarterly RevOps Audit,Prospecting,14000,2025-04-26,,Alex Morgan
+237,237,CRM Custom Reporting,Qualification,16000,2025-04-28,2025-06-01,Jordan Smith
+238,238,Sales Forecasting Model,Proposal,24000,2025-04-30,,Jamie Lee
+239,239,Data Hygiene Overhaul,Closed Lost,10000,2025-05-02,2025-05-28,Alex Morgan
+240,240,Revenue Engine Build,Negotiation,35000,2025-05-04,,Jordan Smith
+241,241,Marketing Ops Audit,Prospecting,12000,2025-05-06,,Jamie Lee
+242,242,Engineering Workflow Optimization,Qualification,20000,2025-05-08,2025-06-10,Alex Morgan
+243,243,Sales Coaching Program,Proposal,15000,2025-05-10,,Jamie Lee
+244,244,Revenue Insights Dashboard,Closed Won,27000,2025-05-12,2025-06-02,Jordan Smith
+245,245,Customer Segmentation Model,Negotiation,22000,2025-05-14,,Alex Morgan
+246,246,RevOps Infrastructure Setup,Prospecting,30000,2025-05-16,,Jordan Smith
+247,247,Sales Funnel Optimization,Qualification,18000,2025-05-18,2025-06-20,Jamie Lee
+248,248,Revenue Forecasting Engine,Proposal,26000,2025-05-20,,Alex Morgan
+249,249,Marketing Attribution Setup,Closed Lost,14000,2025-05-22,2025-06-15,Jordan Smith
+250,250,Sales Pipeline Optimization,Negotiation,25000,2025-05-24,,Jamie Lee
+251,1,Workflow Automation Build,Prospecting,16000,2025-05-26,,Jamie Lee
+252,2,Lead Scoring Model,Qualification,12000,2025-05-28,2025-06-28,Jamie Lee
+253,3,CRM Integration Package,Proposal,22000,2025-05-30,,Alex Morgan
+254,4,HR Analytics Suite,Closed Won,40000,2025-06-01,2025-06-25,Alex Morgan
+255,5,Sales Enablement Toolkit,Negotiation,20000,2025-06-03,,Jordan Smith
+256,6,Operational Efficiency Audit,Prospecting,13000,2025-06-05,,Jordan Smith
+257,7,Marketing Ops Automation,Qualification,21000,2025-06-07,2025-07-10,Jamie Lee
+258,8,Sales Team Performance Suite,Proposal,26000,2025-06-09,,Alex Morgan
+259,9,Lead Routing Optimization,Closed Lost,9000,2025-06-11,2025-07-05,Jordan Smith
+260,10,CRM Data Governance Setup,Negotiation,28000,2025-06-13,,Jamie Lee
+261,11,Sales Playbook Development,Prospecting,15000,2025-06-15,,Jamie Lee
+262,12,Attribution Model Build,Qualification,17000,2025-06-17,2025-07-18,Alex Morgan
+263,13,Marketing Funnel Analysis,Proposal,9000,2025-06-19,,Jamie Lee
+264,14,HR Workflow Automation,Closed Won,31000,2025-06-21,2025-07-12,Jordan Smith
+265,15,Sales Ops Training Program,Negotiation,20000,2025-06-23,,Jamie Lee
+266,16,Quarterly RevOps Audit,Prospecting,14000,2025-06-25,,Alex Morgan
+267,17,CRM Custom Reporting,Qualification,16000,2025-06-27,2025-08-01,Jordan Smith
+268,18,Sales Forecasting Model,Proposal,24000,2025-06-29,,Jamie Lee
+269,19,Data Hygiene Overhaul,Closed Lost,10000,2025-07-01,2025-07-28,Alex Morgan
+270,20,Revenue Engine Build,Negotiation,35000,2025-07-03,,Jordan Smith
+271,21,Marketing Ops Audit,Prospecting,12000,2025-07-05,,Jamie Lee
+272,22,Engineering Workflow Optimization,Qualification,20000,2025-07-07,2025-08-10,Alex Morgan
+273,23,Sales Coaching Program,Proposal,15000,2025-07-09,,Jamie Lee
+274,24,Revenue Insights Dashboard,Closed Won,27000,2025-07-11,2025-08-02,Jordan Smith
+275,25,Customer Segmentation Model,Negotiation,22000,2025-07-13,,Alex Morgan
+276,26,RevOps Infrastructure Setup,Prospecting,30000,2025-07-15,,Jordan Smith
+277,27,Sales Funnel Optimization,Qualification,18000,2025-07-17,2025-08-20,Jamie Lee
+278,28,Revenue Forecasting Engine,Proposal,26000,2025-07-19,,Alex Morgan
+279,29,Marketing Attribution Setup,Closed Lost,14000,2025-07-21,2025-08-15,Jordan Smith
+280,30,Sales Pipeline Optimization,Negotiation,25000,2025-07-23,,Jamie Lee
+281,31,Workflow Automation Build,Prospecting,16000,2025-07-25,,Jamie Lee
+282,32,Lead Scoring Model,Qualification,12000,2025-07-27,2025-08-28,Jamie Lee
+283,33,CRM Integration Package,Proposal,22000,2025-07-29,,Alex Morgan
+284,34,HR Analytics Suite,Closed Won,40000,2025-07-31,2025-08-25,Alex Morgan
+285,35,Sales Enablement Toolkit,Negotiation,20000,2025-08-02,,Jordan Smith
+286,36,Operational Efficiency Audit,Prospecting,13000,2025-08-04,,Jordan Smith
+287,37,Marketing Ops Automation,Qualification,21000,2025-08-06,2025-09-10,Jamie Lee
+288,38,Sales Team Performance Suite,Proposal,26000,2025-08-08,,Alex Morgan
+289,39,Lead Routing Optimization,Closed Lost,9000,2025-08-10,2025-09-05,Jordan Smith
+290,40,CRM Data Governance Setup,Negotiation,28000,2025-08-12,,Jamie Lee
+291,41,Sales Playbook Development,Prospecting,15000,2025-08-14,,Jamie Lee
+292,42,Attribution Model Build,Qualification,17000,2025-08-16,2025-09-18,Alex Morgan
+293,43,Marketing Funnel Analysis,Proposal,9000,2025-08-18,,Jamie Lee
+294,44,HR Workflow Automation,Closed Won,31000,2025-08-20,2025-09-12,Jordan Smith
+295,45,Sales Ops Training Program,Negotiation,20000,2025-08-22,,Jamie Lee
+296,46,Quarterly RevOps Audit,Prospecting,14000,2025-08-24,,Alex Morgan
+297,47,CRM Custom Reporting,Qualification,16000,2025-08-26,2025-10-01,Jordan Smith
+298,48,Sales Forecasting Model,Proposal,24000,2025-08-28,,Jamie Lee
+299,49,Data Hygiene Overhaul,Closed Lost,10000,2025-08-30,2025-09-28,Alex Morgan
+300,50,Revenue Engine Build,Negotiation,35000,2025-09-01,,Jordan Smith
+301,51,Marketing Ops Audit,Prospecting,12000,2025-09-03,,Jamie Lee
+302,52,Engineering Workflow Optimization,Qualification,20000,2025-09-05,2025-10-10,Alex Morgan
+303,53,Sales Coaching Program,Proposal,15000,2025-09-07,,Jamie Lee
+304,54,Revenue Insights Dashboard,Closed Won,27000,2025-09-09,2025-10-02,Jordan Smith
+305,55,Customer Segmentation Model,Negotiation,22000,2025-09-11,,Alex Morgan
+306,56,RevOps Infrastructure Setup,Prospecting,30000,2025-09-13,,Jordan Smith
+307,57,Sales Funnel Optimization,Qualification,18000,2025-09-15,2025-10-20,Jamie Lee
+308,58,Revenue Forecasting Engine,Proposal,26000,2025-09-17,,Alex Morgan
+309,59,Marketing Attribution Setup,Closed Lost,14000,2025-09-19,2025-10-15,Jordan Smith
+310,60,Sales Pipeline Optimization,Negotiation,25000,2025-09-21,,Jamie Lee
+311,61,Workflow Automation Build,Prospecting,16000,2025-09-23,,Jamie Lee
+312,62,Lead Scoring Model,Qualification,12000,2025-09-25,2025-10-28,Jamie Lee
+313,63,CRM Integration Package,Proposal,22000,2025-09-27,,Alex Morgan
+314,64,HR Analytics Suite,Closed Won,40000,2025-09-29,2025-10-25,Alex Morgan
+315,65,Sales Enablement Toolkit,Negotiation,20000,2025-10-01,,Jordan Smith
+316,66,Operational Efficiency Audit,Prospecting,13000,2025-10-03,,Jordan Smith
+317,67,Marketing Ops Automation,Qualification,21000,2025-10-05,2025-11-10,Jamie Lee
+318,68,Sales Team Performance Suite,Proposal,26000,2025-10-07,,Alex Morgan
+319,69,Lead Routing Optimization,Closed Lost,9000,2025-10-09,2025-11-05,Jordan Smith
+320,70,CRM Data Governance Setup,Negotiation,28000,2025-10-11,,Jamie Lee
+321,71,Sales Playbook Development,Prospecting,15000,2025-10-13,,Jamie Lee
+322,72,Attribution Model Build,Qualification,17000,2025-10-15,2025-11-18,Alex Morgan
+323,73,Marketing Funnel Analysis,Proposal,9000,2025-10-17,,Jamie Lee
+324,74,HR Workflow Automation,Closed Won,31000,2025-10-19,2025-11-12,Jordan Smith
+325,75,Sales Ops Training Program,Negotiation,20000,2025-10-21,,Jamie Lee
+326,76,Quarterly RevOps Audit,Prospecting,14000,2025-10-23,,Alex Morgan
+327,77,CRM Custom Reporting,Qualification,16000,2025-10-25,2025-12-01,Jordan Smith
+328,78,Sales Forecasting Model,Proposal,24000,2025-10-27,,Jamie Lee
+329,79,Data Hygiene Overhaul,Closed Lost,10000,2025-10-29,2025-11-28,Alex Morgan
+330,80,Revenue Engine Build,Negotiation,35000,2025-10-31,,Jordan Smith
+331,81,Marketing Ops Audit,Prospecting,12000,2025-11-02,,Jamie Lee
+332,82,Engineering Workflow Optimization,Qualification,20000,2025-11-04,2025-12-10,Alex Morgan
+333,83,Sales Coaching Program,Proposal,15000,2025-11-06,,Jamie Lee
+334,84,Revenue Insights Dashboard,Closed Won,27000,2025-11-08,2025-12-02,Jordan Smith
+335,85,Customer Segmentation Model,Negotiation,22000,2025-11-10,,Alex Morgan
+336,86,RevOps Infrastructure Setup,Prospecting,30000,2025-11-12,,Jordan Smith
+337,87,Sales Funnel Optimization,Qualification,18000,2025-11-14,2025-12-20,Jamie Lee
+338,88,Revenue Forecasting Engine,Proposal,26000,2025-11-16,,Alex Morgan
+339,89,Marketing Attribution Setup,Closed Lost,14000,2025-11-18,2025-12-15,Jordan Smith
+340,90,Sales Pipeline Optimization,Negotiation,25000,2025-11-20,,Jamie Lee
+341,91,Workflow Automation Build,Prospecting,16000,2025-11-22,,Jamie Lee
+342,92,Lead Scoring Model,Qualification,12000,2025-11-24,2025-12-28,Jamie Lee
+343,93,CRM Integration Package,Proposal,22000,2025-11-26,,Alex Morgan
+344,94,HR Analytics Suite,Closed Won,40000,2025-11-28,2025-12-25,Alex Morgan
+345,95,Sales Enablement Toolkit,Negotiation,20000,2025-11-30,,Jordan Smith
+346,96,Operational Efficiency Audit,Prospecting,13000,2025-12-02,,Jordan Smith
+347,97,Marketing Ops Automation,Qualification,21000,2025-12-04,2026-01-10,Jamie Lee
+348,98,Sales Team Performance Suite,Proposal,26000,2025-12-06,,Alex Morgan
+349,99,Lead Routing Optimization,Closed Lost,9000,2025-12-08,2026-01-05,Jordan Smith
+350,100,CRM Data Governance Setup,Negotiation,28000,2025-12-10,,Jamie Lee
+351,101,Sales Enablement Toolkit,Negotiation,20000,2025-12-12,,Jordan Smith
+352,102,Operational Efficiency Audit,Prospecting,13000,2025-12-14,,Jordan Smith
+353,103,Marketing Ops Automation,Qualification,21000,2025-12-16,2026-01-18,Jamie Lee
+354,104,Sales Team Performance Suite,Proposal,26000,2025-12-18,,Alex Morgan
+355,105,Lead Routing Optimization,Closed Lost,9000,2025-12-20,2026-01-12,Jordan Smith
+356,106,CRM Data Governance Setup,Negotiation,28000,2025-12-22,,Jamie Lee
+357,107,Sales Playbook Development,Prospecting,15000,2025-12-24,,Jamie Lee
+358,108,Attribution Model Build,Qualification,17000,2025-12-26,2026-01-28,Alex Morgan
+359,109,Marketing Funnel Analysis,Proposal,9000,2025-12-28,,Jamie Lee
+360,110,HR Workflow Automation,Closed Won,31000,2025-12-30,2026-01-15,Jordan Smith
+361,111,Sales Ops Training Program,Negotiation,20000,2026-01-01,,Jamie Lee
+362,112,Quarterly RevOps Audit,Prospecting,14000,2026-01-03,,Alex Morgan
+363,113,CRM Custom Reporting,Qualification,16000,2026-01-05,2026-02-10,Jordan Smith
+364,114,Sales Forecasting Model,Proposal,24000,2026-01-07,,Jamie Lee
+365,115,Data Hygiene Overhaul,Closed Lost,10000,2026-01-09,2026-02-05,Alex Morgan
+366,116,Revenue Engine Build,Negotiation,35000,2026-01-11,,Jordan Smith
+367,117,Marketing Ops Audit,Prospecting,12000,2026-01-13,,Jamie Lee
+368,118,Engineering Workflow Optimization,Qualification,20000,2026-01-15,2026-02-20,Alex Morgan
+369,119,Sales Coaching Program,Proposal,15000,2026-01-17,,Jamie Lee
+370,120,Revenue Insights Dashboard,Closed Won,27000,2026-01-19,2026-02-12,Jordan Smith
+371,121,Customer Segmentation Model,Negotiation,22000,2026-01-21,,Alex Morgan
+372,122,RevOps Infrastructure Setup,Prospecting,30000,2026-01-23,,Jordan Smith
+373,123,Sales Funnel Optimization,Qualification,18000,2026-01-25,2026-02-28,Jamie Lee
+374,124,Revenue Forecasting Engine,Proposal,26000,2026-01-27,,Alex Morgan
+375,125,Marketing Attribution Setup,Closed Lost,14000,2026-01-29,2026-03-01,Jordan Smith
+376,126,Sales Pipeline Optimization,Negotiation,25000,2026-01-31,,Jamie Lee
+377,127,Workflow Automation Build,Prospecting,16000,2026-02-02,,Jamie Lee
+378,128,Lead Scoring Model,Qualification,12000,2026-02-04,2026-03-05,Jamie Lee
+379,129,CRM Integration Package,Proposal,22000,2026-02-06,,Alex Morgan
+380,130,HR Analytics Suite,Closed Won,40000,2026-02-08,2026-03-01,Alex Morgan
+381,131,Sales Enablement Toolkit,Negotiation,20000,2026-02-10,,Jordan Smith
+382,132,Operational Efficiency Audit,Prospecting,13000,2026-02-12,,Jordan Smith
+383,133,Marketing Ops Automation,Qualification,21000,2026-02-14,2026-03-18,Jamie Lee
+384,134,Sales Team Performance Suite,Proposal,26000,2026-02-16,,Alex Morgan
+385,135,Lead Routing Optimization,Closed Lost,9000,2026-02-18,2026-03-10,Jordan Smith
+386,136,CRM Data Governance Setup,Negotiation,28000,2026-02-20,,Jamie Lee
+387,137,Sales Playbook Development,Prospecting,15000,2026-02-22,,Jamie Lee
+388,138,Attribution Model Build,Qualification,17000,2026-02-24,2026-03-28,Alex Morgan
+389,139,Marketing Funnel Analysis,Proposal,9000,2026-02-26,,Jamie Lee
+390,140,HR Workflow Automation,Closed Won,31000,2026-02-28,2026-03-15,Jordan Smith
+391,141,Sales Ops Training Program,Negotiation,20000,2026-03-02,,Jamie Lee
+392,142,Quarterly RevOps Audit,Prospecting,14000,2026-03-04,,Alex Morgan
+393,143,CRM Custom Reporting,Qualification,16000,2026-03-06,2026-04-10,Jordan Smith
+394,144,Sales Forecasting Model,Proposal,24000,2026-03-08,,Jamie Lee
+395,145,Data Hygiene Overhaul,Closed Lost,10000,2026-03-10,2026-04-05,Alex Morgan
+396,146,Revenue Engine Build,Negotiation,35000,2026-03-12,,Jordan Smith
+397,147,Marketing Ops Audit,Prospecting,12000,2026-03-14,,Jamie Lee
+398,148,Engineering Workflow Optimization,Qualification,20000,2026-03-16,2026-04-20,Alex Morgan
+399,149,Sales Coaching Program,Proposal,15000,2026-03-18,,Jamie Lee
+400,150,Revenue Insights Dashboard,Closed Won,27000,2026-03-20,2026-04-12,Jordan Smith
+401,151,Customer Segmentation Model,Negotiation,22000,2026-03-22,,Alex Morgan
+402,152,RevOps Infrastructure Setup,Prospecting,30000,2026-03-24,,Jordan Smith
+403,153,Sales Funnel Optimization,Qualification,18000,2026-03-26,2026-04-28,Jamie Lee
+404,154,Revenue Forecasting Engine,Proposal,26000,2026-03-28,,Alex Morgan
+405,155,Marketing Attribution Setup,Closed Lost,14000,2026-03-30,2026-05-01,Jordan Smith
+406,156,Sales Pipeline Optimization,Negotiation,25000,2026-04-01,,Jamie Lee
+407,157,Workflow Automation Build,Prospecting,16000,2026-04-03,,Jamie Lee
+408,158,Lead Scoring Model,Qualification,12000,2026-04-05,2026-05-05,Jamie Lee
+409,159,CRM Integration Package,Proposal,22000,2026-04-07,,Alex Morgan
+410,160,HR Analytics Suite,Closed Won,40000,2026-04-09,2026-05-01,Alex Morgan
+411,161,Sales Enablement Toolkit,Negotiation,20000,2026-04-11,,Jordan Smith
+412,162,Operational Efficiency Audit,Prospecting,13000,2026-04-13,,Jordan Smith
+413,163,Marketing Ops Automation,Qualification,21000,2026-04-15,2026-05-18,Jamie Lee
+414,164,Sales Team Performance Suite,Proposal,26000,2026-04-17,,Alex Morgan
+415,165,Lead Routing Optimization,Closed Lost,9000,2026-04-19,2026-05-10,Jordan Smith
+416,166,CRM Data Governance Setup,Negotiation,28000,2026-04-21,,Jamie Lee
+417,167,Sales Playbook Development,Prospecting,15000,2026-04-23,,Jamie Lee
+418,168,Attribution Model Build,Qualification,17000,2026-04-25,2026-05-28,Alex Morgan
+419,169,Marketing Funnel Analysis,Proposal,9000,2026-04-27,,Jamie Lee
+420,170,HR Workflow Automation,Closed Won,31000,2026-04-29,2026-06-01,Jordan Smith
+421,171,Sales Ops Training Program,Negotiation,20000,2026-05-01,,Jamie Lee
+422,172,Quarterly RevOps Audit,Prospecting,14000,2026-05-03,,Alex Morgan
+423,173,CRM Custom Reporting,Qualification,16000,2026-05-05,2026-06-10,Jordan Smith
+424,174,Sales Forecasting Model,Proposal,24000,2026-05-07,,Jamie Lee
+425,175,Data Hygiene Overhaul,Closed Lost,10000,2026-05-09,2026-06-05,Alex Morgan
+426,176,Revenue Engine Build,Negotiation,35000,2026-05-11,,Jordan Smith
+427,177,Marketing Ops Audit,Prospecting,12000,2026-05-13,,Jamie Lee
+428,178,Engineering Workflow Optimization,Qualification,20000,2026-05-15,2026-06-20,Alex Morgan
+429,179,Sales Coaching Program,Proposal,15000,2026-05-17,,Jamie Lee
+430,180,Revenue Insights Dashboard,Closed Won,27000,2026-05-19,2026-06-12,Jordan Smith
+431,181,Customer Segmentation Model,Negotiation,22000,2026-05-21,,Alex Morgan
+432,182,RevOps Infrastructure Setup,Prospecting,30000,2026-05-23,,Jordan Smith
+433,183,Sales Funnel Optimization,Qualification,18000,2026-05-25,2026-06-28,Jamie Lee
+434,184,Revenue Forecasting Engine,Proposal,26000,2026-05-27,,Alex Morgan
+435,185,Marketing Attribution Setup,Closed Lost,14000,2026-05-29,2026-07-01,Jordan Smith
+436,186,Sales Pipeline Optimization,Negotiation,25000,2026-05-31,,Jamie Lee
+437,187,Workflow Automation Build,Prospecting,16000,2026-06-02,,Jamie Lee
+438,188,Lead Scoring Model,Qualification,12000,2026-06-04,2026-07-05,Jamie Lee
+439,189,CRM Integration Package,Proposal,22000,2026-06-06,,Alex Morgan
+440,190,HR Analytics Suite,Closed Won,40000,2026-06-08,2026-07-01,Alex Morgan
+441,191,Sales Enablement Toolkit,Negotiation,20000,2026-06-10,,Jordan Smith
+442,192,Operational Efficiency Audit,Prospecting,13000,2026-06-12,,Jordan Smith
+443,193,Marketing Ops Automation,Qualification,21000,2026-06-14,2026-07-18,Jamie Lee
+444,194,Sales Team Performance Suite,Proposal,26000,2026-06-16,,Alex Morgan
+445,195,Lead Routing Optimization,Closed Lost,9000,2026-06-18,2026-07-10,Jordan Smith
+446,196,CRM Data Governance Setup,Negotiation,28000,2026-06-20,,Jamie Lee
+447,197,Sales Playbook Development,Prospecting,15000,2026-06-22,,Jamie Lee
+448,198,Attribution Model Build,Qualification,17000,2026-06-24,2026-07-28,Alex Morgan
+449,199,Marketing Funnel Analysis,Proposal,9000,2026-06-26,,Jamie Lee
+450,200,HR Workflow Automation,Closed Won,31000,2026-06-28,2026-07-15,Jordan Smith
+451,1,Sales Ops Training Program,Negotiation,20000,2026-06-30,,Jamie Lee
+452,2,Quarterly RevOps Audit,Prospecting,14000,2026-07-02,,Alex Morgan
+453,3,CRM Custom Reporting,Qualification,16000,2026-07-04,2026-08-10,Jordan Smith
+454,4,Sales Forecasting Model,Proposal,24000,2026-07-06,,Jamie Lee
+455,5,Data Hygiene Overhaul,Closed Lost,10000,2026-07-08,2026-08-05,Alex Morgan
+456,6,Revenue Engine Build,Negotiation,35000,2026-07-10,,Jordan Smith
+457,7,Marketing Ops Audit,Prospecting,12000,2026-07-12,,Jamie Lee
+458,8,Engineering Workflow Optimization,Qualification,20000,2026-07-14,2026-08-20,Alex Morgan
+459,9,Sales Coaching Program,Proposal,15000,2026-07-16,,Jamie Lee
+460,10,Revenue Insights Dashboard,Closed Won,27000,2026-07-18,2026-08-12,Jordan Smith
+461,11,Customer Segmentation Model,Negotiation,22000,2026-07-20,,Alex Morgan
+462,12,RevOps Infrastructure Setup,Prospecting,30000,2026-07-22,,Jordan Smith
+463,13,Sales Funnel Optimization,Qualification,18000,2026-07-24,2026-08-28,Jamie Lee
+464,14,Revenue Forecasting Engine,Proposal,26000,2026-07-26,,Alex Morgan
+465,15,Marketing Attribution Setup,Closed Lost,14000,2026-07-28,2026-09-01,Jordan Smith
+466,16,Sales Pipeline Optimization,Negotiation,25000,2026-07-30,,Jamie Lee
+467,17,Workflow Automation Build,Prospecting,16000,2026-08-01,,Jamie Lee
+468,18,Lead Scoring Model,Qualification,12000,2026-08-03,2026-09-05,Jamie Lee
+469,19,CRM Integration Package,Proposal,22000,2026-08-05,,Alex Morgan
+470,20,HR Analytics Suite,Closed Won,40000,2026-08-07,2026-09-01,Alex Morgan
+471,21,Sales Enablement Toolkit,Negotiation,20000,2026-08-09,,Jordan Smith
+472,22,Operational Efficiency Audit,Prospecting,13000,2026-08-11,,Jordan Smith
+473,23,Marketing Ops Automation,Qualification,21000,2026-08-13,2026-09-18,Jamie Lee
+474,24,Sales Team Performance Suite,Proposal,26000,2026-08-15,,Alex Morgan
+475,25,Lead Routing Optimization,Closed Lost,9000,2026-08-17,2026-09-10,Jordan Smith
+476,26,CRM Data Governance Setup,Negotiation,28000,2026-08-19,,Jamie Lee
+477,27,Sales Playbook Development,Prospecting,15000,2026-08-21,,Jamie Lee
+478,28,Attribution Model Build,Qualification,17000,2026-08-23,2026-09-28,Alex Morgan
+479,29,Marketing Funnel Analysis,Proposal,9000,2026-08-25,,Jamie Lee
+480,30,HR Workflow Automation,Closed Won,31000,2026-08-27,2026-09-15,Jordan Smith
+481,31,Sales Ops Training Program,Negotiation,20000,2026-08-29,,Jamie Lee
+482,32,Quarterly RevOps Audit,Prospecting,14000,2026-08-31,,Alex Morgan
+483,33,CRM Custom Reporting,Qualification,16000,2026-09-02,2026-10-10,Jordan Smith
+484,34,Sales Forecasting Model,Proposal,24000,2026-09-04,,Jamie Lee
+485,35,Data Hygiene Overhaul,Closed Lost,10000,2026-09-06,2026-10-05,Alex Morgan
+486,36,Revenue Engine Build,Negotiation,35000,2026-09-08,,Jordan Smith
+487,37,Marketing Ops Audit,Prospecting,12000,2026-09-10,,Jamie Lee
+488,38,Engineering Workflow Optimization,Qualification,20000,2026-09-12,2026-10-20,Alex Morgan
+489,39,Sales Coaching Program,Proposal,15000,2026-09-14,,Jamie Lee
+490,40,Revenue Insights Dashboard,Closed Won,27000,2026-09-16,2026-10-12,Jordan Smith
+491,41,Customer Segmentation Model,Negotiation,22000,2026-09-18,,Alex Morgan
+492,42,RevOps Infrastructure Setup,Prospecting,30000,2026-09-20,,Jordan Smith
+493,43,Sales Funnel Optimization,Qualification,18000,2026-09-22,2026-10-28,Jamie Lee
+494,44,Revenue Forecasting Engine,Proposal,26000,2026-09-24,,Alex Morgan
+495,45,Marketing Attribution Setup,Closed Lost,14000,2026-09-26,2026-11-01,Jordan Smith
+496,46,Sales Pipeline Optimization,Negotiation,25000,2026-09-28,,Jamie Lee
+497,47,Workflow Automation Build,Prospecting,16000,2026-09-30,,Jamie Lee
+498,48,Lead Scoring Model,Qualification,12000,2026-10-02,2026-11-05,Jamie Lee
+499,49,CRM Integration Package,Proposal,22000,2026-10-04,,Alex Morgan
+500,50,HR Analytics Suite,Closed Won,40000,2026-10-06,2026-11-01,Alex Morgan
+501,201,Revenue Forecasting Engine,Proposal,26000,2026-06-30,,Alex Morgan
+502,202,Marketing Attribution Setup,Closed Lost,14000,2026-07-02,2026-08-01,Jordan Smith
+503,203,Sales Pipeline Optimization,Negotiation,25000,2026-07-04,,Jamie Lee
+504,204,Workflow Automation Build,Prospecting,16000,2026-07-06,,Jamie Lee
+505,205,Lead Scoring Model,Qualification,12000,2026-07-08,2026-08-05,Jamie Lee
+506,206,CRM Integration Package,Proposal,22000,2026-07-10,,Alex Morgan
+507,207,HR Analytics Suite,Closed Won,40000,2026-07-12,2026-08-01,Alex Morgan
+508,208,Sales Enablement Toolkit,Negotiation,20000,2026-07-14,,Jordan Smith
+509,209,Operational Efficiency Audit,Prospecting,13000,2026-07-16,,Jordan Smith
+510,210,Marketing Ops Automation,Qualification,21000,2026-07-18,2026-08-20,Jamie Lee
+511,211,Sales Team Performance Suite,Proposal,26000,2026-07-20,,Alex Morgan
+512,212,Lead Routing Optimization,Closed Lost,9000,2026-07-22,2026-08-15,Jordan Smith
+513,213,CRM Data Governance Setup,Negotiation,28000,2026-07-24,,Jamie Lee
+514,214,Sales Playbook Development,Prospecting,15000,2026-07-26,,Jamie Lee
+515,215,Attribution Model Build,Qualification,17000,2026-07-28,2026-08-28,Alex Morgan
+516,216,Marketing Funnel Analysis,Proposal,9000,2026-07-30,,Jamie Lee
+517,217,HR Workflow Automation,Closed Won,31000,2026-08-01,2026-08-20,Jordan Smith
+518,218,Sales Ops Training Program,Negotiation,20000,2026-08-03,,Jamie Lee
+519,219,Quarterly RevOps Audit,Prospecting,14000,2026-08-05,,Alex Morgan
+520,220,CRM Custom Reporting,Qualification,16000,2026-08-07,2026-09-10,Jordan Smith
+521,221,Sales Forecasting Model,Proposal,24000,2026-08-09,,Jamie Lee
+522,222,Data Hygiene Overhaul,Closed Lost,10000,2026-08-11,2026-09-05,Alex Morgan
+523,223,Revenue Engine Build,Negotiation,35000,2026-08-13,,Jordan Smith
+524,224,Marketing Ops Audit,Prospecting,12000,2026-08-15,,Jamie Lee
+525,225,Engineering Workflow Optimization,Qualification,20000,2026-08-17,2026-09-20,Alex Morgan
+526,226,Sales Coaching Program,Proposal,15000,2026-08-19,,Jamie Lee
+527,227,Revenue Insights Dashboard,Closed Won,27000,2026-08-21,2026-09-12,Jordan Smith
+528,228,Customer Segmentation Model,Negotiation,22000,2026-08-23,,Alex Morgan
+529,229,RevOps Infrastructure Setup,Prospecting,30000,2026-08-25,,Jordan Smith
+530,230,Sales Funnel Optimization,Qualification,18000,2026-08-27,2026-09-28,Jamie Lee
+531,231,Revenue Forecasting Engine,Proposal,26000,2026-08-29,,Alex Morgan
+532,232,Marketing Attribution Setup,Closed Lost,14000,2026-08-31,2026-10-01,Jordan Smith
+533,233,Sales Pipeline Optimization,Negotiation,25000,2026-09-02,,Jamie Lee
+534,234,Workflow Automation Build,Prospecting,16000,2026-09-04,,Jamie Lee
+535,235,Lead Scoring Model,Qualification,12000,2026-09-06,2026-10-05,Jamie Lee
+536,236,CRM Integration Package,Proposal,22000,2026-09-08,,Alex Morgan
+537,237,HR Analytics Suite,Closed Won,40000,2026-09-10,2026-10-01,Alex Morgan
+538,238,Sales Enablement Toolkit,Negotiation,20000,2026-09-12,,Jordan Smith
+539,239,Operational Efficiency Audit,Prospecting,13000,2026-09-14,,Jordan Smith
+540,240,Marketing Ops Automation,Qualification,21000,2026-09-16,2026-10-18,Jamie Lee
+541,241,Sales Team Performance Suite,Proposal,26000,2026-09-18,,Alex Morgan
+542,242,Lead Routing Optimization,Closed Lost,9000,2026-09-20,2026-10-15,Jordan Smith
+543,243,CRM Data Governance Setup,Negotiation,28000,2026-09-22,,Jamie Lee
+544,244,Sales Playbook Development,Prospecting,15000,2026-09-24,,Jamie Lee
+545,245,Attribution Model Build,Qualification,17000,2026-09-26,2026-10-28,Alex Morgan
+546,246,Marketing Funnel Analysis,Proposal,9000,2026-09-28,,Jamie Lee
+547,247,HR Workflow Automation,Closed Won,31000,2026-09-30,2026-10-20,Jordan Smith
+548,248,Sales Ops Training Program,Negotiation,20000,2026-10-02,,Jamie Lee
+549,249,Quarterly RevOps Audit,Prospecting,14000,2026-10-04,,Alex Morgan
+550,250,CRM Custom Reporting,Qualification,16000,2026-10-06,2026-11-10,Jordan Smith
+551,1,Sales Forecasting Model,Proposal,24000,2026-10-08,,Jamie Lee
+552,2,Data Hygiene Overhaul,Closed Lost,10000,2026-10-10,2026-11-05,Alex Morgan
+553,3,Revenue Engine Build,Negotiation,35000,2026-10-12,,Jordan Smith
+554,4,Marketing Ops Audit,Prospecting,12000,2026-10-14,,Jamie Lee
+555,5,Engineering Workflow Optimization,Qualification,20000,2026-10-16,2026-11-20,Alex Morgan
+556,6,Sales Coaching Program,Proposal,15000,2026-10-18,,Jamie Lee
+557,7,Revenue Insights Dashboard,Closed Won,27000,2026-10-20,2026-11-12,Jordan Smith
+558,8,Customer Segmentation Model,Negotiation,22000,2026-10-22,,Alex Morgan
+559,9,RevOps Infrastructure Setup,Prospecting,30000,2026-10-24,,Jordan Smith
+560,10,Sales Funnel Optimization,Qualification,18000,2026-10-26,2026-11-28,Jamie Lee
+561,11,Revenue Forecasting Engine,Proposal,26000,2026-10-28,,Alex Morgan
+562,12,Marketing Attribution Setup,Closed Lost,14000,2026-10-30,2026-12-01,Jordan Smith
+563,13,Sales Pipeline Optimization,Negotiation,25000,2026-11-01,,Jamie Lee
+564,14,Workflow Automation Build,Prospecting,16000,2026-11-03,,Jamie Lee
+565,15,Lead Scoring Model,Qualification,12000,2026-11-05,2026-12-05,Jamie Lee
+566,16,CRM Integration Package,Proposal,22000,2026-11-07,,Alex Morgan
+567,17,HR Analytics Suite,Closed Won,40000,2026-11-09,2026-12-01,Alex Morgan
+568,18,Sales Enablement Toolkit,Negotiation,20000,2026-11-11,,Jordan Smith
+569,19,Operational Efficiency Audit,Prospecting,13000,2026-11-13,,Jordan Smith
+570,20,Marketing Ops Automation,Qualification,21000,2026-11-15,2026-12-18,Jamie Lee
+571,21,Sales Team Performance Suite,Proposal,26000,2026-11-17,,Alex Morgan
+572,22,Lead Routing Optimization,Closed Lost,9000,2026-11-19,2026-12-15,Jordan Smith
+573,23,CRM Data Governance Setup,Negotiation,28000,2026-11-21,,Jamie Lee
+574,24,Sales Playbook Development,Prospecting,15000,2026-11-23,,Jamie Lee
+575,25,Attribution Model Build,Qualification,17000,2026-11-25,2026-12-28,Alex Morgan
+576,26,Marketing Funnel Analysis,Proposal,9000,2026-11-27,,Jamie Lee
+577,27,HR Workflow Automation,Closed Won,31000,2026-11-29,2026-12-20,Jordan Smith
+578,28,Sales Ops Training Program,Negotiation,20000,2026-12-01,,Jamie Lee
+579,29,Quarterly RevOps Audit,Prospecting,14000,2026-12-03,,Alex Morgan
+580,30,CRM Custom Reporting,Qualification,16000,2026-12-05,2027-01-10,Jordan Smith
+581,31,Sales Forecasting Model,Proposal,24000,2026-12-07,,Jamie Lee
+582,32,Data Hygiene Overhaul,Closed Lost,10000,2026-12-09,2027-01-05,Alex Morgan
+583,33,Revenue Engine Build,Negotiation,35000,2026-12-11,,Jordan Smith
+584,34,Marketing Ops Audit,Prospecting,12000,2026-12-13,,Jamie Lee
+585,35,Engineering Workflow Optimization,Qualification,20000,2026-12-15,2027-01-20,Alex Morgan
+586,36,Sales Coaching Program,Proposal,15000,2026-12-17,,Jamie Lee
+587,37,Revenue Insights Dashboard,Closed Won,27000,2026-12-19,2027-01-12,Jordan Smith
+588,38,Customer Segmentation Model,Negotiation,22000,2026-12-21,,Alex Morgan
+589,39,RevOps Infrastructure Setup,Prospecting,30000,2026-12-23,,Jordan Smith
+590,40,Sales Funnel Optimization,Qualification,18000,2026-12-25,2027-01-28,Jamie Lee
+591,41,Revenue Forecasting Engine,Proposal,26000,2026-12-27,,Alex Morgan
+592,42,Marketing Attribution Setup,Closed Lost,14000,2026-12-29,2027-02-01,Jordan Smith
+593,43,Sales Pipeline Optimization,Negotiation,25000,2026-12-31,,Jamie Lee
+594,44,Workflow Automation Build,Prospecting,16000,2027-01-02,,Jamie Lee
+595,45,Lead Scoring Model,Qualification,12000,2027-01-04,2027-02-05,Jamie Lee
+596,46,CRM Integration Package,Proposal,22000,2027-01-06,,Alex Morgan
+597,47,HR Analytics Suite,Closed Won,40000,2027-01-08,2027-02-01,Alex Morgan
+598,48,Sales Enablement Toolkit,Negotiation,20000,2027-01-10,,Jordan Smith
+599,49,Operational Efficiency Audit,Prospecting,13000,2027-01-12,,Jordan Smith
+600,50,Marketing Ops Automation,Qualification,21000,2027-01-14,2027-02-18,Jamie Lee
+601,51,Sales Team Performance Suite,Proposal,26000,2027-01-16,,Alex Morgan
+602,52,Lead Routing Optimization,Closed Lost,9000,2027-01-18,2027-02-15,Jordan Smith
+603,53,CRM Data Governance Setup,Negotiation,28000,2027-01-20,,Jamie Lee
+604,54,Sales Playbook Development,Prospecting,15000,2027-01-22,,Jamie Lee
+605,55,Attribution Model Build,Qualification,17000,2027-01-24,2027-02-28,Alex Morgan
+606,56,Marketing Funnel Analysis,Proposal,9000,2027-01-26,,Jamie Lee
+607,57,HR Workflow Automation,Closed Won,31000,2027-01-28,2027-02-20,Jordan Smith
+608,58,Sales Ops Training Program,Negotiation,20000,2027-01-30,,Jamie Lee
+609,59,Quarterly RevOps Audit,Prospecting,14000,2027-02-01,,Alex Morgan
+610,60,CRM Custom Reporting,Qualification,16000,2027-02-03,2027-03-10,Jordan Smith
+611,61,Sales Forecasting Model,Proposal,24000,2027-02-05,,Jamie Lee
+612,62,Data Hygiene Overhaul,Closed Lost,10000,2027-02-07,2027-03-05,Alex Morgan
+613,63,Revenue Engine Build,Negotiation,35000,2027-02-09,,Jordan Smith
+614,64,Marketing Ops Audit,Prospecting,12000,2027-02-11,,Jamie Lee
+615,65,Engineering Workflow Optimization,Qualification,20000,2027-02-13,2027-03-20,Alex Morgan
+616,66,Sales Coaching Program,Proposal,15000,2027-02-15,,Jamie Lee
+617,67,Revenue Insights Dashboard,Closed Won,27000,2027-02-17,2027-03-12,Jordan Smith
+618,68,Customer Segmentation Model,Negotiation,22000,2027-02-19,,Alex Morgan
+619,69,RevOps Infrastructure Setup,Prospecting,30000,2027-02-21,,Jordan Smith
+620,70,Sales Funnel Optimization,Qualification,18000,2027-02-23,2027-03-28,Jamie Lee
+621,71,Revenue Forecasting Engine,Proposal,26000,2027-02-25,,Alex Morgan
+622,72,Marketing Attribution Setup,Closed Lost,14000,2027-02-27,2027-04-01,Jordan Smith
+623,73,Sales Pipeline Optimization,Negotiation,25000,2027-03-01,,Jamie Lee
+624,74,Workflow Automation Build,Prospecting,16000,2027-03-03,,Jamie Lee
+625,75,Lead Scoring Model,Qualification,12000,2027-03-05,2027-04-05,Jamie Lee
+626,76,CRM Integration Package,Proposal,22000,2027-03-07,,Alex Morgan
+627,77,HR Analytics Suite,Closed Won,40000,2027-03-09,2027-04-01,Alex Morgan
+628,78,Sales Enablement Toolkit,Negotiation,20000,2027-03-11,,Jordan Smith
+629,79,Operational Efficiency Audit,Prospecting,13000,2027-03-13,,Jordan Smith
+630,80,Marketing Ops Automation,Qualification,21000,2027-03-15,2027-04-18,Jamie Lee
+631,81,Sales Team Performance Suite,Proposal,26000,2027-03-17,,Alex Morgan
+632,82,Lead Routing Optimization,Closed Lost,9000,2027-03-19,2027-04-15,Jordan Smith
+633,83,CRM Data Governance Setup,Negotiation,28000,2027-03-21,,Jamie Lee
+634,84,Sales Playbook Development,Prospecting,15000,2027-03-23,,Jamie Lee
+635,85,Attribution Model Build,Qualification,17000,2027-03-25,2027-04-28,Alex Morgan
+636,86,Marketing Funnel Analysis,Proposal,9000,2027-03-27,,Jamie Lee
+637,87,HR Workflow Automation,Closed Won,31000,2027-03-29,2027-04-20,Jordan Smith
+638,88,Sales Ops Training Program,Negotiation,20000,2027-03-31,,Jamie Lee
+639,89,Quarterly RevOps Audit,Prospecting,14000,2027-04-02,,Alex Morgan
+640,90,CRM Custom Reporting,Qualification,16000,2027-04-04,2027-05-10,Jordan Smith
+641,91,Sales Forecasting Model,Proposal,24000,2027-04-06,,Jamie Lee
+642,92,Data Hygiene Overhaul,Closed Lost,10000,2027-04-08,2027-05-05,Alex Morgan
+643,93,Revenue Engine Build,Negotiation,35000,2027-04-10,,Jordan Smith
+644,94,Marketing Ops Audit,Prospecting,12000,2027-04-12,,Jamie Lee
+645,95,Engineering Workflow Optimization,Qualification,20000,2027-04-14,2027-05-20,Alex Morgan
+646,96,Sales Coaching Program,Proposal,15000,2027-04-16,,Jamie Lee
+647,97,Revenue Insights Dashboard,Closed Won,27000,2027-04-18,2027-05-12,Jordan Smith
+648,98,Customer Segmentation Model,Negotiation,22000,2027-04-20,,Alex Morgan
+649,99,RevOps Infrastructure Setup,Prospecting,30000,2027-04-22,,Jordan Smith
+650,100,Sales Funnel Optimization,Qualification,18000,2027-04-24,2027-05-28,Jamie Lee

@@ -1,1 +1,651 @@
-
+deal_id,contact_id,deal_name,deal_stage,amount,created_date_x,close_date,owner_x,first_name,last_name,email,company,job_title,lifecycle_stage,created_date_y,owner_y,probability,deal_value,weighted_value
+1,12,Enterprise RevOps Suite,Prospecting,45000,2024-01-10,,Alex Morgan,Kevin,Brooks,kevin.brooks@apexlogic.io,ApexLogic,CTO,SQL,2024-01-08,Alex Morgan,0.1,45000,4500.0
+2,3,Analytics Dashboard Upgrade,Qualification,18000,2024-01-12,2024-02-15,Alex Morgan,Sarah,Patel,sarah.patel@clearwave.io,ClearWave Analytics,Marketing Manager,Lead,2024-03-22,Alex Morgan,0.0,18000,0.0
+3,7,CRM Integration Package,Proposal,22000,2024-01-14,,Jamie Lee,Olivia,Grant,olivia.grant@mapletech.ca,MapleTech,Sales Manager,Lead,2024-06-27,Jamie Lee,0.5,22000,11000.0
+4,1,Workflow Automation Build,Closed Won,32000,2024-01-16,2024-02-02,Jamie Lee,Amanda,Lopez,amanda.lopez@northbridgeops.com,Northbridge Ops,Operations Manager,Lead,2024-01-14,Jamie Lee,1.0,32000,32000.0
+5,5,Sales Pipeline Optimization,Negotiation,27000,2024-01-18,,Jordan Smith,Emily,Nguyen,emily.nguyen@brightpath.ca,BrightPath Systems,RevOps Manager,Lead,2024-05-18,Jordan Smith,0.75,27000,20250.0
+6,9,Data Cleanup & Migration,Prospecting,15000,2024-01-20,,Jordan Smith,Rebecca,Stone,rebecca.stone@bluepeak.ca,BluePeak Systems,Operations Lead,Lead,2024-08-01,Jordan Smith,0.1,15000,1500.0
+7,4,HR Analytics Suite,Closed Lost,40000,2024-01-22,2024-02-01,Alex Morgan,Daniel,Reed,daniel.reed@skylinehr.com,Skyline HR,COO,SQL,2024-04-10,Alex Morgan,0.0,40000,0.0
+8,2,Lead Scoring Model,Qualification,12000,2024-01-24,2024-02-20,Jamie Lee,Marcus,Chen,marcus.chen@revpoint.ca,RevPoint Solutions,Director of Sales,MQL,2024-02-03,Jamie Lee,0.0,12000,0.0
+9,6,RevOps Quarterly Audit,Proposal,9000,2024-01-26,,Jordan Smith,Michael,Turner,michael.turner@quantumfleet.com,QuantumFleet,VP Operations,MQL,2024-06-02,Jordan Smith,0.5,9000,4500.0
+10,8,Revenue Forecasting Engine,Negotiation,30000,2024-01-28,,Alex Morgan,Jason,Kim,jason.kim@everline.io,Everline Software,Director of Revenue,SQL,2024-07-15,Alex Morgan,0.75,30000,22500.0
+11,11,Marketing Attribution Setup,Prospecting,14000,2024-02-01,,Jamie Lee,Laura,Mitchell,laura.mitchell@zenflow.ca,ZenFlow,Marketing Director,Lead,2024-01-05,Jamie Lee,0.1,14000,1400.0
+12,13,Sales Enablement Toolkit,Qualification,16000,2024-02-03,2024-03-01,Jordan Smith,Natalie,Young,natalie.young@brightwave.ca,BrightWave,Sales Coordinator,Lead,2024-01-11,Jordan Smith,0.0,16000,0.0
+13,15,Customer Journey Mapping,Proposal,11000,2024-02-05,,Alex Morgan,Isabella,Moore,isabella.moore@northpeak.ca,NorthPeak,Operations Analyst,Lead,2024-01-18,Alex Morgan,0.5,11000,5500.0
+14,10,Pipeline Health Review,Closed Won,8000,2024-02-07,2024-02-25,Jamie Lee,Anthony,Clark,anthony.clark@signalpath.io,SignalPath,Sales Director,MQL,2024-08-22,Jamie Lee,1.0,8000,8000.0
+15,14,Revenue Insights Dashboard,Negotiation,25000,2024-02-09,,Jamie Lee,Patrick,James,patrick.james@corelytics.com,CoreLytics,VP Sales,MQL,2024-01-15,Jamie Lee,0.75,25000,18750.0
+16,16,Operational Efficiency Audit,Prospecting,13000,2024-02-11,,Jordan Smith,Jacob,White,jacob.white@revworks.io,RevWorks,Director of Ops,SQL,2024-01-20,Jordan Smith,0.1,13000,1300.0
+17,18,Marketing Ops Automation,Qualification,21000,2024-02-13,2024-03-10,Alex Morgan,Christopher,Adams,chris.adams@everpath.io,EverPath,COO,MQL,2024-01-25,Alex Morgan,0.0,21000,0.0
+18,20,Sales Team Performance Suite,Proposal,26000,2024-02-15,,Jamie Lee,Andrew,Scott,andrew.scott@signalcore.io,SignalCore,VP Revenue,SQL,2024-01-30,Jamie Lee,0.5,26000,13000.0
+19,17,Lead Routing Optimization,Closed Lost,9000,2024-02-17,2024-03-05,Jamie Lee,Victoria,Hall,victoria.hall@skylogic.ca,SkyLogic,Marketing Lead,Lead,2024-01-23,Jamie Lee,0.0,9000,0.0
+20,19,CRM Data Governance Setup,Negotiation,28000,2024-02-19,,Jordan Smith,Grace,Walker,grace.walker@mapledata.ca,MapleData,Sales Manager,Lead,2024-01-28,Jordan Smith,0.75,28000,21000.0
+21,21,Sales Playbook Development,Prospecting,15000,2024-02-21,,Jamie Lee,Julia,Price,julia.price@northbridgeops.com,Northbridge Ops,Sales Coordinator,Lead,2024-02-01,Jamie Lee,0.1,15000,1500.0
+22,23,Attribution Model Build,Qualification,17000,2024-02-23,2024-03-18,Alex Morgan,Monica,Shaw,monica.shaw@clearwave.io,ClearWave Analytics,Operations Lead,Lead,2024-02-06,Alex Morgan,0.0,17000,0.0
+23,22,Marketing Funnel Analysis,Proposal,9000,2024-02-25,,Jamie Lee,Steven,Gray,steven.gray@revpoint.ca,RevPoint Solutions,Marketing Manager,MQL,2024-02-04,Jamie Lee,0.5,9000,4500.0
+24,24,HR Workflow Automation,Closed Won,31000,2024-02-27,2024-03-12,Alex Morgan,Henry,Cooper,henry.cooper@skylinehr.com,Skyline HR,Director of HR,SQL,2024-02-08,Alex Morgan,1.0,31000,31000.0
+25,25,Sales Ops Training Program,Negotiation,20000,2024-02-29,,Jordan Smith,Chloe,Diaz,chloe.diaz@brightpath.ca,BrightPath Systems,Sales Manager,Lead,2024-02-10,Jordan Smith,0.75,20000,15000.0
+26,26,Quarterly RevOps Audit,Prospecting,14000,2024-03-02,,Jordan Smith,Jonathan,Evans,jon.evans@quantumfleet.com,QuantumFleet,COO,MQL,2024-02-12,Jordan Smith,0.1,14000,1400.0
+27,27,CRM Custom Reporting,Qualification,16000,2024-03-04,2024-04-01,Jamie Lee,Sophia,Bell,sophia.bell@mapletech.ca,MapleTech,Marketing Specialist,Lead,2024-02-14,Jamie Lee,0.0,16000,0.0
+28,28,Sales Forecasting Model,Proposal,24000,2024-03-06,,Alex Morgan,Brandon,Lee,brandon.lee@everline.io,Everline Software,VP Sales,SQL,2024-02-16,Alex Morgan,0.5,24000,12000.0
+29,29,Data Hygiene Overhaul,Closed Lost,10000,2024-03-08,2024-03-28,Jordan Smith,Hailey,Green,hailey.green@bluepeak.ca,BluePeak Systems,Operations Analyst,Lead,2024-02-18,Jordan Smith,0.0,10000,0.0
+30,30,Revenue Engine Build,Negotiation,35000,2024-03-10,,Jamie Lee,Eric,King,eric.king@signalpath.io,SignalPath,Director of Ops,MQL,2024-02-20,Jamie Lee,0.75,35000,26250.0
+31,31,Marketing Ops Audit,Prospecting,12000,2024-03-12,,Jamie Lee,Melissa,Turner,melissa.turner@zenflow.ca,ZenFlow,Marketing Lead,Lead,2024-02-22,Jamie Lee,0.1,12000,1200.0
+32,32,Engineering Workflow Optimization,Qualification,20000,2024-03-14,2024-04-10,Alex Morgan,Shawn,Reed,shawn.reed@apexlogic.io,ApexLogic,VP Engineering,SQL,2024-02-24,Alex Morgan,0.0,20000,0.0
+33,33,Sales Coaching Program,Proposal,15000,2024-03-16,,Jordan Smith,Paige,Howard,paige.howard@brightwave.ca,BrightWave,Sales Lead,Lead,2024-02-26,Jordan Smith,0.5,15000,7500.0
+34,34,Revenue Insights Dashboard,Closed Won,27000,2024-03-18,2024-04-02,Jamie Lee,Timothy,Long,tim.long@corelytics.com,CoreLytics,Director of Revenue,MQL,2024-02-28,Jamie Lee,1.0,27000,27000.0
+35,35,Customer Segmentation Model,Negotiation,22000,2024-03-20,,Alex Morgan,Kayla,Adler,kayla.adler@northpeak.ca,NorthPeak,Marketing Manager,Lead,2024-03-01,Alex Morgan,0.75,22000,16500.0
+36,36,RevOps Infrastructure Setup,Prospecting,30000,2024-03-22,,Jordan Smith,Logan,Price,logan.price@revworks.io,RevWorks,COO,SQL,2024-03-03,Jordan Smith,0.1,30000,3000.0
+37,37,Sales Funnel Optimization,Qualification,18000,2024-03-24,2024-04-20,Jamie Lee,Faith,Campbell,faith.campbell@skylogic.ca,SkyLogic,Sales Coordinator,Lead,2024-03-05,Jamie Lee,0.0,18000,0.0
+38,38,Revenue Forecasting Engine,Proposal,26000,2024-03-26,,Alex Morgan,Mitchell,Hayes,mitchell.hayes@everpath.io,EverPath,VP Revenue,MQL,2024-03-07,Alex Morgan,0.5,26000,13000.0
+39,39,Marketing Attribution Setup,Closed Lost,14000,2024-03-28,2024-04-15,Jordan Smith,Daniela,Reyes,daniela.reyes@mapledata.ca,MapleData,Marketing Specialist,Lead,2024-03-09,Jordan Smith,0.0,14000,0.0
+40,40,Sales Pipeline Optimization,Negotiation,25000,2024-03-30,,Jamie Lee,Colin,Stewart,colin.stewart@signalcore.io,SignalCore,Director of Sales,SQL,2024-03-11,Jamie Lee,0.75,25000,18750.0
+41,41,Workflow Automation Build,Prospecting,16000,2024-04-01,,Jamie Lee,Alyssa,James,alyssa.james@northbridgeops.com,Northbridge Ops,Operations Lead,Lead,2024-03-13,Jamie Lee,0.1,16000,1600.0
+42,42,Lead Scoring Model,Qualification,12000,2024-04-03,2024-04-28,Jamie Lee,Peter,Nguyen,peter.nguyen@revpoint.ca,RevPoint Solutions,Sales Manager,MQL,2024-03-15,Jamie Lee,0.0,12000,0.0
+43,43,CRM Integration Package,Proposal,22000,2024-04-05,,Alex Morgan,Vanessa,Clark,vanessa.clark@clearwave.io,ClearWave Analytics,Director of Ops,Lead,2024-03-17,Alex Morgan,0.5,22000,11000.0
+44,44,HR Analytics Suite,Closed Won,40000,2024-04-07,2024-04-25,Alex Morgan,Shane,Martin,shane.martin@skylinehr.com,Skyline HR,VP HR,SQL,2024-03-19,Alex Morgan,1.0,40000,40000.0
+45,45,Sales Enablement Toolkit,Negotiation,20000,2024-04-09,,Jordan Smith,Rachel,Kim,rachel.kim@brightpath.ca,BrightPath Systems,Marketing Lead,Lead,2024-03-21,Jordan Smith,0.75,20000,15000.0
+46,46,Operational Efficiency Audit,Prospecting,13000,2024-04-11,,Jordan Smith,Tyler,Moore,tyler.moore@quantumfleet.com,QuantumFleet,Director of Ops,MQL,2024-03-23,Jordan Smith,0.1,13000,1300.0
+47,47,Marketing Ops Automation,Qualification,21000,2024-04-13,2024-05-10,Jamie Lee,Angela,Scott,angela.scott@mapletech.ca,MapleTech,Sales Lead,Lead,2024-03-25,Jamie Lee,0.0,21000,0.0
+48,48,Sales Team Performance Suite,Proposal,26000,2024-04-15,,Alex Morgan,Corey,White,corey.white@everline.io,Everline Software,COO,SQL,2024-03-27,Alex Morgan,0.5,26000,13000.0
+49,49,Lead Routing Optimization,Closed Lost,9000,2024-04-17,2024-05-05,Jordan Smith,Michelle,Stone,michelle.stone@bluepeak.ca,BluePeak Systems,Marketing Manager,Lead,2024-03-29,Jordan Smith,0.0,9000,0.0
+50,50,CRM Data Governance Setup,Negotiation,28000,2024-04-19,,Jamie Lee,Justin,Reed,justin.reed@signalpath.io,SignalPath,VP Revenue,MQL,2024-03-31,Jamie Lee,0.75,28000,21000.0
+51,51,Sales Playbook Development,Prospecting,15000,2024-04-21,,Jamie Lee,,,,,,,,,0.1,15000,1500.0
+52,52,Attribution Model Build,Qualification,17000,2024-04-23,2024-05-18,Alex Morgan,Erin,Walsh,erin.walsh@zenflow.ca,ZenFlow,Operations Manager,Lead,2024-04-02,Jamie Lee,0.0,17000,0.0
+53,53,Marketing Funnel Analysis,Proposal,9000,2024-04-25,,Jamie Lee,Marcus,Young,marcus.young@apexlogic.io,ApexLogic,Director of Ops,SQL,2024-04-04,Alex Morgan,0.5,9000,4500.0
+54,54,HR Workflow Automation,Closed Won,31000,2024-04-27,2024-05-12,Jordan Smith,Tara,Mitchell,tara.mitchell@brightwave.ca,BrightWave,Marketing Specialist,Lead,2024-04-06,Jordan Smith,1.0,31000,31000.0
+55,55,Sales Ops Training Program,Negotiation,20000,2024-04-29,,Jamie Lee,Shawn,Lopez,shawn.lopez@corelytics.com,CoreLytics,VP Revenue,MQL,2024-04-08,Jamie Lee,0.75,20000,15000.0
+56,56,Quarterly RevOps Audit,Prospecting,14000,2024-05-01,,Alex Morgan,Isabelle,Reed,isabelle.reed@northpeak.ca,NorthPeak,Sales Lead,Lead,2024-04-10,Alex Morgan,0.1,14000,1400.0
+57,57,CRM Custom Reporting,Qualification,16000,2024-05-03,2024-06-01,Jordan Smith,Connor,James,connor.james@revworks.io,RevWorks,Director of Sales,SQL,2024-04-12,Jordan Smith,0.0,16000,0.0
+58,58,Sales Forecasting Model,Proposal,24000,2024-05-05,,Jamie Lee,Naomi,Clark,naomi.clark@skylogic.ca,SkyLogic,Marketing Manager,Lead,2024-04-14,Jamie Lee,0.5,24000,12000.0
+59,59,Data Hygiene Overhaul,Closed Lost,10000,2024-05-07,2024-05-28,Alex Morgan,Brent,Hayes,brent.hayes@everpath.io,EverPath,COO,MQL,2024-04-16,Alex Morgan,0.0,10000,0.0
+60,60,Revenue Engine Build,Negotiation,35000,2024-05-09,,Jordan Smith,Elena,Moore,elena.moore@mapledata.ca,MapleData,Sales Coordinator,Lead,2024-04-18,Jordan Smith,0.75,35000,26250.0
+61,61,Marketing Ops Audit,Prospecting,12000,2024-05-11,,Jamie Lee,Caleb,Scott,caleb.scott@signalcore.io,SignalCore,Director of Revenue,SQL,2024-04-20,Jamie Lee,0.1,12000,1200.0
+62,62,Engineering Workflow Optimization,Qualification,20000,2024-05-13,2024-06-10,Alex Morgan,Marissa,Nguyen,marissa.nguyen@northbridgeops.com,Northbridge Ops,Marketing Lead,Lead,2024-04-22,Jamie Lee,0.0,20000,0.0
+63,63,Sales Coaching Program,Proposal,15000,2024-05-15,,Jamie Lee,Tyson,Gray,tyson.gray@revpoint.ca,RevPoint Solutions,VP Sales,MQL,2024-04-24,Jamie Lee,0.5,15000,7500.0
+64,64,Revenue Insights Dashboard,Closed Won,27000,2024-05-17,2024-06-02,Jordan Smith,Alexa,Stone,alexa.stone@clearwave.io,ClearWave Analytics,Operations Manager,Lead,2024-04-26,Alex Morgan,1.0,27000,27000.0
+65,65,Customer Segmentation Model,Negotiation,22000,2024-05-19,,Alex Morgan,Shane,Cooper,shane.cooper@skylinehr.com,Skyline HR,Director of Ops,SQL,2024-04-28,Alex Morgan,0.75,22000,16500.0
+66,66,RevOps Infrastructure Setup,Prospecting,30000,2024-05-21,,Jordan Smith,Danielle,Price,danielle.price@brightpath.ca,BrightPath Systems,Marketing Specialist,Lead,2024-04-30,Jordan Smith,0.1,30000,3000.0
+67,67,Sales Funnel Optimization,Qualification,18000,2024-05-23,2024-06-20,Jamie Lee,Colton,Evans,colton.evans@quantumfleet.com,QuantumFleet,VP Revenue,MQL,2024-05-02,Jordan Smith,0.0,18000,0.0
+68,68,Revenue Forecasting Engine,Proposal,26000,2024-05-25,,Alex Morgan,Leah,Grant,leah.grant@mapletech.ca,MapleTech,Sales Manager,Lead,2024-05-04,Jamie Lee,0.5,26000,13000.0
+69,69,Marketing Attribution Setup,Closed Lost,14000,2024-05-27,2024-06-15,Jordan Smith,Victor,White,victor.white@everline.io,Everline Software,Director of Ops,SQL,2024-05-06,Alex Morgan,0.0,14000,0.0
+70,70,Sales Pipeline Optimization,Negotiation,25000,2024-05-29,,Jamie Lee,Amber,Stone,amber.stone@bluepeak.ca,BluePeak Systems,Marketing Lead,Lead,2024-05-08,Jordan Smith,0.75,25000,18750.0
+71,71,Workflow Automation Build,Prospecting,16000,2024-05-31,,Jamie Lee,Noah,Clark,noah.clark@signalpath.io,SignalPath,Sales Coordinator,MQL,2024-05-10,Jamie Lee,0.1,16000,1600.0
+72,72,Lead Scoring Model,Qualification,12000,2024-06-02,2024-06-28,Jamie Lee,Hailey,Mitchell,hailey.mitchell@zenflow.ca,ZenFlow,Marketing Manager,Lead,2024-05-12,Jamie Lee,0.0,12000,0.0
+73,73,CRM Integration Package,Proposal,22000,2024-06-04,,Alex Morgan,Brady,Reed,brady.reed@apexlogic.io,ApexLogic,Director of Revenue,SQL,2024-05-14,Alex Morgan,0.5,22000,11000.0
+74,74,HR Analytics Suite,Closed Won,40000,2024-06-06,2024-06-25,Jordan Smith,Elise,Howard,elise.howard@brightwave.ca,BrightWave,Sales Lead,Lead,2024-05-16,Jordan Smith,1.0,40000,40000.0
+75,75,Sales Enablement Toolkit,Negotiation,20000,2024-06-08,,Jamie Lee,Travis,Long,travis.long@corelytics.com,CoreLytics,VP Sales,MQL,2024-05-18,Jamie Lee,0.75,20000,15000.0
+76,76,Operational Efficiency Audit,Prospecting,13000,2024-06-10,,Alex Morgan,Kaylee,Adler,kaylee.adler@northpeak.ca,NorthPeak,Operations Analyst,Lead,2024-05-20,Alex Morgan,0.1,13000,1300.0
+77,77,Marketing Ops Automation,Qualification,21000,2024-06-12,2024-07-10,Jordan Smith,Jonah,Price,jonah.price@revworks.io,RevWorks,Director of Ops,SQL,2024-05-22,Jordan Smith,0.0,21000,0.0
+78,78,Sales Team Performance Suite,Proposal,26000,2024-06-14,,Jamie Lee,Sienna,Campbell,sienna.campbell@skylogic.ca,SkyLogic,Marketing Specialist,Lead,2024-05-24,Jamie Lee,0.5,26000,13000.0
+79,79,Lead Routing Optimization,Closed Lost,9000,2024-06-16,2024-07-05,Alex Morgan,Garrett,Hayes,garrett.hayes@everpath.io,EverPath,VP Revenue,MQL,2024-05-26,Alex Morgan,0.0,9000,0.0
+80,80,CRM Data Governance Setup,Negotiation,28000,2024-06-18,,Jordan Smith,Adriana,Reyes,adriana.reyes@mapledata.ca,MapleData,Sales Manager,Lead,2024-05-28,Jordan Smith,0.75,28000,21000.0
+81,81,Sales Playbook Development,Prospecting,15000,2024-06-20,,Jamie Lee,Colby,Stewart,colby.stewart@signalcore.io,SignalCore,Director of Sales,SQL,2024-05-30,Jamie Lee,0.1,15000,1500.0
+82,82,Attribution Model Build,Qualification,17000,2024-06-22,2024-07-18,Jamie Lee,Alana,James,alana.james@northbridgeops.com,Northbridge Ops,Marketing Lead,Lead,2024-06-01,Jamie Lee,0.0,17000,0.0
+83,83,Marketing Funnel Analysis,Proposal,9000,2024-06-24,,Alex Morgan,Spencer,Nguyen,spencer.nguyen@revpoint.ca,RevPoint Solutions,Sales Manager,MQL,2024-06-03,Jamie Lee,0.5,9000,4500.0
+84,84,HR Workflow Automation,Closed Won,31000,2024-06-26,2024-07-12,Jordan Smith,Marina,Clark,marina.clark@clearwave.io,ClearWave Analytics,Director of Ops,Lead,2024-06-05,Alex Morgan,1.0,31000,31000.0
+85,85,Sales Ops Training Program,Negotiation,20000,2024-06-28,,Jamie Lee,Shawn,Martin,shawn.martin@skylinehr.com,Skyline HR,VP HR,SQL,2024-06-07,Alex Morgan,0.75,20000,15000.0
+86,86,Quarterly RevOps Audit,Prospecting,14000,2024-06-30,,Alex Morgan,Rebecca,Kim,rebecca.kim@brightpath.ca,BrightPath Systems,Marketing Lead,Lead,2024-06-09,Jordan Smith,0.1,14000,1400.0
+87,87,CRM Custom Reporting,Qualification,16000,2024-07-02,2024-08-01,Jordan Smith,Tyler,Moore,tyler.moore@quantumfleet.com,QuantumFleet,Director of Ops,MQL,2024-06-11,Jordan Smith,0.0,16000,0.0
+88,88,Sales Forecasting Model,Proposal,24000,2024-07-04,,Jamie Lee,Angela,Scott,angela.scott@mapletech.ca,MapleTech,Sales Lead,Lead,2024-06-13,Jamie Lee,0.5,24000,12000.0
+89,89,Data Hygiene Overhaul,Closed Lost,10000,2024-07-06,2024-07-28,Alex Morgan,Corey,White,corey.white@everline.io,Everline Software,COO,SQL,2024-06-15,Alex Morgan,0.0,10000,0.0
+90,90,Revenue Engine Build,Negotiation,35000,2024-07-08,,Jordan Smith,Michelle,Stone,michelle.stone@bluepeak.ca,BluePeak Systems,Marketing Manager,Lead,2024-06-17,Jordan Smith,0.75,35000,26250.0
+91,91,Marketing Ops Audit,Prospecting,12000,2024-07-10,,Jamie Lee,Justin,Reed,justin.reed@signalpath.io,SignalPath,VP Revenue,MQL,2024-06-19,Jamie Lee,0.1,12000,1200.0
+92,92,Engineering Workflow Optimization,Qualification,20000,2024-07-12,2024-08-10,Alex Morgan,Erin,Walsh,erin.walsh@zenflow.ca,ZenFlow,Operations Manager,Lead,2024-06-21,Jamie Lee,0.0,20000,0.0
+93,93,Sales Coaching Program,Proposal,15000,2024-07-14,,Jamie Lee,Marcus,Young,marcus.young@apexlogic.io,ApexLogic,Director of Ops,SQL,2024-06-23,Alex Morgan,0.5,15000,7500.0
+94,94,Revenue Insights Dashboard,Closed Won,27000,2024-07-16,2024-08-02,Jordan Smith,Tara,Mitchell,tara.mitchell@brightwave.ca,BrightWave,Marketing Specialist,Lead,2024-06-25,Jordan Smith,1.0,27000,27000.0
+95,95,Customer Segmentation Model,Negotiation,22000,2024-07-18,,Alex Morgan,Shawn,Lopez,shawn.lopez@corelytics.com,CoreLytics,VP Revenue,MQL,2024-06-27,Jamie Lee,0.75,22000,16500.0
+96,96,RevOps Infrastructure Setup,Prospecting,30000,2024-07-20,,Jordan Smith,Isabelle,Reed,isabelle.reed@northpeak.ca,NorthPeak,Sales Lead,Lead,2024-06-29,Alex Morgan,0.1,30000,3000.0
+97,97,Sales Funnel Optimization,Qualification,18000,2024-07-22,2024-08-20,Jamie Lee,Connor,James,connor.james@revworks.io,RevWorks,Director of Sales,SQL,2024-07-01,Jordan Smith,0.0,18000,0.0
+98,98,Revenue Forecasting Engine,Proposal,26000,2024-07-24,,Alex Morgan,Naomi,Clark,naomi.clark@skylogic.ca,SkyLogic,Marketing Manager,Lead,2024-07-03,Jamie Lee,0.5,26000,13000.0
+99,99,Marketing Attribution Setup,Closed Lost,14000,2024-07-26,2024-08-15,Jordan Smith,Brent,Hayes,brent.hayes@everpath.io,EverPath,COO,MQL,2024-07-05,Alex Morgan,0.0,14000,0.0
+100,100,Sales Pipeline Optimization,Negotiation,25000,2024-07-28,,Jamie Lee,Elena,Moore,elena.moore@mapledata.ca,MapleData,Sales Coordinator,Lead,2024-07-07,Jordan Smith,0.75,25000,18750.0
+101,101,Workflow Automation Build,Prospecting,16000,2024-07-30,,Jamie Lee,Elise,Turner,elise.turner@northbridgeops.com,Northbridge Ops,Operations Analyst,Lead,2024-07-09,Jamie Lee,0.1,16000,1600.0
+102,102,Lead Scoring Model,Qualification,12000,2024-08-01,2024-08-28,Jamie Lee,Marcus,Reid,marcus.reid@revpoint.ca,RevPoint Solutions,Sales Lead,MQL,2024-07-11,Jamie Lee,0.0,12000,0.0
+103,103,CRM Integration Package,Proposal,22000,2024-08-03,,Alex Morgan,Sabrina,Lopez,sabrina.lopez@clearwave.io,ClearWave Analytics,Marketing Manager,Lead,2024-07-13,Alex Morgan,0.5,22000,11000.0
+104,104,HR Analytics Suite,Closed Won,40000,2024-08-05,2024-08-25,Alex Morgan,Henry,Walters,henry.walters@skylinehr.com,Skyline HR,Director of Ops,SQL,2024-07-15,Alex Morgan,1.0,40000,40000.0
+105,105,Sales Enablement Toolkit,Negotiation,20000,2024-08-07,,Jordan Smith,Chloe,Andrews,chloe.andrews@brightpath.ca,BrightPath Systems,Sales Coordinator,Lead,2024-07-17,Jordan Smith,0.75,20000,15000.0
+106,106,Operational Efficiency Audit,Prospecting,13000,2024-08-09,,Jordan Smith,Michael,Shaw,michael.shaw@quantumfleet.com,QuantumFleet,VP Revenue,MQL,2024-07-19,Jordan Smith,0.1,13000,1300.0
+107,107,Marketing Ops Automation,Qualification,21000,2024-08-11,2024-09-10,Jamie Lee,Olivia,Hayes,olivia.hayes@mapletech.ca,MapleTech,Marketing Lead,Lead,2024-07-21,Jamie Lee,0.0,21000,0.0
+108,108,Sales Team Performance Suite,Proposal,26000,2024-08-13,,Alex Morgan,Jason,Reed,jason.reed@everline.io,Everline Software,Director of Sales,SQL,2024-07-23,Alex Morgan,0.5,26000,13000.0
+109,109,Lead Routing Optimization,Closed Lost,9000,2024-08-15,2024-09-05,Jordan Smith,Rebecca,Moore,rebecca.moore@bluepeak.ca,BluePeak Systems,Operations Lead,Lead,2024-07-25,Jordan Smith,0.0,9000,0.0
+110,110,CRM Data Governance Setup,Negotiation,28000,2024-08-17,,Jamie Lee,Anthony,Price,anthony.price@signalpath.io,SignalPath,Sales Manager,MQL,2024-07-27,Jamie Lee,0.75,28000,21000.0
+111,111,Sales Playbook Development,Prospecting,15000,2024-08-19,,Jamie Lee,Laura,Kim,laura.kim@zenflow.ca,ZenFlow,Marketing Specialist,Lead,2024-07-29,Jamie Lee,0.1,15000,1500.0
+112,112,Attribution Model Build,Qualification,17000,2024-08-21,2024-09-18,Alex Morgan,Kevin,Diaz,kevin.diaz@apexlogic.io,ApexLogic,Director of Revenue,SQL,2024-07-31,Alex Morgan,0.0,17000,0.0
+113,113,Marketing Funnel Analysis,Proposal,9000,2024-08-23,,Jamie Lee,Natalie,Scott,natalie.scott@brightwave.ca,BrightWave,Sales Lead,Lead,2024-08-02,Jordan Smith,0.5,9000,4500.0
+114,114,HR Workflow Automation,Closed Won,31000,2024-08-25,2024-09-12,Jordan Smith,Patrick,Nguyen,patrick.nguyen@corelytics.com,CoreLytics,VP Sales,MQL,2024-08-04,Jamie Lee,1.0,31000,31000.0
+115,115,Sales Ops Training Program,Negotiation,20000,2024-08-27,,Jamie Lee,Isabella,James,isabella.james@northpeak.ca,NorthPeak,Marketing Lead,Lead,2024-08-06,Alex Morgan,0.75,20000,15000.0
+116,116,Quarterly RevOps Audit,Prospecting,14000,2024-08-29,,Alex Morgan,Jacob,Stone,jacob.stone@revworks.io,RevWorks,Director of Ops,SQL,2024-08-08,Jordan Smith,0.1,14000,1400.0
+117,117,CRM Custom Reporting,Qualification,16000,2024-08-31,2024-10-01,Jordan Smith,Victoria,Reed,victoria.reed@skylogic.ca,SkyLogic,Sales Coordinator,Lead,2024-08-10,Jamie Lee,0.0,16000,0.0
+118,118,Sales Forecasting Model,Proposal,24000,2024-09-02,,Jamie Lee,Christopher,Moore,chris.moore@everpath.io,EverPath,VP Revenue,MQL,2024-08-12,Alex Morgan,0.5,24000,12000.0
+119,119,Data Hygiene Overhaul,Closed Lost,10000,2024-09-04,2024-09-28,Alex Morgan,Grace,Hayes,grace.hayes@mapledata.ca,MapleData,Marketing Manager,Lead,2024-08-14,Jordan Smith,0.0,10000,0.0
+120,120,Revenue Engine Build,Negotiation,35000,2024-09-06,,Jordan Smith,Andrew,Clark,andrew.clark@signalcore.io,SignalCore,Director of Sales,SQL,2024-08-16,Jamie Lee,0.75,35000,26250.0
+121,121,Marketing Ops Audit,Prospecting,12000,2024-09-08,,Jamie Lee,Julia,Lopez,julia.lopez@northbridgeops.com,Northbridge Ops,Operations Lead,Lead,2024-08-18,Jamie Lee,0.1,12000,1200.0
+122,122,Engineering Workflow Optimization,Qualification,20000,2024-09-10,2024-10-10,Alex Morgan,Steven,Reid,steven.reid@revpoint.ca,RevPoint Solutions,Marketing Manager,MQL,2024-08-20,Jamie Lee,0.0,20000,0.0
+123,123,Sales Coaching Program,Proposal,15000,2024-09-12,,Jamie Lee,Monica,Walsh,monica.walsh@clearwave.io,ClearWave Analytics,Operations Manager,Lead,2024-08-22,Alex Morgan,0.5,15000,7500.0
+124,124,Revenue Insights Dashboard,Closed Won,27000,2024-09-14,2024-10-02,Jordan Smith,Henry,James,henry.james@skylinehr.com,Skyline HR,Director of HR,SQL,2024-08-24,Alex Morgan,1.0,27000,27000.0
+125,125,Customer Segmentation Model,Negotiation,22000,2024-09-16,,Alex Morgan,Chloe,Grant,chloe.grant@brightpath.ca,BrightPath Systems,Sales Manager,Lead,2024-08-26,Jordan Smith,0.75,22000,16500.0
+126,126,RevOps Infrastructure Setup,Prospecting,30000,2024-09-18,,Jordan Smith,Jonathan,Moore,jon.moore@quantumfleet.com,QuantumFleet,COO,MQL,2024-08-28,Jordan Smith,0.1,30000,3000.0
+127,127,Sales Funnel Optimization,Qualification,18000,2024-09-20,2024-10-20,Jamie Lee,Sophia,Reed,sophia.reed@mapletech.ca,MapleTech,Marketing Specialist,Lead,2024-08-30,Jamie Lee,0.0,18000,0.0
+128,128,Revenue Forecasting Engine,Proposal,26000,2024-09-22,,Alex Morgan,Brandon,Clark,brandon.clark@everline.io,Everline Software,VP Sales,SQL,2024-09-01,Alex Morgan,0.5,26000,13000.0
+129,129,Marketing Attribution Setup,Closed Lost,14000,2024-09-24,2024-10-15,Jordan Smith,Hailey,Price,hailey.price@bluepeak.ca,BluePeak Systems,Operations Analyst,Lead,2024-09-03,Jordan Smith,0.0,14000,0.0
+130,130,Sales Pipeline Optimization,Negotiation,25000,2024-09-26,,Jamie Lee,Eric,Mitchell,eric.mitchell@signalpath.io,SignalPath,Director of Ops,MQL,2024-09-05,Jamie Lee,0.75,25000,18750.0
+131,131,Workflow Automation Build,Prospecting,16000,2024-09-28,,Jamie Lee,Melissa,Reed,melissa.reed@zenflow.ca,ZenFlow,Marketing Lead,Lead,2024-09-07,Jamie Lee,0.1,16000,1600.0
+132,132,Lead Scoring Model,Qualification,12000,2024-09-30,2024-10-28,Jamie Lee,Shawn,Young,shawn.young@apexlogic.io,ApexLogic,VP Engineering,SQL,2024-09-09,Alex Morgan,0.0,12000,0.0
+133,133,CRM Integration Package,Proposal,22000,2024-10-02,,Alex Morgan,Paige,Lopez,paige.lopez@brightwave.ca,BrightWave,Sales Lead,Lead,2024-09-11,Jordan Smith,0.5,22000,11000.0
+134,134,HR Analytics Suite,Closed Won,40000,2024-10-04,2024-10-25,Alex Morgan,Timothy,Scott,tim.scott@corelytics.com,CoreLytics,Director of Revenue,MQL,2024-09-13,Jamie Lee,1.0,40000,40000.0
+135,135,Sales Enablement Toolkit,Negotiation,20000,2024-10-06,,Jordan Smith,Kayla,Moore,kayla.moore@northpeak.ca,NorthPeak,Marketing Manager,Lead,2024-09-15,Alex Morgan,0.75,20000,15000.0
+136,136,Operational Efficiency Audit,Prospecting,13000,2024-10-08,,Jordan Smith,Logan,Reid,logan.reid@revworks.io,RevWorks,COO,SQL,2024-09-17,Jordan Smith,0.1,13000,1300.0
+137,137,Marketing Ops Automation,Qualification,21000,2024-10-10,2024-11-10,Jamie Lee,Faith,Hayes,faith.hayes@skylogic.ca,SkyLogic,Sales Coordinator,Lead,2024-09-19,Jamie Lee,0.0,21000,0.0
+138,138,Sales Team Performance Suite,Proposal,26000,2024-10-12,,Alex Morgan,Mitchell,Clark,mitchell.clark@everpath.io,EverPath,VP Revenue,MQL,2024-09-21,Alex Morgan,0.5,26000,13000.0
+139,139,Lead Routing Optimization,Closed Lost,9000,2024-10-14,2024-11-05,Jordan Smith,Daniela,Moore,daniela.moore@mapledata.ca,MapleData,Marketing Specialist,Lead,2024-09-23,Jordan Smith,0.0,9000,0.0
+140,140,CRM Data Governance Setup,Negotiation,28000,2024-10-16,,Jamie Lee,Colin,James,colin.james@signalcore.io,SignalCore,Director of Sales,SQL,2024-09-25,Jamie Lee,0.75,28000,21000.0
+141,141,Sales Playbook Development,Prospecting,15000,2024-10-18,,Jamie Lee,Alyssa,Reed,alyssa.reed@northbridgeops.com,Northbridge Ops,Operations Lead,Lead,2024-09-27,Jamie Lee,0.1,15000,1500.0
+142,142,Attribution Model Build,Qualification,17000,2024-10-20,2024-11-18,Alex Morgan,Peter,Young,peter.young@revpoint.ca,RevPoint Solutions,Sales Manager,MQL,2024-09-29,Jamie Lee,0.0,17000,0.0
+143,143,Marketing Funnel Analysis,Proposal,9000,2024-10-22,,Jamie Lee,Vanessa,Walsh,vanessa.walsh@clearwave.io,ClearWave Analytics,Director of Ops,Lead,2024-10-01,Alex Morgan,0.5,9000,4500.0
+144,144,HR Workflow Automation,Closed Won,31000,2024-10-24,2024-11-12,Jordan Smith,Shane,Moore,shane.moore@skylinehr.com,Skyline HR,VP HR,SQL,2024-10-03,Alex Morgan,1.0,31000,31000.0
+145,145,Sales Ops Training Program,Negotiation,20000,2024-10-26,,Jamie Lee,Rachel,Grant,rachel.grant@brightpath.ca,BrightPath Systems,Marketing Lead,Lead,2024-10-05,Jordan Smith,0.75,20000,15000.0
+146,146,Quarterly RevOps Audit,Prospecting,14000,2024-10-28,,Alex Morgan,Tyler,Reid,tyler.reid@quantumfleet.com,QuantumFleet,Director of Ops,MQL,2024-10-07,Jordan Smith,0.1,14000,1400.0
+147,147,CRM Custom Reporting,Qualification,16000,2024-10-30,2024-12-01,Jordan Smith,Angela,Hayes,angela.hayes@mapletech.ca,MapleTech,Sales Lead,Lead,2024-10-09,Jamie Lee,0.0,16000,0.0
+148,148,Sales Forecasting Model,Proposal,24000,2024-11-01,,Jamie Lee,Corey,Clark,corey.clark@everline.io,Everline Software,COO,SQL,2024-10-11,Alex Morgan,0.5,24000,12000.0
+149,149,Data Hygiene Overhaul,Closed Lost,10000,2024-11-03,2024-11-28,Alex Morgan,Michelle,Moore,michelle.moore@bluepeak.ca,BluePeak Systems,Marketing Manager,Lead,2024-10-13,Jordan Smith,0.0,10000,0.0
+150,150,Revenue Engine Build,Negotiation,35000,2024-11-05,,Jordan Smith,Justin,Price,justin.price@signalpath.io,SignalPath,VP Revenue,MQL,2024-10-15,Jamie Lee,0.75,35000,26250.0
+151,151,Marketing Ops Audit,Prospecting,12000,2024-11-07,,Jamie Lee,Erin,Reed,erin.reed@zenflow.ca,ZenFlow,Operations Manager,Lead,2024-10-17,Jamie Lee,0.1,12000,1200.0
+152,152,Engineering Workflow Optimization,Qualification,20000,2024-11-09,2024-12-10,Alex Morgan,Marcus,Walsh,marcus.walsh@apexlogic.io,ApexLogic,Director of Ops,SQL,2024-10-19,Alex Morgan,0.0,20000,0.0
+153,153,Sales Coaching Program,Proposal,15000,2024-11-11,,Jamie Lee,Tara,Young,tara.young@brightwave.ca,BrightWave,Marketing Specialist,Lead,2024-10-21,Jordan Smith,0.5,15000,7500.0
+154,154,Revenue Insights Dashboard,Closed Won,27000,2024-11-13,2024-12-02,Jordan Smith,Shawn,Grant,shawn.grant@corelytics.com,CoreLytics,VP Revenue,MQL,2024-10-23,Jamie Lee,1.0,27000,27000.0
+155,155,Customer Segmentation Model,Negotiation,22000,2024-11-15,,Alex Morgan,Isabelle,Moore,isabelle.moore@northpeak.ca,NorthPeak,Sales Lead,Lead,2024-10-25,Alex Morgan,0.75,22000,16500.0
+156,156,RevOps Infrastructure Setup,Prospecting,30000,2024-11-17,,Jordan Smith,Connor,Reid,connor.reid@revworks.io,RevWorks,Director of Sales,SQL,2024-10-27,Jordan Smith,0.1,30000,3000.0
+157,157,Sales Funnel Optimization,Qualification,18000,2024-11-19,2024-12-20,Jamie Lee,Naomi,Hayes,naomi.hayes@skylogic.ca,SkyLogic,Marketing Manager,Lead,2024-10-29,Jamie Lee,0.0,18000,0.0
+158,158,Revenue Forecasting Engine,Proposal,26000,2024-11-21,,Alex Morgan,Brent,Clark,brent.clark@everpath.io,EverPath,COO,MQL,2024-10-31,Alex Morgan,0.5,26000,13000.0
+159,159,Marketing Attribution Setup,Closed Lost,14000,2024-11-23,2024-12-15,Jordan Smith,Elena,Moore,elena.moore@mapledata.ca,MapleData,Sales Coordinator,Lead,2024-11-02,Jordan Smith,0.0,14000,0.0
+160,160,Sales Pipeline Optimization,Negotiation,25000,2024-11-25,,Jamie Lee,Caleb,Reed,caleb.reed@signalcore.io,SignalCore,Director of Revenue,SQL,2024-11-04,Jamie Lee,0.75,25000,18750.0
+161,161,Workflow Automation Build,Prospecting,16000,2024-11-27,,Jamie Lee,Marissa,Young,marissa.young@northbridgeops.com,Northbridge Ops,Marketing Lead,Lead,2024-11-06,Jamie Lee,0.1,16000,1600.0
+162,162,Lead Scoring Model,Qualification,12000,2024-11-29,2024-12-28,Jamie Lee,Tyson,Walsh,tyson.walsh@revpoint.ca,RevPoint Solutions,VP Sales,MQL,2024-11-08,Jamie Lee,0.0,12000,0.0
+163,163,CRM Integration Package,Proposal,22000,2024-12-01,,Alex Morgan,Alexa,Grant,alexa.grant@clearwave.io,ClearWave Analytics,Operations Manager,Lead,2024-11-10,Alex Morgan,0.5,22000,11000.0
+164,164,HR Analytics Suite,Closed Won,40000,2024-12-03,2024-12-25,Alex Morgan,Shane,Moore,shane.moore@skylinehr.com,Skyline HR,Director of Ops,SQL,2024-11-12,Alex Morgan,1.0,40000,40000.0
+165,165,Sales Enablement Toolkit,Negotiation,20000,2024-12-05,,Jordan Smith,Danielle,Reid,danielle.reid@brightpath.ca,BrightPath Systems,Marketing Specialist,Lead,2024-11-14,Jordan Smith,0.75,20000,15000.0
+166,166,Operational Efficiency Audit,Prospecting,13000,2024-12-07,,Jordan Smith,Colton,Hayes,colton.hayes@quantumfleet.com,QuantumFleet,VP Revenue,MQL,2024-11-16,Jordan Smith,0.1,13000,1300.0
+167,167,Marketing Ops Automation,Qualification,21000,2024-12-09,2025-01-10,Jamie Lee,Leah,Clark,leah.clark@mapletech.ca,MapleTech,Sales Manager,Lead,2024-11-18,Jamie Lee,0.0,21000,0.0
+168,168,Sales Team Performance Suite,Proposal,26000,2024-12-11,,Alex Morgan,Victor,Moore,victor.moore@everline.io,Everline Software,Director of Ops,SQL,2024-11-20,Alex Morgan,0.5,26000,13000.0
+169,169,Lead Routing Optimization,Closed Lost,9000,2024-12-13,2025-01-05,Jordan Smith,Amber,Reed,amber.reed@bluepeak.ca,BluePeak Systems,Marketing Lead,Lead,2024-11-22,Jordan Smith,0.0,9000,0.0
+170,170,CRM Data Governance Setup,Negotiation,28000,2024-12-15,,Jamie Lee,Noah,Walsh,noah.walsh@signalpath.io,SignalPath,Sales Coordinator,MQL,2024-11-24,Jamie Lee,0.75,28000,21000.0
+171,171,Sales Playbook Development,Prospecting,15000,2024-12-17,,Jamie Lee,Hailey,Young,hailey.young@zenflow.ca,ZenFlow,Marketing Manager,Lead,2024-11-26,Jamie Lee,0.1,15000,1500.0
+172,172,Attribution Model Build,Qualification,17000,2024-12-19,2025-01-18,Alex Morgan,Brady,Grant,brady.grant@apexlogic.io,ApexLogic,Director of Revenue,SQL,2024-11-28,Alex Morgan,0.0,17000,0.0
+173,173,Marketing Funnel Analysis,Proposal,9000,2024-12-21,,Jamie Lee,Elise,Moore,elise.moore@brightwave.ca,BrightWave,Sales Lead,Lead,2024-11-30,Jordan Smith,0.5,9000,4500.0
+174,174,HR Workflow Automation,Closed Won,31000,2024-12-23,2025-01-12,Jordan Smith,Travis,Reid,travis.reid@corelytics.com,CoreLytics,VP Sales,MQL,2024-12-02,Jamie Lee,1.0,31000,31000.0
+175,175,Sales Ops Training Program,Negotiation,20000,2024-12-25,,Jamie Lee,Kaylee,Hayes,kaylee.hayes@northpeak.ca,NorthPeak,Operations Analyst,Lead,2024-12-04,Alex Morgan,0.75,20000,15000.0
+176,176,Quarterly RevOps Audit,Prospecting,14000,2024-12-27,,Alex Morgan,Jonah,Clark,jonah.clark@revworks.io,RevWorks,Director of Ops,SQL,2024-12-06,Jordan Smith,0.1,14000,1400.0
+177,177,CRM Custom Reporting,Qualification,16000,2024-12-29,2025-02-01,Jordan Smith,Sienna,Moore,sienna.moore@skylogic.ca,SkyLogic,Marketing Specialist,Lead,2024-12-08,Jamie Lee,0.0,16000,0.0
+178,178,Sales Forecasting Model,Proposal,24000,2024-12-31,,Jamie Lee,Garrett,Reed,garrett.reed@everpath.io,EverPath,VP Revenue,MQL,2024-12-10,Alex Morgan,0.5,24000,12000.0
+179,179,Data Hygiene Overhaul,Closed Lost,10000,2025-01-02,2025-01-28,Alex Morgan,Adriana,Hayes,adriana.hayes@mapledata.ca,MapleData,Sales Manager,Lead,2024-12-12,Jordan Smith,0.0,10000,0.0
+180,180,Revenue Engine Build,Negotiation,35000,2025-01-04,,Jordan Smith,Colby,Clark,colby.clark@signalcore.io,SignalCore,Director of Sales,SQL,2024-12-14,Jamie Lee,0.75,35000,26250.0
+181,181,Marketing Ops Audit,Prospecting,12000,2025-01-06,,Jamie Lee,Alana,Moore,alana.moore@northbridgeops.com,Northbridge Ops,Marketing Lead,Lead,2024-12-16,Jamie Lee,0.1,12000,1200.0
+182,182,Engineering Workflow Optimization,Qualification,20000,2025-01-08,2025-02-10,Alex Morgan,Spencer,Reid,spencer.reid@revpoint.ca,RevPoint Solutions,Sales Manager,MQL,2024-12-18,Jamie Lee,0.0,20000,0.0
+183,183,Sales Coaching Program,Proposal,15000,2025-01-10,,Jamie Lee,Marina,Walsh,marina.walsh@clearwave.io,ClearWave Analytics,Director of Ops,Lead,2024-12-20,Alex Morgan,0.5,15000,7500.0
+184,184,Revenue Insights Dashboard,Closed Won,27000,2025-01-12,2025-02-02,Jordan Smith,Shawn,Young,shawn.young@skylinehr.com,Skyline HR,VP HR,SQL,2024-12-22,Alex Morgan,1.0,27000,27000.0
+185,185,Customer Segmentation Model,Negotiation,22000,2025-01-14,,Alex Morgan,Rebecca,Grant,rebecca.grant@brightpath.ca,BrightPath Systems,Marketing Lead,Lead,2024-12-24,Jordan Smith,0.75,22000,16500.0
+186,186,RevOps Infrastructure Setup,Prospecting,30000,2025-01-16,,Jordan Smith,Tyler,Moore,tyler.moore@quantumfleet.com,QuantumFleet,Director of Ops,MQL,2024-12-26,Jordan Smith,0.1,30000,3000.0
+187,187,Sales Funnel Optimization,Qualification,18000,2025-01-18,2025-02-20,Jamie Lee,Angela,Reed,angela.reed@mapletech.ca,MapleTech,Sales Lead,Lead,2024-12-28,Jamie Lee,0.0,18000,0.0
+188,188,Revenue Forecasting Engine,Proposal,26000,2025-01-20,,Alex Morgan,Corey,Hayes,corey.hayes@everline.io,Everline Software,COO,SQL,2024-12-30,Alex Morgan,0.5,26000,13000.0
+189,189,Marketing Attribution Setup,Closed Lost,14000,2025-01-22,2025-02-15,Jordan Smith,Michelle,Clark,michelle.clark@bluepeak.ca,BluePeak Systems,Marketing Manager,Lead,2024-12-31,Jordan Smith,0.0,14000,0.0
+190,190,Sales Pipeline Optimization,Negotiation,25000,2025-01-24,,Jamie Lee,Justin,Moore,justin.moore@signalpath.io,SignalPath,VP Revenue,MQL,2025-01-02,Jamie Lee,0.75,25000,18750.0
+191,191,Workflow Automation Build,Prospecting,16000,2025-01-26,,Jamie Lee,Erin,Reid,erin.reid@zenflow.ca,ZenFlow,Operations Manager,Lead,2025-01-04,Jamie Lee,0.1,16000,1600.0
+192,192,Lead Scoring Model,Qualification,12000,2025-01-28,2025-02-28,Jamie Lee,Marcus,Walsh,marcus.walsh@apexlogic.io,ApexLogic,Director of Ops,SQL,2025-01-06,Alex Morgan,0.0,12000,0.0
+193,193,CRM Integration Package,Proposal,22000,2025-01-30,,Alex Morgan,Tara,Young,tara.young@brightwave.ca,BrightWave,Marketing Specialist,Lead,2025-01-08,Jordan Smith,0.5,22000,11000.0
+194,194,HR Analytics Suite,Closed Won,40000,2025-02-01,2025-02-25,Alex Morgan,Shawn,Grant,shawn.grant@corelytics.com,CoreLytics,VP Revenue,MQL,2025-01-10,Jamie Lee,1.0,40000,40000.0
+195,195,Sales Enablement Toolkit,Negotiation,20000,2025-02-03,,Jordan Smith,Isabelle,Moore,isabelle.moore@northpeak.ca,NorthPeak,Sales Lead,Lead,2025-01-12,Alex Morgan,0.75,20000,15000.0
+196,196,Operational Efficiency Audit,Prospecting,13000,2025-02-05,,Jordan Smith,Connor,Reid,connor.reid@revworks.io,RevWorks,Director of Sales,SQL,2025-01-14,Jordan Smith,0.1,13000,1300.0
+197,197,Marketing Ops Automation,Qualification,21000,2025-02-07,2025-03-10,Jamie Lee,Naomi,Hayes,naomi.hayes@skylogic.ca,SkyLogic,Marketing Manager,Lead,2025-01-16,Jamie Lee,0.0,21000,0.0
+198,198,Sales Team Performance Suite,Proposal,26000,2025-02-09,,Alex Morgan,Brent,Clark,brent.clark@everpath.io,EverPath,COO,MQL,2025-01-18,Alex Morgan,0.5,26000,13000.0
+199,199,Lead Routing Optimization,Closed Lost,9000,2025-02-11,2025-03-05,Jordan Smith,Elena,Moore,elena.moore@mapledata.ca,MapleData,Sales Coordinator,Lead,2025-01-20,Jordan Smith,0.0,9000,0.0
+200,200,CRM Data Governance Setup,Negotiation,28000,2025-02-13,,Jamie Lee,Caleb,Reid,caleb.reid@signalcore.io,SignalCore,Director of Revenue,SQL,2025-01-22,Jamie Lee,0.75,28000,21000.0
+201,201,Sales Playbook Development,Prospecting,15000,2025-02-15,,Jamie Lee,Marissa,Young,marissa.young@northbridgeops.com,Northbridge Ops,Marketing Lead,Lead,2025-01-24,Jamie Lee,0.1,15000,1500.0
+202,202,Attribution Model Build,Qualification,17000,2025-02-17,2025-03-18,Alex Morgan,Tyson,Walsh,tyson.walsh@revpoint.ca,RevPoint Solutions,VP Sales,MQL,2025-01-26,Jamie Lee,0.0,17000,0.0
+203,203,Marketing Funnel Analysis,Proposal,9000,2025-02-19,,Jamie Lee,Alexa,Grant,alexa.grant@clearwave.io,ClearWave Analytics,Operations Manager,Lead,2025-01-28,Alex Morgan,0.5,9000,4500.0
+204,204,HR Workflow Automation,Closed Won,31000,2025-02-21,2025-03-12,Jordan Smith,Shane,Moore,shane.moore@skylinehr.com,Skyline HR,Director of Ops,SQL,2025-01-30,Alex Morgan,1.0,31000,31000.0
+205,205,Sales Ops Training Program,Negotiation,20000,2025-02-23,,Jamie Lee,Danielle,Reid,danielle.reid@brightpath.ca,BrightPath Systems,Marketing Specialist,Lead,2025-02-01,Jordan Smith,0.75,20000,15000.0
+206,206,Quarterly RevOps Audit,Prospecting,14000,2025-02-25,,Alex Morgan,Colton,Hayes,colton.hayes@quantumfleet.com,QuantumFleet,VP Revenue,MQL,2025-02-03,Jordan Smith,0.1,14000,1400.0
+207,207,CRM Custom Reporting,Qualification,16000,2025-02-27,2025-04-01,Jordan Smith,Leah,Clark,leah.clark@mapletech.ca,MapleTech,Sales Manager,Lead,2025-02-05,Jamie Lee,0.0,16000,0.0
+208,208,Sales Forecasting Model,Proposal,24000,2025-03-01,,Jamie Lee,Victor,Moore,victor.moore@everline.io,Everline Software,Director of Ops,SQL,2025-02-07,Alex Morgan,0.5,24000,12000.0
+209,209,Data Hygiene Overhaul,Closed Lost,10000,2025-03-03,2025-03-28,Alex Morgan,Amber,Reed,amber.reed@bluepeak.ca,BluePeak Systems,Marketing Lead,Lead,2025-02-09,Jordan Smith,0.0,10000,0.0
+210,210,Revenue Engine Build,Negotiation,35000,2025-03-05,,Jordan Smith,Noah,Walsh,noah.walsh@signalpath.io,SignalPath,Sales Coordinator,MQL,2025-02-11,Jamie Lee,0.75,35000,26250.0
+211,211,Marketing Ops Audit,Prospecting,12000,2025-03-07,,Jamie Lee,Hailey,Young,hailey.young@zenflow.ca,ZenFlow,Marketing Manager,Lead,2025-02-13,Jamie Lee,0.1,12000,1200.0
+212,212,Engineering Workflow Optimization,Qualification,20000,2025-03-09,2025-04-10,Alex Morgan,Brady,Grant,brady.grant@apexlogic.io,ApexLogic,Director of Revenue,SQL,2025-02-15,Alex Morgan,0.0,20000,0.0
+213,213,Sales Coaching Program,Proposal,15000,2025-03-11,,Jamie Lee,Elise,Moore,elise.moore@brightwave.ca,BrightWave,Sales Lead,Lead,2025-02-17,Jordan Smith,0.5,15000,7500.0
+214,214,Revenue Insights Dashboard,Closed Won,27000,2025-03-13,2025-04-02,Jordan Smith,Travis,Reid,travis.reid@corelytics.com,CoreLytics,VP Sales,MQL,2025-02-19,Jamie Lee,1.0,27000,27000.0
+215,215,Customer Segmentation Model,Negotiation,22000,2025-03-15,,Alex Morgan,Kaylee,Hayes,kaylee.hayes@northpeak.ca,NorthPeak,Operations Analyst,Lead,2025-02-21,Alex Morgan,0.75,22000,16500.0
+216,216,RevOps Infrastructure Setup,Prospecting,30000,2025-03-17,,Jordan Smith,Jonah,Clark,jonah.clark@revworks.io,RevWorks,Director of Ops,SQL,2025-02-23,Jordan Smith,0.1,30000,3000.0
+217,217,Sales Funnel Optimization,Qualification,18000,2025-03-19,2025-04-20,Jamie Lee,Sienna,Moore,sienna.moore@skylogic.ca,SkyLogic,Marketing Specialist,Lead,2025-02-25,Jamie Lee,0.0,18000,0.0
+218,218,Revenue Forecasting Engine,Proposal,26000,2025-03-21,,Alex Morgan,Garrett,Reed,garrett.reed@everpath.io,EverPath,VP Revenue,MQL,2025-02-27,Alex Morgan,0.5,26000,13000.0
+219,219,Marketing Attribution Setup,Closed Lost,14000,2025-03-23,2025-04-15,Jordan Smith,Adriana,Hayes,adriana.hayes@mapledata.ca,MapleData,Sales Manager,Lead,2025-03-01,Jordan Smith,0.0,14000,0.0
+220,220,Sales Pipeline Optimization,Negotiation,25000,2025-03-25,,Jamie Lee,Colby,Clark,colby.clark@signalcore.io,SignalCore,Director of Sales,SQL,2025-03-03,Jamie Lee,0.75,25000,18750.0
+221,221,Workflow Automation Build,Prospecting,16000,2025-03-27,,Jamie Lee,Alana,Moore,alana.moore@northbridgeops.com,Northbridge Ops,Marketing Lead,Lead,2025-03-05,Jamie Lee,0.1,16000,1600.0
+222,222,Lead Scoring Model,Qualification,12000,2025-03-29,2025-04-28,Jamie Lee,Spencer,Reid,spencer.reid@revpoint.ca,RevPoint Solutions,Sales Manager,MQL,2025-03-07,Jamie Lee,0.0,12000,0.0
+223,223,CRM Integration Package,Proposal,22000,2025-03-31,,Alex Morgan,Marina,Walsh,marina.walsh@clearwave.io,ClearWave Analytics,Director of Ops,Lead,2025-03-09,Alex Morgan,0.5,22000,11000.0
+224,224,HR Analytics Suite,Closed Won,40000,2025-04-02,2025-04-25,Alex Morgan,Shawn,Young,shawn.young@skylinehr.com,Skyline HR,VP HR,SQL,2025-03-11,Alex Morgan,1.0,40000,40000.0
+225,225,Sales Enablement Toolkit,Negotiation,20000,2025-04-04,,Jordan Smith,Rebecca,Grant,rebecca.grant@brightpath.ca,BrightPath Systems,Marketing Lead,Lead,2025-03-13,Jordan Smith,0.75,20000,15000.0
+226,226,Operational Efficiency Audit,Prospecting,13000,2025-04-06,,Jordan Smith,Tyler,Moore,tyler.moore@quantumfleet.com,QuantumFleet,Director of Ops,MQL,2025-03-15,Jordan Smith,0.1,13000,1300.0
+227,227,Marketing Ops Automation,Qualification,21000,2025-04-08,2025-05-10,Jamie Lee,Angela,Reed,angela.reed@mapletech.ca,MapleTech,Sales Lead,Lead,2025-03-17,Jamie Lee,0.0,21000,0.0
+228,228,Sales Team Performance Suite,Proposal,26000,2025-04-10,,Alex Morgan,Corey,Hayes,corey.hayes@everline.io,Everline Software,COO,SQL,2025-03-19,Alex Morgan,0.5,26000,13000.0
+229,229,Lead Routing Optimization,Closed Lost,9000,2025-04-12,2025-05-05,Jordan Smith,Michelle,Clark,michelle.clark@bluepeak.ca,BluePeak Systems,Marketing Manager,Lead,2025-03-21,Jordan Smith,0.0,9000,0.0
+230,230,CRM Data Governance Setup,Negotiation,28000,2025-04-14,,Jamie Lee,Justin,Moore,justin.moore@signalpath.io,SignalPath,VP Revenue,MQL,2025-03-23,Jamie Lee,0.75,28000,21000.0
+231,231,Sales Playbook Development,Prospecting,15000,2025-04-16,,Jamie Lee,Erin,Reid,erin.reid@zenflow.ca,ZenFlow,Operations Manager,Lead,2025-03-25,Jamie Lee,0.1,15000,1500.0
+232,232,Attribution Model Build,Qualification,17000,2025-04-18,2025-05-18,Alex Morgan,Marcus,Walsh,marcus.walsh@apexlogic.io,ApexLogic,Director of Ops,SQL,2025-03-27,Alex Morgan,0.0,17000,0.0
+233,233,Marketing Funnel Analysis,Proposal,9000,2025-04-20,,Jamie Lee,Tara,Young,tara.young@brightwave.ca,BrightWave,Marketing Specialist,Lead,2025-03-29,Jordan Smith,0.5,9000,4500.0
+234,234,HR Workflow Automation,Closed Won,31000,2025-04-22,2025-05-12,Jordan Smith,Shawn,Grant,shawn.grant@corelytics.com,CoreLytics,VP Revenue,MQL,2025-03-31,Jamie Lee,1.0,31000,31000.0
+235,235,Sales Ops Training Program,Negotiation,20000,2025-04-24,,Jamie Lee,Isabelle,Moore,isabelle.moore@northpeak.ca,NorthPeak,Sales Lead,Lead,2025-04-02,Alex Morgan,0.75,20000,15000.0
+236,236,Quarterly RevOps Audit,Prospecting,14000,2025-04-26,,Alex Morgan,Connor,Reid,connor.reid@revworks.io,RevWorks,Director of Sales,SQL,2025-04-04,Jordan Smith,0.1,14000,1400.0
+237,237,CRM Custom Reporting,Qualification,16000,2025-04-28,2025-06-01,Jordan Smith,Naomi,Hayes,naomi.hayes@skylogic.ca,SkyLogic,Marketing Manager,Lead,2025-04-06,Jamie Lee,0.0,16000,0.0
+238,238,Sales Forecasting Model,Proposal,24000,2025-04-30,,Jamie Lee,Brent,Clark,brent.clark@everpath.io,EverPath,COO,MQL,2025-04-08,Alex Morgan,0.5,24000,12000.0
+239,239,Data Hygiene Overhaul,Closed Lost,10000,2025-05-02,2025-05-28,Alex Morgan,Elena,Moore,elena.moore@mapledata.ca,MapleData,Sales Coordinator,Lead,2025-04-10,Jordan Smith,0.0,10000,0.0
+240,240,Revenue Engine Build,Negotiation,35000,2025-05-04,,Jordan Smith,Caleb,Reid,caleb.reid@signalcore.io,SignalCore,Director of Revenue,SQL,2025-04-12,Jamie Lee,0.75,35000,26250.0
+241,241,Marketing Ops Audit,Prospecting,12000,2025-05-06,,Jamie Lee,Marissa,Young,marissa.young@northbridgeops.com,Northbridge Ops,Marketing Lead,Lead,2025-04-14,Jamie Lee,0.1,12000,1200.0
+242,242,Engineering Workflow Optimization,Qualification,20000,2025-05-08,2025-06-10,Alex Morgan,Tyson,Walsh,tyson.walsh@revpoint.ca,RevPoint Solutions,VP Sales,MQL,2025-04-16,Jamie Lee,0.0,20000,0.0
+243,243,Sales Coaching Program,Proposal,15000,2025-05-10,,Jamie Lee,Alexa,Grant,alexa.grant@clearwave.io,ClearWave Analytics,Operations Manager,Lead,2025-04-18,Alex Morgan,0.5,15000,7500.0
+244,244,Revenue Insights Dashboard,Closed Won,27000,2025-05-12,2025-06-02,Jordan Smith,Shane,Moore,shane.moore@skylinehr.com,Skyline HR,Director of Ops,SQL,2025-04-20,Alex Morgan,1.0,27000,27000.0
+245,245,Customer Segmentation Model,Negotiation,22000,2025-05-14,,Alex Morgan,Danielle,Reid,danielle.reid@brightpath.ca,BrightPath Systems,Marketing Specialist,Lead,2025-04-22,Jordan Smith,0.75,22000,16500.0
+246,246,RevOps Infrastructure Setup,Prospecting,30000,2025-05-16,,Jordan Smith,Colton,Hayes,colton.hayes@quantumfleet.com,QuantumFleet,VP Revenue,MQL,2025-04-24,Jordan Smith,0.1,30000,3000.0
+247,247,Sales Funnel Optimization,Qualification,18000,2025-05-18,2025-06-20,Jamie Lee,Leah,Clark,leah.clark@mapletech.ca,MapleTech,Sales Manager,Lead,2025-04-26,Jamie Lee,0.0,18000,0.0
+248,248,Revenue Forecasting Engine,Proposal,26000,2025-05-20,,Alex Morgan,Victor,Moore,victor.moore@everline.io,Everline Software,Director of Ops,SQL,2025-04-28,Alex Morgan,0.5,26000,13000.0
+249,249,Marketing Attribution Setup,Closed Lost,14000,2025-05-22,2025-06-15,Jordan Smith,Amber,Reed,amber.reed@bluepeak.ca,BluePeak Systems,Marketing Lead,Lead,2025-04-30,Jordan Smith,0.0,14000,0.0
+250,250,Sales Pipeline Optimization,Negotiation,25000,2025-05-24,,Jamie Lee,Noah,Walsh,noah.walsh@signalpath.io,SignalPath,Sales Coordinator,MQL,2025-05-02,Jamie Lee,0.75,25000,18750.0
+251,1,Workflow Automation Build,Prospecting,16000,2025-05-26,,Jamie Lee,Amanda,Lopez,amanda.lopez@northbridgeops.com,Northbridge Ops,Operations Manager,Lead,2024-01-14,Jamie Lee,0.1,16000,1600.0
+252,2,Lead Scoring Model,Qualification,12000,2025-05-28,2025-06-28,Jamie Lee,Marcus,Chen,marcus.chen@revpoint.ca,RevPoint Solutions,Director of Sales,MQL,2024-02-03,Jamie Lee,0.0,12000,0.0
+253,3,CRM Integration Package,Proposal,22000,2025-05-30,,Alex Morgan,Sarah,Patel,sarah.patel@clearwave.io,ClearWave Analytics,Marketing Manager,Lead,2024-03-22,Alex Morgan,0.5,22000,11000.0
+254,4,HR Analytics Suite,Closed Won,40000,2025-06-01,2025-06-25,Alex Morgan,Daniel,Reed,daniel.reed@skylinehr.com,Skyline HR,COO,SQL,2024-04-10,Alex Morgan,1.0,40000,40000.0
+255,5,Sales Enablement Toolkit,Negotiation,20000,2025-06-03,,Jordan Smith,Emily,Nguyen,emily.nguyen@brightpath.ca,BrightPath Systems,RevOps Manager,Lead,2024-05-18,Jordan Smith,0.75,20000,15000.0
+256,6,Operational Efficiency Audit,Prospecting,13000,2025-06-05,,Jordan Smith,Michael,Turner,michael.turner@quantumfleet.com,QuantumFleet,VP Operations,MQL,2024-06-02,Jordan Smith,0.1,13000,1300.0
+257,7,Marketing Ops Automation,Qualification,21000,2025-06-07,2025-07-10,Jamie Lee,Olivia,Grant,olivia.grant@mapletech.ca,MapleTech,Sales Manager,Lead,2024-06-27,Jamie Lee,0.0,21000,0.0
+258,8,Sales Team Performance Suite,Proposal,26000,2025-06-09,,Alex Morgan,Jason,Kim,jason.kim@everline.io,Everline Software,Director of Revenue,SQL,2024-07-15,Alex Morgan,0.5,26000,13000.0
+259,9,Lead Routing Optimization,Closed Lost,9000,2025-06-11,2025-07-05,Jordan Smith,Rebecca,Stone,rebecca.stone@bluepeak.ca,BluePeak Systems,Operations Lead,Lead,2024-08-01,Jordan Smith,0.0,9000,0.0
+260,10,CRM Data Governance Setup,Negotiation,28000,2025-06-13,,Jamie Lee,Anthony,Clark,anthony.clark@signalpath.io,SignalPath,Sales Director,MQL,2024-08-22,Jamie Lee,0.75,28000,21000.0
+261,11,Sales Playbook Development,Prospecting,15000,2025-06-15,,Jamie Lee,Laura,Mitchell,laura.mitchell@zenflow.ca,ZenFlow,Marketing Director,Lead,2024-01-05,Jamie Lee,0.1,15000,1500.0
+262,12,Attribution Model Build,Qualification,17000,2025-06-17,2025-07-18,Alex Morgan,Kevin,Brooks,kevin.brooks@apexlogic.io,ApexLogic,CTO,SQL,2024-01-08,Alex Morgan,0.0,17000,0.0
+263,13,Marketing Funnel Analysis,Proposal,9000,2025-06-19,,Jamie Lee,Natalie,Young,natalie.young@brightwave.ca,BrightWave,Sales Coordinator,Lead,2024-01-11,Jordan Smith,0.5,9000,4500.0
+264,14,HR Workflow Automation,Closed Won,31000,2025-06-21,2025-07-12,Jordan Smith,Patrick,James,patrick.james@corelytics.com,CoreLytics,VP Sales,MQL,2024-01-15,Jamie Lee,1.0,31000,31000.0
+265,15,Sales Ops Training Program,Negotiation,20000,2025-06-23,,Jamie Lee,Isabella,Moore,isabella.moore@northpeak.ca,NorthPeak,Operations Analyst,Lead,2024-01-18,Alex Morgan,0.75,20000,15000.0
+266,16,Quarterly RevOps Audit,Prospecting,14000,2025-06-25,,Alex Morgan,Jacob,White,jacob.white@revworks.io,RevWorks,Director of Ops,SQL,2024-01-20,Jordan Smith,0.1,14000,1400.0
+267,17,CRM Custom Reporting,Qualification,16000,2025-06-27,2025-08-01,Jordan Smith,Victoria,Hall,victoria.hall@skylogic.ca,SkyLogic,Marketing Lead,Lead,2024-01-23,Jamie Lee,0.0,16000,0.0
+268,18,Sales Forecasting Model,Proposal,24000,2025-06-29,,Jamie Lee,Christopher,Adams,chris.adams@everpath.io,EverPath,COO,MQL,2024-01-25,Alex Morgan,0.5,24000,12000.0
+269,19,Data Hygiene Overhaul,Closed Lost,10000,2025-07-01,2025-07-28,Alex Morgan,Grace,Walker,grace.walker@mapledata.ca,MapleData,Sales Manager,Lead,2024-01-28,Jordan Smith,0.0,10000,0.0
+270,20,Revenue Engine Build,Negotiation,35000,2025-07-03,,Jordan Smith,Andrew,Scott,andrew.scott@signalcore.io,SignalCore,VP Revenue,SQL,2024-01-30,Jamie Lee,0.75,35000,26250.0
+271,21,Marketing Ops Audit,Prospecting,12000,2025-07-05,,Jamie Lee,Julia,Price,julia.price@northbridgeops.com,Northbridge Ops,Sales Coordinator,Lead,2024-02-01,Jamie Lee,0.1,12000,1200.0
+272,22,Engineering Workflow Optimization,Qualification,20000,2025-07-07,2025-08-10,Alex Morgan,Steven,Gray,steven.gray@revpoint.ca,RevPoint Solutions,Marketing Manager,MQL,2024-02-04,Jamie Lee,0.0,20000,0.0
+273,23,Sales Coaching Program,Proposal,15000,2025-07-09,,Jamie Lee,Monica,Shaw,monica.shaw@clearwave.io,ClearWave Analytics,Operations Lead,Lead,2024-02-06,Alex Morgan,0.5,15000,7500.0
+274,24,Revenue Insights Dashboard,Closed Won,27000,2025-07-11,2025-08-02,Jordan Smith,Henry,Cooper,henry.cooper@skylinehr.com,Skyline HR,Director of HR,SQL,2024-02-08,Alex Morgan,1.0,27000,27000.0
+275,25,Customer Segmentation Model,Negotiation,22000,2025-07-13,,Alex Morgan,Chloe,Diaz,chloe.diaz@brightpath.ca,BrightPath Systems,Sales Manager,Lead,2024-02-10,Jordan Smith,0.75,22000,16500.0
+276,26,RevOps Infrastructure Setup,Prospecting,30000,2025-07-15,,Jordan Smith,Jonathan,Evans,jon.evans@quantumfleet.com,QuantumFleet,COO,MQL,2024-02-12,Jordan Smith,0.1,30000,3000.0
+277,27,Sales Funnel Optimization,Qualification,18000,2025-07-17,2025-08-20,Jamie Lee,Sophia,Bell,sophia.bell@mapletech.ca,MapleTech,Marketing Specialist,Lead,2024-02-14,Jamie Lee,0.0,18000,0.0
+278,28,Revenue Forecasting Engine,Proposal,26000,2025-07-19,,Alex Morgan,Brandon,Lee,brandon.lee@everline.io,Everline Software,VP Sales,SQL,2024-02-16,Alex Morgan,0.5,26000,13000.0
+279,29,Marketing Attribution Setup,Closed Lost,14000,2025-07-21,2025-08-15,Jordan Smith,Hailey,Green,hailey.green@bluepeak.ca,BluePeak Systems,Operations Analyst,Lead,2024-02-18,Jordan Smith,0.0,14000,0.0
+280,30,Sales Pipeline Optimization,Negotiation,25000,2025-07-23,,Jamie Lee,Eric,King,eric.king@signalpath.io,SignalPath,Director of Ops,MQL,2024-02-20,Jamie Lee,0.75,25000,18750.0
+281,31,Workflow Automation Build,Prospecting,16000,2025-07-25,,Jamie Lee,Melissa,Turner,melissa.turner@zenflow.ca,ZenFlow,Marketing Lead,Lead,2024-02-22,Jamie Lee,0.1,16000,1600.0
+282,32,Lead Scoring Model,Qualification,12000,2025-07-27,2025-08-28,Jamie Lee,Shawn,Reed,shawn.reed@apexlogic.io,ApexLogic,VP Engineering,SQL,2024-02-24,Alex Morgan,0.0,12000,0.0
+283,33,CRM Integration Package,Proposal,22000,2025-07-29,,Alex Morgan,Paige,Howard,paige.howard@brightwave.ca,BrightWave,Sales Lead,Lead,2024-02-26,Jordan Smith,0.5,22000,11000.0
+284,34,HR Analytics Suite,Closed Won,40000,2025-07-31,2025-08-25,Alex Morgan,Timothy,Long,tim.long@corelytics.com,CoreLytics,Director of Revenue,MQL,2024-02-28,Jamie Lee,1.0,40000,40000.0
+285,35,Sales Enablement Toolkit,Negotiation,20000,2025-08-02,,Jordan Smith,Kayla,Adler,kayla.adler@northpeak.ca,NorthPeak,Marketing Manager,Lead,2024-03-01,Alex Morgan,0.75,20000,15000.0
+286,36,Operational Efficiency Audit,Prospecting,13000,2025-08-04,,Jordan Smith,Logan,Price,logan.price@revworks.io,RevWorks,COO,SQL,2024-03-03,Jordan Smith,0.1,13000,1300.0
+287,37,Marketing Ops Automation,Qualification,21000,2025-08-06,2025-09-10,Jamie Lee,Faith,Campbell,faith.campbell@skylogic.ca,SkyLogic,Sales Coordinator,Lead,2024-03-05,Jamie Lee,0.0,21000,0.0
+288,38,Sales Team Performance Suite,Proposal,26000,2025-08-08,,Alex Morgan,Mitchell,Hayes,mitchell.hayes@everpath.io,EverPath,VP Revenue,MQL,2024-03-07,Alex Morgan,0.5,26000,13000.0
+289,39,Lead Routing Optimization,Closed Lost,9000,2025-08-10,2025-09-05,Jordan Smith,Daniela,Reyes,daniela.reyes@mapledata.ca,MapleData,Marketing Specialist,Lead,2024-03-09,Jordan Smith,0.0,9000,0.0
+290,40,CRM Data Governance Setup,Negotiation,28000,2025-08-12,,Jamie Lee,Colin,Stewart,colin.stewart@signalcore.io,SignalCore,Director of Sales,SQL,2024-03-11,Jamie Lee,0.75,28000,21000.0
+291,41,Sales Playbook Development,Prospecting,15000,2025-08-14,,Jamie Lee,Alyssa,James,alyssa.james@northbridgeops.com,Northbridge Ops,Operations Lead,Lead,2024-03-13,Jamie Lee,0.1,15000,1500.0
+292,42,Attribution Model Build,Qualification,17000,2025-08-16,2025-09-18,Alex Morgan,Peter,Nguyen,peter.nguyen@revpoint.ca,RevPoint Solutions,Sales Manager,MQL,2024-03-15,Jamie Lee,0.0,17000,0.0
+293,43,Marketing Funnel Analysis,Proposal,9000,2025-08-18,,Jamie Lee,Vanessa,Clark,vanessa.clark@clearwave.io,ClearWave Analytics,Director of Ops,Lead,2024-03-17,Alex Morgan,0.5,9000,4500.0
+294,44,HR Workflow Automation,Closed Won,31000,2025-08-20,2025-09-12,Jordan Smith,Shane,Martin,shane.martin@skylinehr.com,Skyline HR,VP HR,SQL,2024-03-19,Alex Morgan,1.0,31000,31000.0
+295,45,Sales Ops Training Program,Negotiation,20000,2025-08-22,,Jamie Lee,Rachel,Kim,rachel.kim@brightpath.ca,BrightPath Systems,Marketing Lead,Lead,2024-03-21,Jordan Smith,0.75,20000,15000.0
+296,46,Quarterly RevOps Audit,Prospecting,14000,2025-08-24,,Alex Morgan,Tyler,Moore,tyler.moore@quantumfleet.com,QuantumFleet,Director of Ops,MQL,2024-03-23,Jordan Smith,0.1,14000,1400.0
+297,47,CRM Custom Reporting,Qualification,16000,2025-08-26,2025-10-01,Jordan Smith,Angela,Scott,angela.scott@mapletech.ca,MapleTech,Sales Lead,Lead,2024-03-25,Jamie Lee,0.0,16000,0.0
+298,48,Sales Forecasting Model,Proposal,24000,2025-08-28,,Jamie Lee,Corey,White,corey.white@everline.io,Everline Software,COO,SQL,2024-03-27,Alex Morgan,0.5,24000,12000.0
+299,49,Data Hygiene Overhaul,Closed Lost,10000,2025-08-30,2025-09-28,Alex Morgan,Michelle,Stone,michelle.stone@bluepeak.ca,BluePeak Systems,Marketing Manager,Lead,2024-03-29,Jordan Smith,0.0,10000,0.0
+300,50,Revenue Engine Build,Negotiation,35000,2025-09-01,,Jordan Smith,Justin,Reed,justin.reed@signalpath.io,SignalPath,VP Revenue,MQL,2024-03-31,Jamie Lee,0.75,35000,26250.0
+301,51,Marketing Ops Audit,Prospecting,12000,2025-09-03,,Jamie Lee,,,,,,,,,0.1,12000,1200.0
+302,52,Engineering Workflow Optimization,Qualification,20000,2025-09-05,2025-10-10,Alex Morgan,Erin,Walsh,erin.walsh@zenflow.ca,ZenFlow,Operations Manager,Lead,2024-04-02,Jamie Lee,0.0,20000,0.0
+303,53,Sales Coaching Program,Proposal,15000,2025-09-07,,Jamie Lee,Marcus,Young,marcus.young@apexlogic.io,ApexLogic,Director of Ops,SQL,2024-04-04,Alex Morgan,0.5,15000,7500.0
+304,54,Revenue Insights Dashboard,Closed Won,27000,2025-09-09,2025-10-02,Jordan Smith,Tara,Mitchell,tara.mitchell@brightwave.ca,BrightWave,Marketing Specialist,Lead,2024-04-06,Jordan Smith,1.0,27000,27000.0
+305,55,Customer Segmentation Model,Negotiation,22000,2025-09-11,,Alex Morgan,Shawn,Lopez,shawn.lopez@corelytics.com,CoreLytics,VP Revenue,MQL,2024-04-08,Jamie Lee,0.75,22000,16500.0
+306,56,RevOps Infrastructure Setup,Prospecting,30000,2025-09-13,,Jordan Smith,Isabelle,Reed,isabelle.reed@northpeak.ca,NorthPeak,Sales Lead,Lead,2024-04-10,Alex Morgan,0.1,30000,3000.0
+307,57,Sales Funnel Optimization,Qualification,18000,2025-09-15,2025-10-20,Jamie Lee,Connor,James,connor.james@revworks.io,RevWorks,Director of Sales,SQL,2024-04-12,Jordan Smith,0.0,18000,0.0
+308,58,Revenue Forecasting Engine,Proposal,26000,2025-09-17,,Alex Morgan,Naomi,Clark,naomi.clark@skylogic.ca,SkyLogic,Marketing Manager,Lead,2024-04-14,Jamie Lee,0.5,26000,13000.0
+309,59,Marketing Attribution Setup,Closed Lost,14000,2025-09-19,2025-10-15,Jordan Smith,Brent,Hayes,brent.hayes@everpath.io,EverPath,COO,MQL,2024-04-16,Alex Morgan,0.0,14000,0.0
+310,60,Sales Pipeline Optimization,Negotiation,25000,2025-09-21,,Jamie Lee,Elena,Moore,elena.moore@mapledata.ca,MapleData,Sales Coordinator,Lead,2024-04-18,Jordan Smith,0.75,25000,18750.0
+311,61,Workflow Automation Build,Prospecting,16000,2025-09-23,,Jamie Lee,Caleb,Scott,caleb.scott@signalcore.io,SignalCore,Director of Revenue,SQL,2024-04-20,Jamie Lee,0.1,16000,1600.0
+312,62,Lead Scoring Model,Qualification,12000,2025-09-25,2025-10-28,Jamie Lee,Marissa,Nguyen,marissa.nguyen@northbridgeops.com,Northbridge Ops,Marketing Lead,Lead,2024-04-22,Jamie Lee,0.0,12000,0.0
+313,63,CRM Integration Package,Proposal,22000,2025-09-27,,Alex Morgan,Tyson,Gray,tyson.gray@revpoint.ca,RevPoint Solutions,VP Sales,MQL,2024-04-24,Jamie Lee,0.5,22000,11000.0
+314,64,HR Analytics Suite,Closed Won,40000,2025-09-29,2025-10-25,Alex Morgan,Alexa,Stone,alexa.stone@clearwave.io,ClearWave Analytics,Operations Manager,Lead,2024-04-26,Alex Morgan,1.0,40000,40000.0
+315,65,Sales Enablement Toolkit,Negotiation,20000,2025-10-01,,Jordan Smith,Shane,Cooper,shane.cooper@skylinehr.com,Skyline HR,Director of Ops,SQL,2024-04-28,Alex Morgan,0.75,20000,15000.0
+316,66,Operational Efficiency Audit,Prospecting,13000,2025-10-03,,Jordan Smith,Danielle,Price,danielle.price@brightpath.ca,BrightPath Systems,Marketing Specialist,Lead,2024-04-30,Jordan Smith,0.1,13000,1300.0
+317,67,Marketing Ops Automation,Qualification,21000,2025-10-05,2025-11-10,Jamie Lee,Colton,Evans,colton.evans@quantumfleet.com,QuantumFleet,VP Revenue,MQL,2024-05-02,Jordan Smith,0.0,21000,0.0
+318,68,Sales Team Performance Suite,Proposal,26000,2025-10-07,,Alex Morgan,Leah,Grant,leah.grant@mapletech.ca,MapleTech,Sales Manager,Lead,2024-05-04,Jamie Lee,0.5,26000,13000.0
+319,69,Lead Routing Optimization,Closed Lost,9000,2025-10-09,2025-11-05,Jordan Smith,Victor,White,victor.white@everline.io,Everline Software,Director of Ops,SQL,2024-05-06,Alex Morgan,0.0,9000,0.0
+320,70,CRM Data Governance Setup,Negotiation,28000,2025-10-11,,Jamie Lee,Amber,Stone,amber.stone@bluepeak.ca,BluePeak Systems,Marketing Lead,Lead,2024-05-08,Jordan Smith,0.75,28000,21000.0
+321,71,Sales Playbook Development,Prospecting,15000,2025-10-13,,Jamie Lee,Noah,Clark,noah.clark@signalpath.io,SignalPath,Sales Coordinator,MQL,2024-05-10,Jamie Lee,0.1,15000,1500.0
+322,72,Attribution Model Build,Qualification,17000,2025-10-15,2025-11-18,Alex Morgan,Hailey,Mitchell,hailey.mitchell@zenflow.ca,ZenFlow,Marketing Manager,Lead,2024-05-12,Jamie Lee,0.0,17000,0.0
+323,73,Marketing Funnel Analysis,Proposal,9000,2025-10-17,,Jamie Lee,Brady,Reed,brady.reed@apexlogic.io,ApexLogic,Director of Revenue,SQL,2024-05-14,Alex Morgan,0.5,9000,4500.0
+324,74,HR Workflow Automation,Closed Won,31000,2025-10-19,2025-11-12,Jordan Smith,Elise,Howard,elise.howard@brightwave.ca,BrightWave,Sales Lead,Lead,2024-05-16,Jordan Smith,1.0,31000,31000.0
+325,75,Sales Ops Training Program,Negotiation,20000,2025-10-21,,Jamie Lee,Travis,Long,travis.long@corelytics.com,CoreLytics,VP Sales,MQL,2024-05-18,Jamie Lee,0.75,20000,15000.0
+326,76,Quarterly RevOps Audit,Prospecting,14000,2025-10-23,,Alex Morgan,Kaylee,Adler,kaylee.adler@northpeak.ca,NorthPeak,Operations Analyst,Lead,2024-05-20,Alex Morgan,0.1,14000,1400.0
+327,77,CRM Custom Reporting,Qualification,16000,2025-10-25,2025-12-01,Jordan Smith,Jonah,Price,jonah.price@revworks.io,RevWorks,Director of Ops,SQL,2024-05-22,Jordan Smith,0.0,16000,0.0
+328,78,Sales Forecasting Model,Proposal,24000,2025-10-27,,Jamie Lee,Sienna,Campbell,sienna.campbell@skylogic.ca,SkyLogic,Marketing Specialist,Lead,2024-05-24,Jamie Lee,0.5,24000,12000.0
+329,79,Data Hygiene Overhaul,Closed Lost,10000,2025-10-29,2025-11-28,Alex Morgan,Garrett,Hayes,garrett.hayes@everpath.io,EverPath,VP Revenue,MQL,2024-05-26,Alex Morgan,0.0,10000,0.0
+330,80,Revenue Engine Build,Negotiation,35000,2025-10-31,,Jordan Smith,Adriana,Reyes,adriana.reyes@mapledata.ca,MapleData,Sales Manager,Lead,2024-05-28,Jordan Smith,0.75,35000,26250.0
+331,81,Marketing Ops Audit,Prospecting,12000,2025-11-02,,Jamie Lee,Colby,Stewart,colby.stewart@signalcore.io,SignalCore,Director of Sales,SQL,2024-05-30,Jamie Lee,0.1,12000,1200.0
+332,82,Engineering Workflow Optimization,Qualification,20000,2025-11-04,2025-12-10,Alex Morgan,Alana,James,alana.james@northbridgeops.com,Northbridge Ops,Marketing Lead,Lead,2024-06-01,Jamie Lee,0.0,20000,0.0
+333,83,Sales Coaching Program,Proposal,15000,2025-11-06,,Jamie Lee,Spencer,Nguyen,spencer.nguyen@revpoint.ca,RevPoint Solutions,Sales Manager,MQL,2024-06-03,Jamie Lee,0.5,15000,7500.0
+334,84,Revenue Insights Dashboard,Closed Won,27000,2025-11-08,2025-12-02,Jordan Smith,Marina,Clark,marina.clark@clearwave.io,ClearWave Analytics,Director of Ops,Lead,2024-06-05,Alex Morgan,1.0,27000,27000.0
+335,85,Customer Segmentation Model,Negotiation,22000,2025-11-10,,Alex Morgan,Shawn,Martin,shawn.martin@skylinehr.com,Skyline HR,VP HR,SQL,2024-06-07,Alex Morgan,0.75,22000,16500.0
+336,86,RevOps Infrastructure Setup,Prospecting,30000,2025-11-12,,Jordan Smith,Rebecca,Kim,rebecca.kim@brightpath.ca,BrightPath Systems,Marketing Lead,Lead,2024-06-09,Jordan Smith,0.1,30000,3000.0
+337,87,Sales Funnel Optimization,Qualification,18000,2025-11-14,2025-12-20,Jamie Lee,Tyler,Moore,tyler.moore@quantumfleet.com,QuantumFleet,Director of Ops,MQL,2024-06-11,Jordan Smith,0.0,18000,0.0
+338,88,Revenue Forecasting Engine,Proposal,26000,2025-11-16,,Alex Morgan,Angela,Scott,angela.scott@mapletech.ca,MapleTech,Sales Lead,Lead,2024-06-13,Jamie Lee,0.5,26000,13000.0
+339,89,Marketing Attribution Setup,Closed Lost,14000,2025-11-18,2025-12-15,Jordan Smith,Corey,White,corey.white@everline.io,Everline Software,COO,SQL,2024-06-15,Alex Morgan,0.0,14000,0.0
+340,90,Sales Pipeline Optimization,Negotiation,25000,2025-11-20,,Jamie Lee,Michelle,Stone,michelle.stone@bluepeak.ca,BluePeak Systems,Marketing Manager,Lead,2024-06-17,Jordan Smith,0.75,25000,18750.0
+341,91,Workflow Automation Build,Prospecting,16000,2025-11-22,,Jamie Lee,Justin,Reed,justin.reed@signalpath.io,SignalPath,VP Revenue,MQL,2024-06-19,Jamie Lee,0.1,16000,1600.0
+342,92,Lead Scoring Model,Qualification,12000,2025-11-24,2025-12-28,Jamie Lee,Erin,Walsh,erin.walsh@zenflow.ca,ZenFlow,Operations Manager,Lead,2024-06-21,Jamie Lee,0.0,12000,0.0
+343,93,CRM Integration Package,Proposal,22000,2025-11-26,,Alex Morgan,Marcus,Young,marcus.young@apexlogic.io,ApexLogic,Director of Ops,SQL,2024-06-23,Alex Morgan,0.5,22000,11000.0
+344,94,HR Analytics Suite,Closed Won,40000,2025-11-28,2025-12-25,Alex Morgan,Tara,Mitchell,tara.mitchell@brightwave.ca,BrightWave,Marketing Specialist,Lead,2024-06-25,Jordan Smith,1.0,40000,40000.0
+345,95,Sales Enablement Toolkit,Negotiation,20000,2025-11-30,,Jordan Smith,Shawn,Lopez,shawn.lopez@corelytics.com,CoreLytics,VP Revenue,MQL,2024-06-27,Jamie Lee,0.75,20000,15000.0
+346,96,Operational Efficiency Audit,Prospecting,13000,2025-12-02,,Jordan Smith,Isabelle,Reed,isabelle.reed@northpeak.ca,NorthPeak,Sales Lead,Lead,2024-06-29,Alex Morgan,0.1,13000,1300.0
+347,97,Marketing Ops Automation,Qualification,21000,2025-12-04,2026-01-10,Jamie Lee,Connor,James,connor.james@revworks.io,RevWorks,Director of Sales,SQL,2024-07-01,Jordan Smith,0.0,21000,0.0
+348,98,Sales Team Performance Suite,Proposal,26000,2025-12-06,,Alex Morgan,Naomi,Clark,naomi.clark@skylogic.ca,SkyLogic,Marketing Manager,Lead,2024-07-03,Jamie Lee,0.5,26000,13000.0
+349,99,Lead Routing Optimization,Closed Lost,9000,2025-12-08,2026-01-05,Jordan Smith,Brent,Hayes,brent.hayes@everpath.io,EverPath,COO,MQL,2024-07-05,Alex Morgan,0.0,9000,0.0
+350,100,CRM Data Governance Setup,Negotiation,28000,2025-12-10,,Jamie Lee,Elena,Moore,elena.moore@mapledata.ca,MapleData,Sales Coordinator,Lead,2024-07-07,Jordan Smith,0.75,28000,21000.0
+351,101,Sales Enablement Toolkit,Negotiation,20000,2025-12-12,,Jordan Smith,Elise,Turner,elise.turner@northbridgeops.com,Northbridge Ops,Operations Analyst,Lead,2024-07-09,Jamie Lee,0.75,20000,15000.0
+352,102,Operational Efficiency Audit,Prospecting,13000,2025-12-14,,Jordan Smith,Marcus,Reid,marcus.reid@revpoint.ca,RevPoint Solutions,Sales Lead,MQL,2024-07-11,Jamie Lee,0.1,13000,1300.0
+353,103,Marketing Ops Automation,Qualification,21000,2025-12-16,2026-01-18,Jamie Lee,Sabrina,Lopez,sabrina.lopez@clearwave.io,ClearWave Analytics,Marketing Manager,Lead,2024-07-13,Alex Morgan,0.0,21000,0.0
+354,104,Sales Team Performance Suite,Proposal,26000,2025-12-18,,Alex Morgan,Henry,Walters,henry.walters@skylinehr.com,Skyline HR,Director of Ops,SQL,2024-07-15,Alex Morgan,0.5,26000,13000.0
+355,105,Lead Routing Optimization,Closed Lost,9000,2025-12-20,2026-01-12,Jordan Smith,Chloe,Andrews,chloe.andrews@brightpath.ca,BrightPath Systems,Sales Coordinator,Lead,2024-07-17,Jordan Smith,0.0,9000,0.0
+356,106,CRM Data Governance Setup,Negotiation,28000,2025-12-22,,Jamie Lee,Michael,Shaw,michael.shaw@quantumfleet.com,QuantumFleet,VP Revenue,MQL,2024-07-19,Jordan Smith,0.75,28000,21000.0
+357,107,Sales Playbook Development,Prospecting,15000,2025-12-24,,Jamie Lee,Olivia,Hayes,olivia.hayes@mapletech.ca,MapleTech,Marketing Lead,Lead,2024-07-21,Jamie Lee,0.1,15000,1500.0
+358,108,Attribution Model Build,Qualification,17000,2025-12-26,2026-01-28,Alex Morgan,Jason,Reed,jason.reed@everline.io,Everline Software,Director of Sales,SQL,2024-07-23,Alex Morgan,0.0,17000,0.0
+359,109,Marketing Funnel Analysis,Proposal,9000,2025-12-28,,Jamie Lee,Rebecca,Moore,rebecca.moore@bluepeak.ca,BluePeak Systems,Operations Lead,Lead,2024-07-25,Jordan Smith,0.5,9000,4500.0
+360,110,HR Workflow Automation,Closed Won,31000,2025-12-30,2026-01-15,Jordan Smith,Anthony,Price,anthony.price@signalpath.io,SignalPath,Sales Manager,MQL,2024-07-27,Jamie Lee,1.0,31000,31000.0
+361,111,Sales Ops Training Program,Negotiation,20000,2026-01-01,,Jamie Lee,Laura,Kim,laura.kim@zenflow.ca,ZenFlow,Marketing Specialist,Lead,2024-07-29,Jamie Lee,0.75,20000,15000.0
+362,112,Quarterly RevOps Audit,Prospecting,14000,2026-01-03,,Alex Morgan,Kevin,Diaz,kevin.diaz@apexlogic.io,ApexLogic,Director of Revenue,SQL,2024-07-31,Alex Morgan,0.1,14000,1400.0
+363,113,CRM Custom Reporting,Qualification,16000,2026-01-05,2026-02-10,Jordan Smith,Natalie,Scott,natalie.scott@brightwave.ca,BrightWave,Sales Lead,Lead,2024-08-02,Jordan Smith,0.0,16000,0.0
+364,114,Sales Forecasting Model,Proposal,24000,2026-01-07,,Jamie Lee,Patrick,Nguyen,patrick.nguyen@corelytics.com,CoreLytics,VP Sales,MQL,2024-08-04,Jamie Lee,0.5,24000,12000.0
+365,115,Data Hygiene Overhaul,Closed Lost,10000,2026-01-09,2026-02-05,Alex Morgan,Isabella,James,isabella.james@northpeak.ca,NorthPeak,Marketing Lead,Lead,2024-08-06,Alex Morgan,0.0,10000,0.0
+366,116,Revenue Engine Build,Negotiation,35000,2026-01-11,,Jordan Smith,Jacob,Stone,jacob.stone@revworks.io,RevWorks,Director of Ops,SQL,2024-08-08,Jordan Smith,0.75,35000,26250.0
+367,117,Marketing Ops Audit,Prospecting,12000,2026-01-13,,Jamie Lee,Victoria,Reed,victoria.reed@skylogic.ca,SkyLogic,Sales Coordinator,Lead,2024-08-10,Jamie Lee,0.1,12000,1200.0
+368,118,Engineering Workflow Optimization,Qualification,20000,2026-01-15,2026-02-20,Alex Morgan,Christopher,Moore,chris.moore@everpath.io,EverPath,VP Revenue,MQL,2024-08-12,Alex Morgan,0.0,20000,0.0
+369,119,Sales Coaching Program,Proposal,15000,2026-01-17,,Jamie Lee,Grace,Hayes,grace.hayes@mapledata.ca,MapleData,Marketing Manager,Lead,2024-08-14,Jordan Smith,0.5,15000,7500.0
+370,120,Revenue Insights Dashboard,Closed Won,27000,2026-01-19,2026-02-12,Jordan Smith,Andrew,Clark,andrew.clark@signalcore.io,SignalCore,Director of Sales,SQL,2024-08-16,Jamie Lee,1.0,27000,27000.0
+371,121,Customer Segmentation Model,Negotiation,22000,2026-01-21,,Alex Morgan,Julia,Lopez,julia.lopez@northbridgeops.com,Northbridge Ops,Operations Lead,Lead,2024-08-18,Jamie Lee,0.75,22000,16500.0
+372,122,RevOps Infrastructure Setup,Prospecting,30000,2026-01-23,,Jordan Smith,Steven,Reid,steven.reid@revpoint.ca,RevPoint Solutions,Marketing Manager,MQL,2024-08-20,Jamie Lee,0.1,30000,3000.0
+373,123,Sales Funnel Optimization,Qualification,18000,2026-01-25,2026-02-28,Jamie Lee,Monica,Walsh,monica.walsh@clearwave.io,ClearWave Analytics,Operations Manager,Lead,2024-08-22,Alex Morgan,0.0,18000,0.0
+374,124,Revenue Forecasting Engine,Proposal,26000,2026-01-27,,Alex Morgan,Henry,James,henry.james@skylinehr.com,Skyline HR,Director of HR,SQL,2024-08-24,Alex Morgan,0.5,26000,13000.0
+375,125,Marketing Attribution Setup,Closed Lost,14000,2026-01-29,2026-03-01,Jordan Smith,Chloe,Grant,chloe.grant@brightpath.ca,BrightPath Systems,Sales Manager,Lead,2024-08-26,Jordan Smith,0.0,14000,0.0
+376,126,Sales Pipeline Optimization,Negotiation,25000,2026-01-31,,Jamie Lee,Jonathan,Moore,jon.moore@quantumfleet.com,QuantumFleet,COO,MQL,2024-08-28,Jordan Smith,0.75,25000,18750.0
+377,127,Workflow Automation Build,Prospecting,16000,2026-02-02,,Jamie Lee,Sophia,Reed,sophia.reed@mapletech.ca,MapleTech,Marketing Specialist,Lead,2024-08-30,Jamie Lee,0.1,16000,1600.0
+378,128,Lead Scoring Model,Qualification,12000,2026-02-04,2026-03-05,Jamie Lee,Brandon,Clark,brandon.clark@everline.io,Everline Software,VP Sales,SQL,2024-09-01,Alex Morgan,0.0,12000,0.0
+379,129,CRM Integration Package,Proposal,22000,2026-02-06,,Alex Morgan,Hailey,Price,hailey.price@bluepeak.ca,BluePeak Systems,Operations Analyst,Lead,2024-09-03,Jordan Smith,0.5,22000,11000.0
+380,130,HR Analytics Suite,Closed Won,40000,2026-02-08,2026-03-01,Alex Morgan,Eric,Mitchell,eric.mitchell@signalpath.io,SignalPath,Director of Ops,MQL,2024-09-05,Jamie Lee,1.0,40000,40000.0
+381,131,Sales Enablement Toolkit,Negotiation,20000,2026-02-10,,Jordan Smith,Melissa,Reed,melissa.reed@zenflow.ca,ZenFlow,Marketing Lead,Lead,2024-09-07,Jamie Lee,0.75,20000,15000.0
+382,132,Operational Efficiency Audit,Prospecting,13000,2026-02-12,,Jordan Smith,Shawn,Young,shawn.young@apexlogic.io,ApexLogic,VP Engineering,SQL,2024-09-09,Alex Morgan,0.1,13000,1300.0
+383,133,Marketing Ops Automation,Qualification,21000,2026-02-14,2026-03-18,Jamie Lee,Paige,Lopez,paige.lopez@brightwave.ca,BrightWave,Sales Lead,Lead,2024-09-11,Jordan Smith,0.0,21000,0.0
+384,134,Sales Team Performance Suite,Proposal,26000,2026-02-16,,Alex Morgan,Timothy,Scott,tim.scott@corelytics.com,CoreLytics,Director of Revenue,MQL,2024-09-13,Jamie Lee,0.5,26000,13000.0
+385,135,Lead Routing Optimization,Closed Lost,9000,2026-02-18,2026-03-10,Jordan Smith,Kayla,Moore,kayla.moore@northpeak.ca,NorthPeak,Marketing Manager,Lead,2024-09-15,Alex Morgan,0.0,9000,0.0
+386,136,CRM Data Governance Setup,Negotiation,28000,2026-02-20,,Jamie Lee,Logan,Reid,logan.reid@revworks.io,RevWorks,COO,SQL,2024-09-17,Jordan Smith,0.75,28000,21000.0
+387,137,Sales Playbook Development,Prospecting,15000,2026-02-22,,Jamie Lee,Faith,Hayes,faith.hayes@skylogic.ca,SkyLogic,Sales Coordinator,Lead,2024-09-19,Jamie Lee,0.1,15000,1500.0
+388,138,Attribution Model Build,Qualification,17000,2026-02-24,2026-03-28,Alex Morgan,Mitchell,Clark,mitchell.clark@everpath.io,EverPath,VP Revenue,MQL,2024-09-21,Alex Morgan,0.0,17000,0.0
+389,139,Marketing Funnel Analysis,Proposal,9000,2026-02-26,,Jamie Lee,Daniela,Moore,daniela.moore@mapledata.ca,MapleData,Marketing Specialist,Lead,2024-09-23,Jordan Smith,0.5,9000,4500.0
+390,140,HR Workflow Automation,Closed Won,31000,2026-02-28,2026-03-15,Jordan Smith,Colin,James,colin.james@signalcore.io,SignalCore,Director of Sales,SQL,2024-09-25,Jamie Lee,1.0,31000,31000.0
+391,141,Sales Ops Training Program,Negotiation,20000,2026-03-02,,Jamie Lee,Alyssa,Reed,alyssa.reed@northbridgeops.com,Northbridge Ops,Operations Lead,Lead,2024-09-27,Jamie Lee,0.75,20000,15000.0
+392,142,Quarterly RevOps Audit,Prospecting,14000,2026-03-04,,Alex Morgan,Peter,Young,peter.young@revpoint.ca,RevPoint Solutions,Sales Manager,MQL,2024-09-29,Jamie Lee,0.1,14000,1400.0
+393,143,CRM Custom Reporting,Qualification,16000,2026-03-06,2026-04-10,Jordan Smith,Vanessa,Walsh,vanessa.walsh@clearwave.io,ClearWave Analytics,Director of Ops,Lead,2024-10-01,Alex Morgan,0.0,16000,0.0
+394,144,Sales Forecasting Model,Proposal,24000,2026-03-08,,Jamie Lee,Shane,Moore,shane.moore@skylinehr.com,Skyline HR,VP HR,SQL,2024-10-03,Alex Morgan,0.5,24000,12000.0
+395,145,Data Hygiene Overhaul,Closed Lost,10000,2026-03-10,2026-04-05,Alex Morgan,Rachel,Grant,rachel.grant@brightpath.ca,BrightPath Systems,Marketing Lead,Lead,2024-10-05,Jordan Smith,0.0,10000,0.0
+396,146,Revenue Engine Build,Negotiation,35000,2026-03-12,,Jordan Smith,Tyler,Reid,tyler.reid@quantumfleet.com,QuantumFleet,Director of Ops,MQL,2024-10-07,Jordan Smith,0.75,35000,26250.0
+397,147,Marketing Ops Audit,Prospecting,12000,2026-03-14,,Jamie Lee,Angela,Hayes,angela.hayes@mapletech.ca,MapleTech,Sales Lead,Lead,2024-10-09,Jamie Lee,0.1,12000,1200.0
+398,148,Engineering Workflow Optimization,Qualification,20000,2026-03-16,2026-04-20,Alex Morgan,Corey,Clark,corey.clark@everline.io,Everline Software,COO,SQL,2024-10-11,Alex Morgan,0.0,20000,0.0
+399,149,Sales Coaching Program,Proposal,15000,2026-03-18,,Jamie Lee,Michelle,Moore,michelle.moore@bluepeak.ca,BluePeak Systems,Marketing Manager,Lead,2024-10-13,Jordan Smith,0.5,15000,7500.0
+400,150,Revenue Insights Dashboard,Closed Won,27000,2026-03-20,2026-04-12,Jordan Smith,Justin,Price,justin.price@signalpath.io,SignalPath,VP Revenue,MQL,2024-10-15,Jamie Lee,1.0,27000,27000.0
+401,151,Customer Segmentation Model,Negotiation,22000,2026-03-22,,Alex Morgan,Erin,Reed,erin.reed@zenflow.ca,ZenFlow,Operations Manager,Lead,2024-10-17,Jamie Lee,0.75,22000,16500.0
+402,152,RevOps Infrastructure Setup,Prospecting,30000,2026-03-24,,Jordan Smith,Marcus,Walsh,marcus.walsh@apexlogic.io,ApexLogic,Director of Ops,SQL,2024-10-19,Alex Morgan,0.1,30000,3000.0
+403,153,Sales Funnel Optimization,Qualification,18000,2026-03-26,2026-04-28,Jamie Lee,Tara,Young,tara.young@brightwave.ca,BrightWave,Marketing Specialist,Lead,2024-10-21,Jordan Smith,0.0,18000,0.0
+404,154,Revenue Forecasting Engine,Proposal,26000,2026-03-28,,Alex Morgan,Shawn,Grant,shawn.grant@corelytics.com,CoreLytics,VP Revenue,MQL,2024-10-23,Jamie Lee,0.5,26000,13000.0
+405,155,Marketing Attribution Setup,Closed Lost,14000,2026-03-30,2026-05-01,Jordan Smith,Isabelle,Moore,isabelle.moore@northpeak.ca,NorthPeak,Sales Lead,Lead,2024-10-25,Alex Morgan,0.0,14000,0.0
+406,156,Sales Pipeline Optimization,Negotiation,25000,2026-04-01,,Jamie Lee,Connor,Reid,connor.reid@revworks.io,RevWorks,Director of Sales,SQL,2024-10-27,Jordan Smith,0.75,25000,18750.0
+407,157,Workflow Automation Build,Prospecting,16000,2026-04-03,,Jamie Lee,Naomi,Hayes,naomi.hayes@skylogic.ca,SkyLogic,Marketing Manager,Lead,2024-10-29,Jamie Lee,0.1,16000,1600.0
+408,158,Lead Scoring Model,Qualification,12000,2026-04-05,2026-05-05,Jamie Lee,Brent,Clark,brent.clark@everpath.io,EverPath,COO,MQL,2024-10-31,Alex Morgan,0.0,12000,0.0
+409,159,CRM Integration Package,Proposal,22000,2026-04-07,,Alex Morgan,Elena,Moore,elena.moore@mapledata.ca,MapleData,Sales Coordinator,Lead,2024-11-02,Jordan Smith,0.5,22000,11000.0
+410,160,HR Analytics Suite,Closed Won,40000,2026-04-09,2026-05-01,Alex Morgan,Caleb,Reed,caleb.reed@signalcore.io,SignalCore,Director of Revenue,SQL,2024-11-04,Jamie Lee,1.0,40000,40000.0
+411,161,Sales Enablement Toolkit,Negotiation,20000,2026-04-11,,Jordan Smith,Marissa,Young,marissa.young@northbridgeops.com,Northbridge Ops,Marketing Lead,Lead,2024-11-06,Jamie Lee,0.75,20000,15000.0
+412,162,Operational Efficiency Audit,Prospecting,13000,2026-04-13,,Jordan Smith,Tyson,Walsh,tyson.walsh@revpoint.ca,RevPoint Solutions,VP Sales,MQL,2024-11-08,Jamie Lee,0.1,13000,1300.0
+413,163,Marketing Ops Automation,Qualification,21000,2026-04-15,2026-05-18,Jamie Lee,Alexa,Grant,alexa.grant@clearwave.io,ClearWave Analytics,Operations Manager,Lead,2024-11-10,Alex Morgan,0.0,21000,0.0
+414,164,Sales Team Performance Suite,Proposal,26000,2026-04-17,,Alex Morgan,Shane,Moore,shane.moore@skylinehr.com,Skyline HR,Director of Ops,SQL,2024-11-12,Alex Morgan,0.5,26000,13000.0
+415,165,Lead Routing Optimization,Closed Lost,9000,2026-04-19,2026-05-10,Jordan Smith,Danielle,Reid,danielle.reid@brightpath.ca,BrightPath Systems,Marketing Specialist,Lead,2024-11-14,Jordan Smith,0.0,9000,0.0
+416,166,CRM Data Governance Setup,Negotiation,28000,2026-04-21,,Jamie Lee,Colton,Hayes,colton.hayes@quantumfleet.com,QuantumFleet,VP Revenue,MQL,2024-11-16,Jordan Smith,0.75,28000,21000.0
+417,167,Sales Playbook Development,Prospecting,15000,2026-04-23,,Jamie Lee,Leah,Clark,leah.clark@mapletech.ca,MapleTech,Sales Manager,Lead,2024-11-18,Jamie Lee,0.1,15000,1500.0
+418,168,Attribution Model Build,Qualification,17000,2026-04-25,2026-05-28,Alex Morgan,Victor,Moore,victor.moore@everline.io,Everline Software,Director of Ops,SQL,2024-11-20,Alex Morgan,0.0,17000,0.0
+419,169,Marketing Funnel Analysis,Proposal,9000,2026-04-27,,Jamie Lee,Amber,Reed,amber.reed@bluepeak.ca,BluePeak Systems,Marketing Lead,Lead,2024-11-22,Jordan Smith,0.5,9000,4500.0
+420,170,HR Workflow Automation,Closed Won,31000,2026-04-29,2026-06-01,Jordan Smith,Noah,Walsh,noah.walsh@signalpath.io,SignalPath,Sales Coordinator,MQL,2024-11-24,Jamie Lee,1.0,31000,31000.0
+421,171,Sales Ops Training Program,Negotiation,20000,2026-05-01,,Jamie Lee,Hailey,Young,hailey.young@zenflow.ca,ZenFlow,Marketing Manager,Lead,2024-11-26,Jamie Lee,0.75,20000,15000.0
+422,172,Quarterly RevOps Audit,Prospecting,14000,2026-05-03,,Alex Morgan,Brady,Grant,brady.grant@apexlogic.io,ApexLogic,Director of Revenue,SQL,2024-11-28,Alex Morgan,0.1,14000,1400.0
+423,173,CRM Custom Reporting,Qualification,16000,2026-05-05,2026-06-10,Jordan Smith,Elise,Moore,elise.moore@brightwave.ca,BrightWave,Sales Lead,Lead,2024-11-30,Jordan Smith,0.0,16000,0.0
+424,174,Sales Forecasting Model,Proposal,24000,2026-05-07,,Jamie Lee,Travis,Reid,travis.reid@corelytics.com,CoreLytics,VP Sales,MQL,2024-12-02,Jamie Lee,0.5,24000,12000.0
+425,175,Data Hygiene Overhaul,Closed Lost,10000,2026-05-09,2026-06-05,Alex Morgan,Kaylee,Hayes,kaylee.hayes@northpeak.ca,NorthPeak,Operations Analyst,Lead,2024-12-04,Alex Morgan,0.0,10000,0.0
+426,176,Revenue Engine Build,Negotiation,35000,2026-05-11,,Jordan Smith,Jonah,Clark,jonah.clark@revworks.io,RevWorks,Director of Ops,SQL,2024-12-06,Jordan Smith,0.75,35000,26250.0
+427,177,Marketing Ops Audit,Prospecting,12000,2026-05-13,,Jamie Lee,Sienna,Moore,sienna.moore@skylogic.ca,SkyLogic,Marketing Specialist,Lead,2024-12-08,Jamie Lee,0.1,12000,1200.0
+428,178,Engineering Workflow Optimization,Qualification,20000,2026-05-15,2026-06-20,Alex Morgan,Garrett,Reed,garrett.reed@everpath.io,EverPath,VP Revenue,MQL,2024-12-10,Alex Morgan,0.0,20000,0.0
+429,179,Sales Coaching Program,Proposal,15000,2026-05-17,,Jamie Lee,Adriana,Hayes,adriana.hayes@mapledata.ca,MapleData,Sales Manager,Lead,2024-12-12,Jordan Smith,0.5,15000,7500.0
+430,180,Revenue Insights Dashboard,Closed Won,27000,2026-05-19,2026-06-12,Jordan Smith,Colby,Clark,colby.clark@signalcore.io,SignalCore,Director of Sales,SQL,2024-12-14,Jamie Lee,1.0,27000,27000.0
+431,181,Customer Segmentation Model,Negotiation,22000,2026-05-21,,Alex Morgan,Alana,Moore,alana.moore@northbridgeops.com,Northbridge Ops,Marketing Lead,Lead,2024-12-16,Jamie Lee,0.75,22000,16500.0
+432,182,RevOps Infrastructure Setup,Prospecting,30000,2026-05-23,,Jordan Smith,Spencer,Reid,spencer.reid@revpoint.ca,RevPoint Solutions,Sales Manager,MQL,2024-12-18,Jamie Lee,0.1,30000,3000.0
+433,183,Sales Funnel Optimization,Qualification,18000,2026-05-25,2026-06-28,Jamie Lee,Marina,Walsh,marina.walsh@clearwave.io,ClearWave Analytics,Director of Ops,Lead,2024-12-20,Alex Morgan,0.0,18000,0.0
+434,184,Revenue Forecasting Engine,Proposal,26000,2026-05-27,,Alex Morgan,Shawn,Young,shawn.young@skylinehr.com,Skyline HR,VP HR,SQL,2024-12-22,Alex Morgan,0.5,26000,13000.0
+435,185,Marketing Attribution Setup,Closed Lost,14000,2026-05-29,2026-07-01,Jordan Smith,Rebecca,Grant,rebecca.grant@brightpath.ca,BrightPath Systems,Marketing Lead,Lead,2024-12-24,Jordan Smith,0.0,14000,0.0
+436,186,Sales Pipeline Optimization,Negotiation,25000,2026-05-31,,Jamie Lee,Tyler,Moore,tyler.moore@quantumfleet.com,QuantumFleet,Director of Ops,MQL,2024-12-26,Jordan Smith,0.75,25000,18750.0
+437,187,Workflow Automation Build,Prospecting,16000,2026-06-02,,Jamie Lee,Angela,Reed,angela.reed@mapletech.ca,MapleTech,Sales Lead,Lead,2024-12-28,Jamie Lee,0.1,16000,1600.0
+438,188,Lead Scoring Model,Qualification,12000,2026-06-04,2026-07-05,Jamie Lee,Corey,Hayes,corey.hayes@everline.io,Everline Software,COO,SQL,2024-12-30,Alex Morgan,0.0,12000,0.0
+439,189,CRM Integration Package,Proposal,22000,2026-06-06,,Alex Morgan,Michelle,Clark,michelle.clark@bluepeak.ca,BluePeak Systems,Marketing Manager,Lead,2024-12-31,Jordan Smith,0.5,22000,11000.0
+440,190,HR Analytics Suite,Closed Won,40000,2026-06-08,2026-07-01,Alex Morgan,Justin,Moore,justin.moore@signalpath.io,SignalPath,VP Revenue,MQL,2025-01-02,Jamie Lee,1.0,40000,40000.0
+441,191,Sales Enablement Toolkit,Negotiation,20000,2026-06-10,,Jordan Smith,Erin,Reid,erin.reid@zenflow.ca,ZenFlow,Operations Manager,Lead,2025-01-04,Jamie Lee,0.75,20000,15000.0
+442,192,Operational Efficiency Audit,Prospecting,13000,2026-06-12,,Jordan Smith,Marcus,Walsh,marcus.walsh@apexlogic.io,ApexLogic,Director of Ops,SQL,2025-01-06,Alex Morgan,0.1,13000,1300.0
+443,193,Marketing Ops Automation,Qualification,21000,2026-06-14,2026-07-18,Jamie Lee,Tara,Young,tara.young@brightwave.ca,BrightWave,Marketing Specialist,Lead,2025-01-08,Jordan Smith,0.0,21000,0.0
+444,194,Sales Team Performance Suite,Proposal,26000,2026-06-16,,Alex Morgan,Shawn,Grant,shawn.grant@corelytics.com,CoreLytics,VP Revenue,MQL,2025-01-10,Jamie Lee,0.5,26000,13000.0
+445,195,Lead Routing Optimization,Closed Lost,9000,2026-06-18,2026-07-10,Jordan Smith,Isabelle,Moore,isabelle.moore@northpeak.ca,NorthPeak,Sales Lead,Lead,2025-01-12,Alex Morgan,0.0,9000,0.0
+446,196,CRM Data Governance Setup,Negotiation,28000,2026-06-20,,Jamie Lee,Connor,Reid,connor.reid@revworks.io,RevWorks,Director of Sales,SQL,2025-01-14,Jordan Smith,0.75,28000,21000.0
+447,197,Sales Playbook Development,Prospecting,15000,2026-06-22,,Jamie Lee,Naomi,Hayes,naomi.hayes@skylogic.ca,SkyLogic,Marketing Manager,Lead,2025-01-16,Jamie Lee,0.1,15000,1500.0
+448,198,Attribution Model Build,Qualification,17000,2026-06-24,2026-07-28,Alex Morgan,Brent,Clark,brent.clark@everpath.io,EverPath,COO,MQL,2025-01-18,Alex Morgan,0.0,17000,0.0
+449,199,Marketing Funnel Analysis,Proposal,9000,2026-06-26,,Jamie Lee,Elena,Moore,elena.moore@mapledata.ca,MapleData,Sales Coordinator,Lead,2025-01-20,Jordan Smith,0.5,9000,4500.0
+450,200,HR Workflow Automation,Closed Won,31000,2026-06-28,2026-07-15,Jordan Smith,Caleb,Reid,caleb.reid@signalcore.io,SignalCore,Director of Revenue,SQL,2025-01-22,Jamie Lee,1.0,31000,31000.0
+451,1,Sales Ops Training Program,Negotiation,20000,2026-06-30,,Jamie Lee,Amanda,Lopez,amanda.lopez@northbridgeops.com,Northbridge Ops,Operations Manager,Lead,2024-01-14,Jamie Lee,0.75,20000,15000.0
+452,2,Quarterly RevOps Audit,Prospecting,14000,2026-07-02,,Alex Morgan,Marcus,Chen,marcus.chen@revpoint.ca,RevPoint Solutions,Director of Sales,MQL,2024-02-03,Jamie Lee,0.1,14000,1400.0
+453,3,CRM Custom Reporting,Qualification,16000,2026-07-04,2026-08-10,Jordan Smith,Sarah,Patel,sarah.patel@clearwave.io,ClearWave Analytics,Marketing Manager,Lead,2024-03-22,Alex Morgan,0.0,16000,0.0
+454,4,Sales Forecasting Model,Proposal,24000,2026-07-06,,Jamie Lee,Daniel,Reed,daniel.reed@skylinehr.com,Skyline HR,COO,SQL,2024-04-10,Alex Morgan,0.5,24000,12000.0
+455,5,Data Hygiene Overhaul,Closed Lost,10000,2026-07-08,2026-08-05,Alex Morgan,Emily,Nguyen,emily.nguyen@brightpath.ca,BrightPath Systems,RevOps Manager,Lead,2024-05-18,Jordan Smith,0.0,10000,0.0
+456,6,Revenue Engine Build,Negotiation,35000,2026-07-10,,Jordan Smith,Michael,Turner,michael.turner@quantumfleet.com,QuantumFleet,VP Operations,MQL,2024-06-02,Jordan Smith,0.75,35000,26250.0
+457,7,Marketing Ops Audit,Prospecting,12000,2026-07-12,,Jamie Lee,Olivia,Grant,olivia.grant@mapletech.ca,MapleTech,Sales Manager,Lead,2024-06-27,Jamie Lee,0.1,12000,1200.0
+458,8,Engineering Workflow Optimization,Qualification,20000,2026-07-14,2026-08-20,Alex Morgan,Jason,Kim,jason.kim@everline.io,Everline Software,Director of Revenue,SQL,2024-07-15,Alex Morgan,0.0,20000,0.0
+459,9,Sales Coaching Program,Proposal,15000,2026-07-16,,Jamie Lee,Rebecca,Stone,rebecca.stone@bluepeak.ca,BluePeak Systems,Operations Lead,Lead,2024-08-01,Jordan Smith,0.5,15000,7500.0
+460,10,Revenue Insights Dashboard,Closed Won,27000,2026-07-18,2026-08-12,Jordan Smith,Anthony,Clark,anthony.clark@signalpath.io,SignalPath,Sales Director,MQL,2024-08-22,Jamie Lee,1.0,27000,27000.0
+461,11,Customer Segmentation Model,Negotiation,22000,2026-07-20,,Alex Morgan,Laura,Mitchell,laura.mitchell@zenflow.ca,ZenFlow,Marketing Director,Lead,2024-01-05,Jamie Lee,0.75,22000,16500.0
+462,12,RevOps Infrastructure Setup,Prospecting,30000,2026-07-22,,Jordan Smith,Kevin,Brooks,kevin.brooks@apexlogic.io,ApexLogic,CTO,SQL,2024-01-08,Alex Morgan,0.1,30000,3000.0
+463,13,Sales Funnel Optimization,Qualification,18000,2026-07-24,2026-08-28,Jamie Lee,Natalie,Young,natalie.young@brightwave.ca,BrightWave,Sales Coordinator,Lead,2024-01-11,Jordan Smith,0.0,18000,0.0
+464,14,Revenue Forecasting Engine,Proposal,26000,2026-07-26,,Alex Morgan,Patrick,James,patrick.james@corelytics.com,CoreLytics,VP Sales,MQL,2024-01-15,Jamie Lee,0.5,26000,13000.0
+465,15,Marketing Attribution Setup,Closed Lost,14000,2026-07-28,2026-09-01,Jordan Smith,Isabella,Moore,isabella.moore@northpeak.ca,NorthPeak,Operations Analyst,Lead,2024-01-18,Alex Morgan,0.0,14000,0.0
+466,16,Sales Pipeline Optimization,Negotiation,25000,2026-07-30,,Jamie Lee,Jacob,White,jacob.white@revworks.io,RevWorks,Director of Ops,SQL,2024-01-20,Jordan Smith,0.75,25000,18750.0
+467,17,Workflow Automation Build,Prospecting,16000,2026-08-01,,Jamie Lee,Victoria,Hall,victoria.hall@skylogic.ca,SkyLogic,Marketing Lead,Lead,2024-01-23,Jamie Lee,0.1,16000,1600.0
+468,18,Lead Scoring Model,Qualification,12000,2026-08-03,2026-09-05,Jamie Lee,Christopher,Adams,chris.adams@everpath.io,EverPath,COO,MQL,2024-01-25,Alex Morgan,0.0,12000,0.0
+469,19,CRM Integration Package,Proposal,22000,2026-08-05,,Alex Morgan,Grace,Walker,grace.walker@mapledata.ca,MapleData,Sales Manager,Lead,2024-01-28,Jordan Smith,0.5,22000,11000.0
+470,20,HR Analytics Suite,Closed Won,40000,2026-08-07,2026-09-01,Alex Morgan,Andrew,Scott,andrew.scott@signalcore.io,SignalCore,VP Revenue,SQL,2024-01-30,Jamie Lee,1.0,40000,40000.0
+471,21,Sales Enablement Toolkit,Negotiation,20000,2026-08-09,,Jordan Smith,Julia,Price,julia.price@northbridgeops.com,Northbridge Ops,Sales Coordinator,Lead,2024-02-01,Jamie Lee,0.75,20000,15000.0
+472,22,Operational Efficiency Audit,Prospecting,13000,2026-08-11,,Jordan Smith,Steven,Gray,steven.gray@revpoint.ca,RevPoint Solutions,Marketing Manager,MQL,2024-02-04,Jamie Lee,0.1,13000,1300.0
+473,23,Marketing Ops Automation,Qualification,21000,2026-08-13,2026-09-18,Jamie Lee,Monica,Shaw,monica.shaw@clearwave.io,ClearWave Analytics,Operations Lead,Lead,2024-02-06,Alex Morgan,0.0,21000,0.0
+474,24,Sales Team Performance Suite,Proposal,26000,2026-08-15,,Alex Morgan,Henry,Cooper,henry.cooper@skylinehr.com,Skyline HR,Director of HR,SQL,2024-02-08,Alex Morgan,0.5,26000,13000.0
+475,25,Lead Routing Optimization,Closed Lost,9000,2026-08-17,2026-09-10,Jordan Smith,Chloe,Diaz,chloe.diaz@brightpath.ca,BrightPath Systems,Sales Manager,Lead,2024-02-10,Jordan Smith,0.0,9000,0.0
+476,26,CRM Data Governance Setup,Negotiation,28000,2026-08-19,,Jamie Lee,Jonathan,Evans,jon.evans@quantumfleet.com,QuantumFleet,COO,MQL,2024-02-12,Jordan Smith,0.75,28000,21000.0
+477,27,Sales Playbook Development,Prospecting,15000,2026-08-21,,Jamie Lee,Sophia,Bell,sophia.bell@mapletech.ca,MapleTech,Marketing Specialist,Lead,2024-02-14,Jamie Lee,0.1,15000,1500.0
+478,28,Attribution Model Build,Qualification,17000,2026-08-23,2026-09-28,Alex Morgan,Brandon,Lee,brandon.lee@everline.io,Everline Software,VP Sales,SQL,2024-02-16,Alex Morgan,0.0,17000,0.0
+479,29,Marketing Funnel Analysis,Proposal,9000,2026-08-25,,Jamie Lee,Hailey,Green,hailey.green@bluepeak.ca,BluePeak Systems,Operations Analyst,Lead,2024-02-18,Jordan Smith,0.5,9000,4500.0
+480,30,HR Workflow Automation,Closed Won,31000,2026-08-27,2026-09-15,Jordan Smith,Eric,King,eric.king@signalpath.io,SignalPath,Director of Ops,MQL,2024-02-20,Jamie Lee,1.0,31000,31000.0
+481,31,Sales Ops Training Program,Negotiation,20000,2026-08-29,,Jamie Lee,Melissa,Turner,melissa.turner@zenflow.ca,ZenFlow,Marketing Lead,Lead,2024-02-22,Jamie Lee,0.75,20000,15000.0
+482,32,Quarterly RevOps Audit,Prospecting,14000,2026-08-31,,Alex Morgan,Shawn,Reed,shawn.reed@apexlogic.io,ApexLogic,VP Engineering,SQL,2024-02-24,Alex Morgan,0.1,14000,1400.0
+483,33,CRM Custom Reporting,Qualification,16000,2026-09-02,2026-10-10,Jordan Smith,Paige,Howard,paige.howard@brightwave.ca,BrightWave,Sales Lead,Lead,2024-02-26,Jordan Smith,0.0,16000,0.0
+484,34,Sales Forecasting Model,Proposal,24000,2026-09-04,,Jamie Lee,Timothy,Long,tim.long@corelytics.com,CoreLytics,Director of Revenue,MQL,2024-02-28,Jamie Lee,0.5,24000,12000.0
+485,35,Data Hygiene Overhaul,Closed Lost,10000,2026-09-06,2026-10-05,Alex Morgan,Kayla,Adler,kayla.adler@northpeak.ca,NorthPeak,Marketing Manager,Lead,2024-03-01,Alex Morgan,0.0,10000,0.0
+486,36,Revenue Engine Build,Negotiation,35000,2026-09-08,,Jordan Smith,Logan,Price,logan.price@revworks.io,RevWorks,COO,SQL,2024-03-03,Jordan Smith,0.75,35000,26250.0
+487,37,Marketing Ops Audit,Prospecting,12000,2026-09-10,,Jamie Lee,Faith,Campbell,faith.campbell@skylogic.ca,SkyLogic,Sales Coordinator,Lead,2024-03-05,Jamie Lee,0.1,12000,1200.0
+488,38,Engineering Workflow Optimization,Qualification,20000,2026-09-12,2026-10-20,Alex Morgan,Mitchell,Hayes,mitchell.hayes@everpath.io,EverPath,VP Revenue,MQL,2024-03-07,Alex Morgan,0.0,20000,0.0
+489,39,Sales Coaching Program,Proposal,15000,2026-09-14,,Jamie Lee,Daniela,Reyes,daniela.reyes@mapledata.ca,MapleData,Marketing Specialist,Lead,2024-03-09,Jordan Smith,0.5,15000,7500.0
+490,40,Revenue Insights Dashboard,Closed Won,27000,2026-09-16,2026-10-12,Jordan Smith,Colin,Stewart,colin.stewart@signalcore.io,SignalCore,Director of Sales,SQL,2024-03-11,Jamie Lee,1.0,27000,27000.0
+491,41,Customer Segmentation Model,Negotiation,22000,2026-09-18,,Alex Morgan,Alyssa,James,alyssa.james@northbridgeops.com,Northbridge Ops,Operations Lead,Lead,2024-03-13,Jamie Lee,0.75,22000,16500.0
+492,42,RevOps Infrastructure Setup,Prospecting,30000,2026-09-20,,Jordan Smith,Peter,Nguyen,peter.nguyen@revpoint.ca,RevPoint Solutions,Sales Manager,MQL,2024-03-15,Jamie Lee,0.1,30000,3000.0
+493,43,Sales Funnel Optimization,Qualification,18000,2026-09-22,2026-10-28,Jamie Lee,Vanessa,Clark,vanessa.clark@clearwave.io,ClearWave Analytics,Director of Ops,Lead,2024-03-17,Alex Morgan,0.0,18000,0.0
+494,44,Revenue Forecasting Engine,Proposal,26000,2026-09-24,,Alex Morgan,Shane,Martin,shane.martin@skylinehr.com,Skyline HR,VP HR,SQL,2024-03-19,Alex Morgan,0.5,26000,13000.0
+495,45,Marketing Attribution Setup,Closed Lost,14000,2026-09-26,2026-11-01,Jordan Smith,Rachel,Kim,rachel.kim@brightpath.ca,BrightPath Systems,Marketing Lead,Lead,2024-03-21,Jordan Smith,0.0,14000,0.0
+496,46,Sales Pipeline Optimization,Negotiation,25000,2026-09-28,,Jamie Lee,Tyler,Moore,tyler.moore@quantumfleet.com,QuantumFleet,Director of Ops,MQL,2024-03-23,Jordan Smith,0.75,25000,18750.0
+497,47,Workflow Automation Build,Prospecting,16000,2026-09-30,,Jamie Lee,Angela,Scott,angela.scott@mapletech.ca,MapleTech,Sales Lead,Lead,2024-03-25,Jamie Lee,0.1,16000,1600.0
+498,48,Lead Scoring Model,Qualification,12000,2026-10-02,2026-11-05,Jamie Lee,Corey,White,corey.white@everline.io,Everline Software,COO,SQL,2024-03-27,Alex Morgan,0.0,12000,0.0
+499,49,CRM Integration Package,Proposal,22000,2026-10-04,,Alex Morgan,Michelle,Stone,michelle.stone@bluepeak.ca,BluePeak Systems,Marketing Manager,Lead,2024-03-29,Jordan Smith,0.5,22000,11000.0
+500,50,HR Analytics Suite,Closed Won,40000,2026-10-06,2026-11-01,Alex Morgan,Justin,Reed,justin.reed@signalpath.io,SignalPath,VP Revenue,MQL,2024-03-31,Jamie Lee,1.0,40000,40000.0
+501,201,Revenue Forecasting Engine,Proposal,26000,2026-06-30,,Alex Morgan,Marissa,Young,marissa.young@northbridgeops.com,Northbridge Ops,Marketing Lead,Lead,2025-01-24,Jamie Lee,0.5,26000,13000.0
+502,202,Marketing Attribution Setup,Closed Lost,14000,2026-07-02,2026-08-01,Jordan Smith,Tyson,Walsh,tyson.walsh@revpoint.ca,RevPoint Solutions,VP Sales,MQL,2025-01-26,Jamie Lee,0.0,14000,0.0
+503,203,Sales Pipeline Optimization,Negotiation,25000,2026-07-04,,Jamie Lee,Alexa,Grant,alexa.grant@clearwave.io,ClearWave Analytics,Operations Manager,Lead,2025-01-28,Alex Morgan,0.75,25000,18750.0
+504,204,Workflow Automation Build,Prospecting,16000,2026-07-06,,Jamie Lee,Shane,Moore,shane.moore@skylinehr.com,Skyline HR,Director of Ops,SQL,2025-01-30,Alex Morgan,0.1,16000,1600.0
+505,205,Lead Scoring Model,Qualification,12000,2026-07-08,2026-08-05,Jamie Lee,Danielle,Reid,danielle.reid@brightpath.ca,BrightPath Systems,Marketing Specialist,Lead,2025-02-01,Jordan Smith,0.0,12000,0.0
+506,206,CRM Integration Package,Proposal,22000,2026-07-10,,Alex Morgan,Colton,Hayes,colton.hayes@quantumfleet.com,QuantumFleet,VP Revenue,MQL,2025-02-03,Jordan Smith,0.5,22000,11000.0
+507,207,HR Analytics Suite,Closed Won,40000,2026-07-12,2026-08-01,Alex Morgan,Leah,Clark,leah.clark@mapletech.ca,MapleTech,Sales Manager,Lead,2025-02-05,Jamie Lee,1.0,40000,40000.0
+508,208,Sales Enablement Toolkit,Negotiation,20000,2026-07-14,,Jordan Smith,Victor,Moore,victor.moore@everline.io,Everline Software,Director of Ops,SQL,2025-02-07,Alex Morgan,0.75,20000,15000.0
+509,209,Operational Efficiency Audit,Prospecting,13000,2026-07-16,,Jordan Smith,Amber,Reed,amber.reed@bluepeak.ca,BluePeak Systems,Marketing Lead,Lead,2025-02-09,Jordan Smith,0.1,13000,1300.0
+510,210,Marketing Ops Automation,Qualification,21000,2026-07-18,2026-08-20,Jamie Lee,Noah,Walsh,noah.walsh@signalpath.io,SignalPath,Sales Coordinator,MQL,2025-02-11,Jamie Lee,0.0,21000,0.0
+511,211,Sales Team Performance Suite,Proposal,26000,2026-07-20,,Alex Morgan,Hailey,Young,hailey.young@zenflow.ca,ZenFlow,Marketing Manager,Lead,2025-02-13,Jamie Lee,0.5,26000,13000.0
+512,212,Lead Routing Optimization,Closed Lost,9000,2026-07-22,2026-08-15,Jordan Smith,Brady,Grant,brady.grant@apexlogic.io,ApexLogic,Director of Revenue,SQL,2025-02-15,Alex Morgan,0.0,9000,0.0
+513,213,CRM Data Governance Setup,Negotiation,28000,2026-07-24,,Jamie Lee,Elise,Moore,elise.moore@brightwave.ca,BrightWave,Sales Lead,Lead,2025-02-17,Jordan Smith,0.75,28000,21000.0
+514,214,Sales Playbook Development,Prospecting,15000,2026-07-26,,Jamie Lee,Travis,Reid,travis.reid@corelytics.com,CoreLytics,VP Sales,MQL,2025-02-19,Jamie Lee,0.1,15000,1500.0
+515,215,Attribution Model Build,Qualification,17000,2026-07-28,2026-08-28,Alex Morgan,Kaylee,Hayes,kaylee.hayes@northpeak.ca,NorthPeak,Operations Analyst,Lead,2025-02-21,Alex Morgan,0.0,17000,0.0
+516,216,Marketing Funnel Analysis,Proposal,9000,2026-07-30,,Jamie Lee,Jonah,Clark,jonah.clark@revworks.io,RevWorks,Director of Ops,SQL,2025-02-23,Jordan Smith,0.5,9000,4500.0
+517,217,HR Workflow Automation,Closed Won,31000,2026-08-01,2026-08-20,Jordan Smith,Sienna,Moore,sienna.moore@skylogic.ca,SkyLogic,Marketing Specialist,Lead,2025-02-25,Jamie Lee,1.0,31000,31000.0
+518,218,Sales Ops Training Program,Negotiation,20000,2026-08-03,,Jamie Lee,Garrett,Reed,garrett.reed@everpath.io,EverPath,VP Revenue,MQL,2025-02-27,Alex Morgan,0.75,20000,15000.0
+519,219,Quarterly RevOps Audit,Prospecting,14000,2026-08-05,,Alex Morgan,Adriana,Hayes,adriana.hayes@mapledata.ca,MapleData,Sales Manager,Lead,2025-03-01,Jordan Smith,0.1,14000,1400.0
+520,220,CRM Custom Reporting,Qualification,16000,2026-08-07,2026-09-10,Jordan Smith,Colby,Clark,colby.clark@signalcore.io,SignalCore,Director of Sales,SQL,2025-03-03,Jamie Lee,0.0,16000,0.0
+521,221,Sales Forecasting Model,Proposal,24000,2026-08-09,,Jamie Lee,Alana,Moore,alana.moore@northbridgeops.com,Northbridge Ops,Marketing Lead,Lead,2025-03-05,Jamie Lee,0.5,24000,12000.0
+522,222,Data Hygiene Overhaul,Closed Lost,10000,2026-08-11,2026-09-05,Alex Morgan,Spencer,Reid,spencer.reid@revpoint.ca,RevPoint Solutions,Sales Manager,MQL,2025-03-07,Jamie Lee,0.0,10000,0.0
+523,223,Revenue Engine Build,Negotiation,35000,2026-08-13,,Jordan Smith,Marina,Walsh,marina.walsh@clearwave.io,ClearWave Analytics,Director of Ops,Lead,2025-03-09,Alex Morgan,0.75,35000,26250.0
+524,224,Marketing Ops Audit,Prospecting,12000,2026-08-15,,Jamie Lee,Shawn,Young,shawn.young@skylinehr.com,Skyline HR,VP HR,SQL,2025-03-11,Alex Morgan,0.1,12000,1200.0
+525,225,Engineering Workflow Optimization,Qualification,20000,2026-08-17,2026-09-20,Alex Morgan,Rebecca,Grant,rebecca.grant@brightpath.ca,BrightPath Systems,Marketing Lead,Lead,2025-03-13,Jordan Smith,0.0,20000,0.0
+526,226,Sales Coaching Program,Proposal,15000,2026-08-19,,Jamie Lee,Tyler,Moore,tyler.moore@quantumfleet.com,QuantumFleet,Director of Ops,MQL,2025-03-15,Jordan Smith,0.5,15000,7500.0
+527,227,Revenue Insights Dashboard,Closed Won,27000,2026-08-21,2026-09-12,Jordan Smith,Angela,Reed,angela.reed@mapletech.ca,MapleTech,Sales Lead,Lead,2025-03-17,Jamie Lee,1.0,27000,27000.0
+528,228,Customer Segmentation Model,Negotiation,22000,2026-08-23,,Alex Morgan,Corey,Hayes,corey.hayes@everline.io,Everline Software,COO,SQL,2025-03-19,Alex Morgan,0.75,22000,16500.0
+529,229,RevOps Infrastructure Setup,Prospecting,30000,2026-08-25,,Jordan Smith,Michelle,Clark,michelle.clark@bluepeak.ca,BluePeak Systems,Marketing Manager,Lead,2025-03-21,Jordan Smith,0.1,30000,3000.0
+530,230,Sales Funnel Optimization,Qualification,18000,2026-08-27,2026-09-28,Jamie Lee,Justin,Moore,justin.moore@signalpath.io,SignalPath,VP Revenue,MQL,2025-03-23,Jamie Lee,0.0,18000,0.0
+531,231,Revenue Forecasting Engine,Proposal,26000,2026-08-29,,Alex Morgan,Erin,Reid,erin.reid@zenflow.ca,ZenFlow,Operations Manager,Lead,2025-03-25,Jamie Lee,0.5,26000,13000.0
+532,232,Marketing Attribution Setup,Closed Lost,14000,2026-08-31,2026-10-01,Jordan Smith,Marcus,Walsh,marcus.walsh@apexlogic.io,ApexLogic,Director of Ops,SQL,2025-03-27,Alex Morgan,0.0,14000,0.0
+533,233,Sales Pipeline Optimization,Negotiation,25000,2026-09-02,,Jamie Lee,Tara,Young,tara.young@brightwave.ca,BrightWave,Marketing Specialist,Lead,2025-03-29,Jordan Smith,0.75,25000,18750.0
+534,234,Workflow Automation Build,Prospecting,16000,2026-09-04,,Jamie Lee,Shawn,Grant,shawn.grant@corelytics.com,CoreLytics,VP Revenue,MQL,2025-03-31,Jamie Lee,0.1,16000,1600.0
+535,235,Lead Scoring Model,Qualification,12000,2026-09-06,2026-10-05,Jamie Lee,Isabelle,Moore,isabelle.moore@northpeak.ca,NorthPeak,Sales Lead,Lead,2025-04-02,Alex Morgan,0.0,12000,0.0
+536,236,CRM Integration Package,Proposal,22000,2026-09-08,,Alex Morgan,Connor,Reid,connor.reid@revworks.io,RevWorks,Director of Sales,SQL,2025-04-04,Jordan Smith,0.5,22000,11000.0
+537,237,HR Analytics Suite,Closed Won,40000,2026-09-10,2026-10-01,Alex Morgan,Naomi,Hayes,naomi.hayes@skylogic.ca,SkyLogic,Marketing Manager,Lead,2025-04-06,Jamie Lee,1.0,40000,40000.0
+538,238,Sales Enablement Toolkit,Negotiation,20000,2026-09-12,,Jordan Smith,Brent,Clark,brent.clark@everpath.io,EverPath,COO,MQL,2025-04-08,Alex Morgan,0.75,20000,15000.0
+539,239,Operational Efficiency Audit,Prospecting,13000,2026-09-14,,Jordan Smith,Elena,Moore,elena.moore@mapledata.ca,MapleData,Sales Coordinator,Lead,2025-04-10,Jordan Smith,0.1,13000,1300.0
+540,240,Marketing Ops Automation,Qualification,21000,2026-09-16,2026-10-18,Jamie Lee,Caleb,Reid,caleb.reid@signalcore.io,SignalCore,Director of Revenue,SQL,2025-04-12,Jamie Lee,0.0,21000,0.0
+541,241,Sales Team Performance Suite,Proposal,26000,2026-09-18,,Alex Morgan,Marissa,Young,marissa.young@northbridgeops.com,Northbridge Ops,Marketing Lead,Lead,2025-04-14,Jamie Lee,0.5,26000,13000.0
+542,242,Lead Routing Optimization,Closed Lost,9000,2026-09-20,2026-10-15,Jordan Smith,Tyson,Walsh,tyson.walsh@revpoint.ca,RevPoint Solutions,VP Sales,MQL,2025-04-16,Jamie Lee,0.0,9000,0.0
+543,243,CRM Data Governance Setup,Negotiation,28000,2026-09-22,,Jamie Lee,Alexa,Grant,alexa.grant@clearwave.io,ClearWave Analytics,Operations Manager,Lead,2025-04-18,Alex Morgan,0.75,28000,21000.0
+544,244,Sales Playbook Development,Prospecting,15000,2026-09-24,,Jamie Lee,Shane,Moore,shane.moore@skylinehr.com,Skyline HR,Director of Ops,SQL,2025-04-20,Alex Morgan,0.1,15000,1500.0
+545,245,Attribution Model Build,Qualification,17000,2026-09-26,2026-10-28,Alex Morgan,Danielle,Reid,danielle.reid@brightpath.ca,BrightPath Systems,Marketing Specialist,Lead,2025-04-22,Jordan Smith,0.0,17000,0.0
+546,246,Marketing Funnel Analysis,Proposal,9000,2026-09-28,,Jamie Lee,Colton,Hayes,colton.hayes@quantumfleet.com,QuantumFleet,VP Revenue,MQL,2025-04-24,Jordan Smith,0.5,9000,4500.0
+547,247,HR Workflow Automation,Closed Won,31000,2026-09-30,2026-10-20,Jordan Smith,Leah,Clark,leah.clark@mapletech.ca,MapleTech,Sales Manager,Lead,2025-04-26,Jamie Lee,1.0,31000,31000.0
+548,248,Sales Ops Training Program,Negotiation,20000,2026-10-02,,Jamie Lee,Victor,Moore,victor.moore@everline.io,Everline Software,Director of Ops,SQL,2025-04-28,Alex Morgan,0.75,20000,15000.0
+549,249,Quarterly RevOps Audit,Prospecting,14000,2026-10-04,,Alex Morgan,Amber,Reed,amber.reed@bluepeak.ca,BluePeak Systems,Marketing Lead,Lead,2025-04-30,Jordan Smith,0.1,14000,1400.0
+550,250,CRM Custom Reporting,Qualification,16000,2026-10-06,2026-11-10,Jordan Smith,Noah,Walsh,noah.walsh@signalpath.io,SignalPath,Sales Coordinator,MQL,2025-05-02,Jamie Lee,0.0,16000,0.0
+551,1,Sales Forecasting Model,Proposal,24000,2026-10-08,,Jamie Lee,Amanda,Lopez,amanda.lopez@northbridgeops.com,Northbridge Ops,Operations Manager,Lead,2024-01-14,Jamie Lee,0.5,24000,12000.0
+552,2,Data Hygiene Overhaul,Closed Lost,10000,2026-10-10,2026-11-05,Alex Morgan,Marcus,Chen,marcus.chen@revpoint.ca,RevPoint Solutions,Director of Sales,MQL,2024-02-03,Jamie Lee,0.0,10000,0.0
+553,3,Revenue Engine Build,Negotiation,35000,2026-10-12,,Jordan Smith,Sarah,Patel,sarah.patel@clearwave.io,ClearWave Analytics,Marketing Manager,Lead,2024-03-22,Alex Morgan,0.75,35000,26250.0
+554,4,Marketing Ops Audit,Prospecting,12000,2026-10-14,,Jamie Lee,Daniel,Reed,daniel.reed@skylinehr.com,Skyline HR,COO,SQL,2024-04-10,Alex Morgan,0.1,12000,1200.0
+555,5,Engineering Workflow Optimization,Qualification,20000,2026-10-16,2026-11-20,Alex Morgan,Emily,Nguyen,emily.nguyen@brightpath.ca,BrightPath Systems,RevOps Manager,Lead,2024-05-18,Jordan Smith,0.0,20000,0.0
+556,6,Sales Coaching Program,Proposal,15000,2026-10-18,,Jamie Lee,Michael,Turner,michael.turner@quantumfleet.com,QuantumFleet,VP Operations,MQL,2024-06-02,Jordan Smith,0.5,15000,7500.0
+557,7,Revenue Insights Dashboard,Closed Won,27000,2026-10-20,2026-11-12,Jordan Smith,Olivia,Grant,olivia.grant@mapletech.ca,MapleTech,Sales Manager,Lead,2024-06-27,Jamie Lee,1.0,27000,27000.0
+558,8,Customer Segmentation Model,Negotiation,22000,2026-10-22,,Alex Morgan,Jason,Kim,jason.kim@everline.io,Everline Software,Director of Revenue,SQL,2024-07-15,Alex Morgan,0.75,22000,16500.0
+559,9,RevOps Infrastructure Setup,Prospecting,30000,2026-10-24,,Jordan Smith,Rebecca,Stone,rebecca.stone@bluepeak.ca,BluePeak Systems,Operations Lead,Lead,2024-08-01,Jordan Smith,0.1,30000,3000.0
+560,10,Sales Funnel Optimization,Qualification,18000,2026-10-26,2026-11-28,Jamie Lee,Anthony,Clark,anthony.clark@signalpath.io,SignalPath,Sales Director,MQL,2024-08-22,Jamie Lee,0.0,18000,0.0
+561,11,Revenue Forecasting Engine,Proposal,26000,2026-10-28,,Alex Morgan,Laura,Mitchell,laura.mitchell@zenflow.ca,ZenFlow,Marketing Director,Lead,2024-01-05,Jamie Lee,0.5,26000,13000.0
+562,12,Marketing Attribution Setup,Closed Lost,14000,2026-10-30,2026-12-01,Jordan Smith,Kevin,Brooks,kevin.brooks@apexlogic.io,ApexLogic,CTO,SQL,2024-01-08,Alex Morgan,0.0,14000,0.0
+563,13,Sales Pipeline Optimization,Negotiation,25000,2026-11-01,,Jamie Lee,Natalie,Young,natalie.young@brightwave.ca,BrightWave,Sales Coordinator,Lead,2024-01-11,Jordan Smith,0.75,25000,18750.0
+564,14,Workflow Automation Build,Prospecting,16000,2026-11-03,,Jamie Lee,Patrick,James,patrick.james@corelytics.com,CoreLytics,VP Sales,MQL,2024-01-15,Jamie Lee,0.1,16000,1600.0
+565,15,Lead Scoring Model,Qualification,12000,2026-11-05,2026-12-05,Jamie Lee,Isabella,Moore,isabella.moore@northpeak.ca,NorthPeak,Operations Analyst,Lead,2024-01-18,Alex Morgan,0.0,12000,0.0
+566,16,CRM Integration Package,Proposal,22000,2026-11-07,,Alex Morgan,Jacob,White,jacob.white@revworks.io,RevWorks,Director of Ops,SQL,2024-01-20,Jordan Smith,0.5,22000,11000.0
+567,17,HR Analytics Suite,Closed Won,40000,2026-11-09,2026-12-01,Alex Morgan,Victoria,Hall,victoria.hall@skylogic.ca,SkyLogic,Marketing Lead,Lead,2024-01-23,Jamie Lee,1.0,40000,40000.0
+568,18,Sales Enablement Toolkit,Negotiation,20000,2026-11-11,,Jordan Smith,Christopher,Adams,chris.adams@everpath.io,EverPath,COO,MQL,2024-01-25,Alex Morgan,0.75,20000,15000.0
+569,19,Operational Efficiency Audit,Prospecting,13000,2026-11-13,,Jordan Smith,Grace,Walker,grace.walker@mapledata.ca,MapleData,Sales Manager,Lead,2024-01-28,Jordan Smith,0.1,13000,1300.0
+570,20,Marketing Ops Automation,Qualification,21000,2026-11-15,2026-12-18,Jamie Lee,Andrew,Scott,andrew.scott@signalcore.io,SignalCore,VP Revenue,SQL,2024-01-30,Jamie Lee,0.0,21000,0.0
+571,21,Sales Team Performance Suite,Proposal,26000,2026-11-17,,Alex Morgan,Julia,Price,julia.price@northbridgeops.com,Northbridge Ops,Sales Coordinator,Lead,2024-02-01,Jamie Lee,0.5,26000,13000.0
+572,22,Lead Routing Optimization,Closed Lost,9000,2026-11-19,2026-12-15,Jordan Smith,Steven,Gray,steven.gray@revpoint.ca,RevPoint Solutions,Marketing Manager,MQL,2024-02-04,Jamie Lee,0.0,9000,0.0
+573,23,CRM Data Governance Setup,Negotiation,28000,2026-11-21,,Jamie Lee,Monica,Shaw,monica.shaw@clearwave.io,ClearWave Analytics,Operations Lead,Lead,2024-02-06,Alex Morgan,0.75,28000,21000.0
+574,24,Sales Playbook Development,Prospecting,15000,2026-11-23,,Jamie Lee,Henry,Cooper,henry.cooper@skylinehr.com,Skyline HR,Director of HR,SQL,2024-02-08,Alex Morgan,0.1,15000,1500.0
+575,25,Attribution Model Build,Qualification,17000,2026-11-25,2026-12-28,Alex Morgan,Chloe,Diaz,chloe.diaz@brightpath.ca,BrightPath Systems,Sales Manager,Lead,2024-02-10,Jordan Smith,0.0,17000,0.0
+576,26,Marketing Funnel Analysis,Proposal,9000,2026-11-27,,Jamie Lee,Jonathan,Evans,jon.evans@quantumfleet.com,QuantumFleet,COO,MQL,2024-02-12,Jordan Smith,0.5,9000,4500.0
+577,27,HR Workflow Automation,Closed Won,31000,2026-11-29,2026-12-20,Jordan Smith,Sophia,Bell,sophia.bell@mapletech.ca,MapleTech,Marketing Specialist,Lead,2024-02-14,Jamie Lee,1.0,31000,31000.0
+578,28,Sales Ops Training Program,Negotiation,20000,2026-12-01,,Jamie Lee,Brandon,Lee,brandon.lee@everline.io,Everline Software,VP Sales,SQL,2024-02-16,Alex Morgan,0.75,20000,15000.0
+579,29,Quarterly RevOps Audit,Prospecting,14000,2026-12-03,,Alex Morgan,Hailey,Green,hailey.green@bluepeak.ca,BluePeak Systems,Operations Analyst,Lead,2024-02-18,Jordan Smith,0.1,14000,1400.0
+580,30,CRM Custom Reporting,Qualification,16000,2026-12-05,2027-01-10,Jordan Smith,Eric,King,eric.king@signalpath.io,SignalPath,Director of Ops,MQL,2024-02-20,Jamie Lee,0.0,16000,0.0
+581,31,Sales Forecasting Model,Proposal,24000,2026-12-07,,Jamie Lee,Melissa,Turner,melissa.turner@zenflow.ca,ZenFlow,Marketing Lead,Lead,2024-02-22,Jamie Lee,0.5,24000,12000.0
+582,32,Data Hygiene Overhaul,Closed Lost,10000,2026-12-09,2027-01-05,Alex Morgan,Shawn,Reed,shawn.reed@apexlogic.io,ApexLogic,VP Engineering,SQL,2024-02-24,Alex Morgan,0.0,10000,0.0
+583,33,Revenue Engine Build,Negotiation,35000,2026-12-11,,Jordan Smith,Paige,Howard,paige.howard@brightwave.ca,BrightWave,Sales Lead,Lead,2024-02-26,Jordan Smith,0.75,35000,26250.0
+584,34,Marketing Ops Audit,Prospecting,12000,2026-12-13,,Jamie Lee,Timothy,Long,tim.long@corelytics.com,CoreLytics,Director of Revenue,MQL,2024-02-28,Jamie Lee,0.1,12000,1200.0
+585,35,Engineering Workflow Optimization,Qualification,20000,2026-12-15,2027-01-20,Alex Morgan,Kayla,Adler,kayla.adler@northpeak.ca,NorthPeak,Marketing Manager,Lead,2024-03-01,Alex Morgan,0.0,20000,0.0
+586,36,Sales Coaching Program,Proposal,15000,2026-12-17,,Jamie Lee,Logan,Price,logan.price@revworks.io,RevWorks,COO,SQL,2024-03-03,Jordan Smith,0.5,15000,7500.0
+587,37,Revenue Insights Dashboard,Closed Won,27000,2026-12-19,2027-01-12,Jordan Smith,Faith,Campbell,faith.campbell@skylogic.ca,SkyLogic,Sales Coordinator,Lead,2024-03-05,Jamie Lee,1.0,27000,27000.0
+588,38,Customer Segmentation Model,Negotiation,22000,2026-12-21,,Alex Morgan,Mitchell,Hayes,mitchell.hayes@everpath.io,EverPath,VP Revenue,MQL,2024-03-07,Alex Morgan,0.75,22000,16500.0
+589,39,RevOps Infrastructure Setup,Prospecting,30000,2026-12-23,,Jordan Smith,Daniela,Reyes,daniela.reyes@mapledata.ca,MapleData,Marketing Specialist,Lead,2024-03-09,Jordan Smith,0.1,30000,3000.0
+590,40,Sales Funnel Optimization,Qualification,18000,2026-12-25,2027-01-28,Jamie Lee,Colin,Stewart,colin.stewart@signalcore.io,SignalCore,Director of Sales,SQL,2024-03-11,Jamie Lee,0.0,18000,0.0
+591,41,Revenue Forecasting Engine,Proposal,26000,2026-12-27,,Alex Morgan,Alyssa,James,alyssa.james@northbridgeops.com,Northbridge Ops,Operations Lead,Lead,2024-03-13,Jamie Lee,0.5,26000,13000.0
+592,42,Marketing Attribution Setup,Closed Lost,14000,2026-12-29,2027-02-01,Jordan Smith,Peter,Nguyen,peter.nguyen@revpoint.ca,RevPoint Solutions,Sales Manager,MQL,2024-03-15,Jamie Lee,0.0,14000,0.0
+593,43,Sales Pipeline Optimization,Negotiation,25000,2026-12-31,,Jamie Lee,Vanessa,Clark,vanessa.clark@clearwave.io,ClearWave Analytics,Director of Ops,Lead,2024-03-17,Alex Morgan,0.75,25000,18750.0
+594,44,Workflow Automation Build,Prospecting,16000,2027-01-02,,Jamie Lee,Shane,Martin,shane.martin@skylinehr.com,Skyline HR,VP HR,SQL,2024-03-19,Alex Morgan,0.1,16000,1600.0
+595,45,Lead Scoring Model,Qualification,12000,2027-01-04,2027-02-05,Jamie Lee,Rachel,Kim,rachel.kim@brightpath.ca,BrightPath Systems,Marketing Lead,Lead,2024-03-21,Jordan Smith,0.0,12000,0.0
+596,46,CRM Integration Package,Proposal,22000,2027-01-06,,Alex Morgan,Tyler,Moore,tyler.moore@quantumfleet.com,QuantumFleet,Director of Ops,MQL,2024-03-23,Jordan Smith,0.5,22000,11000.0
+597,47,HR Analytics Suite,Closed Won,40000,2027-01-08,2027-02-01,Alex Morgan,Angela,Scott,angela.scott@mapletech.ca,MapleTech,Sales Lead,Lead,2024-03-25,Jamie Lee,1.0,40000,40000.0
+598,48,Sales Enablement Toolkit,Negotiation,20000,2027-01-10,,Jordan Smith,Corey,White,corey.white@everline.io,Everline Software,COO,SQL,2024-03-27,Alex Morgan,0.75,20000,15000.0
+599,49,Operational Efficiency Audit,Prospecting,13000,2027-01-12,,Jordan Smith,Michelle,Stone,michelle.stone@bluepeak.ca,BluePeak Systems,Marketing Manager,Lead,2024-03-29,Jordan Smith,0.1,13000,1300.0
+600,50,Marketing Ops Automation,Qualification,21000,2027-01-14,2027-02-18,Jamie Lee,Justin,Reed,justin.reed@signalpath.io,SignalPath,VP Revenue,MQL,2024-03-31,Jamie Lee,0.0,21000,0.0
+601,51,Sales Team Performance Suite,Proposal,26000,2027-01-16,,Alex Morgan,,,,,,,,,0.5,26000,13000.0
+602,52,Lead Routing Optimization,Closed Lost,9000,2027-01-18,2027-02-15,Jordan Smith,Erin,Walsh,erin.walsh@zenflow.ca,ZenFlow,Operations Manager,Lead,2024-04-02,Jamie Lee,0.0,9000,0.0
+603,53,CRM Data Governance Setup,Negotiation,28000,2027-01-20,,Jamie Lee,Marcus,Young,marcus.young@apexlogic.io,ApexLogic,Director of Ops,SQL,2024-04-04,Alex Morgan,0.75,28000,21000.0
+604,54,Sales Playbook Development,Prospecting,15000,2027-01-22,,Jamie Lee,Tara,Mitchell,tara.mitchell@brightwave.ca,BrightWave,Marketing Specialist,Lead,2024-04-06,Jordan Smith,0.1,15000,1500.0
+605,55,Attribution Model Build,Qualification,17000,2027-01-24,2027-02-28,Alex Morgan,Shawn,Lopez,shawn.lopez@corelytics.com,CoreLytics,VP Revenue,MQL,2024-04-08,Jamie Lee,0.0,17000,0.0
+606,56,Marketing Funnel Analysis,Proposal,9000,2027-01-26,,Jamie Lee,Isabelle,Reed,isabelle.reed@northpeak.ca,NorthPeak,Sales Lead,Lead,2024-04-10,Alex Morgan,0.5,9000,4500.0
+607,57,HR Workflow Automation,Closed Won,31000,2027-01-28,2027-02-20,Jordan Smith,Connor,James,connor.james@revworks.io,RevWorks,Director of Sales,SQL,2024-04-12,Jordan Smith,1.0,31000,31000.0
+608,58,Sales Ops Training Program,Negotiation,20000,2027-01-30,,Jamie Lee,Naomi,Clark,naomi.clark@skylogic.ca,SkyLogic,Marketing Manager,Lead,2024-04-14,Jamie Lee,0.75,20000,15000.0
+609,59,Quarterly RevOps Audit,Prospecting,14000,2027-02-01,,Alex Morgan,Brent,Hayes,brent.hayes@everpath.io,EverPath,COO,MQL,2024-04-16,Alex Morgan,0.1,14000,1400.0
+610,60,CRM Custom Reporting,Qualification,16000,2027-02-03,2027-03-10,Jordan Smith,Elena,Moore,elena.moore@mapledata.ca,MapleData,Sales Coordinator,Lead,2024-04-18,Jordan Smith,0.0,16000,0.0
+611,61,Sales Forecasting Model,Proposal,24000,2027-02-05,,Jamie Lee,Caleb,Scott,caleb.scott@signalcore.io,SignalCore,Director of Revenue,SQL,2024-04-20,Jamie Lee,0.5,24000,12000.0
+612,62,Data Hygiene Overhaul,Closed Lost,10000,2027-02-07,2027-03-05,Alex Morgan,Marissa,Nguyen,marissa.nguyen@northbridgeops.com,Northbridge Ops,Marketing Lead,Lead,2024-04-22,Jamie Lee,0.0,10000,0.0
+613,63,Revenue Engine Build,Negotiation,35000,2027-02-09,,Jordan Smith,Tyson,Gray,tyson.gray@revpoint.ca,RevPoint Solutions,VP Sales,MQL,2024-04-24,Jamie Lee,0.75,35000,26250.0
+614,64,Marketing Ops Audit,Prospecting,12000,2027-02-11,,Jamie Lee,Alexa,Stone,alexa.stone@clearwave.io,ClearWave Analytics,Operations Manager,Lead,2024-04-26,Alex Morgan,0.1,12000,1200.0
+615,65,Engineering Workflow Optimization,Qualification,20000,2027-02-13,2027-03-20,Alex Morgan,Shane,Cooper,shane.cooper@skylinehr.com,Skyline HR,Director of Ops,SQL,2024-04-28,Alex Morgan,0.0,20000,0.0
+616,66,Sales Coaching Program,Proposal,15000,2027-02-15,,Jamie Lee,Danielle,Price,danielle.price@brightpath.ca,BrightPath Systems,Marketing Specialist,Lead,2024-04-30,Jordan Smith,0.5,15000,7500.0
+617,67,Revenue Insights Dashboard,Closed Won,27000,2027-02-17,2027-03-12,Jordan Smith,Colton,Evans,colton.evans@quantumfleet.com,QuantumFleet,VP Revenue,MQL,2024-05-02,Jordan Smith,1.0,27000,27000.0
+618,68,Customer Segmentation Model,Negotiation,22000,2027-02-19,,Alex Morgan,Leah,Grant,leah.grant@mapletech.ca,MapleTech,Sales Manager,Lead,2024-05-04,Jamie Lee,0.75,22000,16500.0
+619,69,RevOps Infrastructure Setup,Prospecting,30000,2027-02-21,,Jordan Smith,Victor,White,victor.white@everline.io,Everline Software,Director of Ops,SQL,2024-05-06,Alex Morgan,0.1,30000,3000.0
+620,70,Sales Funnel Optimization,Qualification,18000,2027-02-23,2027-03-28,Jamie Lee,Amber,Stone,amber.stone@bluepeak.ca,BluePeak Systems,Marketing Lead,Lead,2024-05-08,Jordan Smith,0.0,18000,0.0
+621,71,Revenue Forecasting Engine,Proposal,26000,2027-02-25,,Alex Morgan,Noah,Clark,noah.clark@signalpath.io,SignalPath,Sales Coordinator,MQL,2024-05-10,Jamie Lee,0.5,26000,13000.0
+622,72,Marketing Attribution Setup,Closed Lost,14000,2027-02-27,2027-04-01,Jordan Smith,Hailey,Mitchell,hailey.mitchell@zenflow.ca,ZenFlow,Marketing Manager,Lead,2024-05-12,Jamie Lee,0.0,14000,0.0
+623,73,Sales Pipeline Optimization,Negotiation,25000,2027-03-01,,Jamie Lee,Brady,Reed,brady.reed@apexlogic.io,ApexLogic,Director of Revenue,SQL,2024-05-14,Alex Morgan,0.75,25000,18750.0
+624,74,Workflow Automation Build,Prospecting,16000,2027-03-03,,Jamie Lee,Elise,Howard,elise.howard@brightwave.ca,BrightWave,Sales Lead,Lead,2024-05-16,Jordan Smith,0.1,16000,1600.0
+625,75,Lead Scoring Model,Qualification,12000,2027-03-05,2027-04-05,Jamie Lee,Travis,Long,travis.long@corelytics.com,CoreLytics,VP Sales,MQL,2024-05-18,Jamie Lee,0.0,12000,0.0
+626,76,CRM Integration Package,Proposal,22000,2027-03-07,,Alex Morgan,Kaylee,Adler,kaylee.adler@northpeak.ca,NorthPeak,Operations Analyst,Lead,2024-05-20,Alex Morgan,0.5,22000,11000.0
+627,77,HR Analytics Suite,Closed Won,40000,2027-03-09,2027-04-01,Alex Morgan,Jonah,Price,jonah.price@revworks.io,RevWorks,Director of Ops,SQL,2024-05-22,Jordan Smith,1.0,40000,40000.0
+628,78,Sales Enablement Toolkit,Negotiation,20000,2027-03-11,,Jordan Smith,Sienna,Campbell,sienna.campbell@skylogic.ca,SkyLogic,Marketing Specialist,Lead,2024-05-24,Jamie Lee,0.75,20000,15000.0
+629,79,Operational Efficiency Audit,Prospecting,13000,2027-03-13,,Jordan Smith,Garrett,Hayes,garrett.hayes@everpath.io,EverPath,VP Revenue,MQL,2024-05-26,Alex Morgan,0.1,13000,1300.0
+630,80,Marketing Ops Automation,Qualification,21000,2027-03-15,2027-04-18,Jamie Lee,Adriana,Reyes,adriana.reyes@mapledata.ca,MapleData,Sales Manager,Lead,2024-05-28,Jordan Smith,0.0,21000,0.0
+631,81,Sales Team Performance Suite,Proposal,26000,2027-03-17,,Alex Morgan,Colby,Stewart,colby.stewart@signalcore.io,SignalCore,Director of Sales,SQL,2024-05-30,Jamie Lee,0.5,26000,13000.0
+632,82,Lead Routing Optimization,Closed Lost,9000,2027-03-19,2027-04-15,Jordan Smith,Alana,James,alana.james@northbridgeops.com,Northbridge Ops,Marketing Lead,Lead,2024-06-01,Jamie Lee,0.0,9000,0.0
+633,83,CRM Data Governance Setup,Negotiation,28000,2027-03-21,,Jamie Lee,Spencer,Nguyen,spencer.nguyen@revpoint.ca,RevPoint Solutions,Sales Manager,MQL,2024-06-03,Jamie Lee,0.75,28000,21000.0
+634,84,Sales Playbook Development,Prospecting,15000,2027-03-23,,Jamie Lee,Marina,Clark,marina.clark@clearwave.io,ClearWave Analytics,Director of Ops,Lead,2024-06-05,Alex Morgan,0.1,15000,1500.0
+635,85,Attribution Model Build,Qualification,17000,2027-03-25,2027-04-28,Alex Morgan,Shawn,Martin,shawn.martin@skylinehr.com,Skyline HR,VP HR,SQL,2024-06-07,Alex Morgan,0.0,17000,0.0
+636,86,Marketing Funnel Analysis,Proposal,9000,2027-03-27,,Jamie Lee,Rebecca,Kim,rebecca.kim@brightpath.ca,BrightPath Systems,Marketing Lead,Lead,2024-06-09,Jordan Smith,0.5,9000,4500.0
+637,87,HR Workflow Automation,Closed Won,31000,2027-03-29,2027-04-20,Jordan Smith,Tyler,Moore,tyler.moore@quantumfleet.com,QuantumFleet,Director of Ops,MQL,2024-06-11,Jordan Smith,1.0,31000,31000.0
+638,88,Sales Ops Training Program,Negotiation,20000,2027-03-31,,Jamie Lee,Angela,Scott,angela.scott@mapletech.ca,MapleTech,Sales Lead,Lead,2024-06-13,Jamie Lee,0.75,20000,15000.0
+639,89,Quarterly RevOps Audit,Prospecting,14000,2027-04-02,,Alex Morgan,Corey,White,corey.white@everline.io,Everline Software,COO,SQL,2024-06-15,Alex Morgan,0.1,14000,1400.0
+640,90,CRM Custom Reporting,Qualification,16000,2027-04-04,2027-05-10,Jordan Smith,Michelle,Stone,michelle.stone@bluepeak.ca,BluePeak Systems,Marketing Manager,Lead,2024-06-17,Jordan Smith,0.0,16000,0.0
+641,91,Sales Forecasting Model,Proposal,24000,2027-04-06,,Jamie Lee,Justin,Reed,justin.reed@signalpath.io,SignalPath,VP Revenue,MQL,2024-06-19,Jamie Lee,0.5,24000,12000.0
+642,92,Data Hygiene Overhaul,Closed Lost,10000,2027-04-08,2027-05-05,Alex Morgan,Erin,Walsh,erin.walsh@zenflow.ca,ZenFlow,Operations Manager,Lead,2024-06-21,Jamie Lee,0.0,10000,0.0
+643,93,Revenue Engine Build,Negotiation,35000,2027-04-10,,Jordan Smith,Marcus,Young,marcus.young@apexlogic.io,ApexLogic,Director of Ops,SQL,2024-06-23,Alex Morgan,0.75,35000,26250.0
+644,94,Marketing Ops Audit,Prospecting,12000,2027-04-12,,Jamie Lee,Tara,Mitchell,tara.mitchell@brightwave.ca,BrightWave,Marketing Specialist,Lead,2024-06-25,Jordan Smith,0.1,12000,1200.0
+645,95,Engineering Workflow Optimization,Qualification,20000,2027-04-14,2027-05-20,Alex Morgan,Shawn,Lopez,shawn.lopez@corelytics.com,CoreLytics,VP Revenue,MQL,2024-06-27,Jamie Lee,0.0,20000,0.0
+646,96,Sales Coaching Program,Proposal,15000,2027-04-16,,Jamie Lee,Isabelle,Reed,isabelle.reed@northpeak.ca,NorthPeak,Sales Lead,Lead,2024-06-29,Alex Morgan,0.5,15000,7500.0
+647,97,Revenue Insights Dashboard,Closed Won,27000,2027-04-18,2027-05-12,Jordan Smith,Connor,James,connor.james@revworks.io,RevWorks,Director of Sales,SQL,2024-07-01,Jordan Smith,1.0,27000,27000.0
+648,98,Customer Segmentation Model,Negotiation,22000,2027-04-20,,Alex Morgan,Naomi,Clark,naomi.clark@skylogic.ca,SkyLogic,Marketing Manager,Lead,2024-07-03,Jamie Lee,0.75,22000,16500.0
+649,99,RevOps Infrastructure Setup,Prospecting,30000,2027-04-22,,Jordan Smith,Brent,Hayes,brent.hayes@everpath.io,EverPath,COO,MQL,2024-07-05,Alex Morgan,0.1,30000,3000.0
+650,100,Sales Funnel Optimization,Qualification,18000,2027-04-24,2027-05-28,Jamie Lee,Elena,Moore,elena.moore@mapledata.ca,MapleData,Sales Coordinator,Lead,2024-07-07,Jordan Smith,0.0,18000,0.0
