@@ -1,10 +1,10 @@
-## Overview ##
+# Overview #
 
 This dashboard analyzes a simulated HubSpot‑style sales pipeline to uncover trends in revenue forecasting, deal quality, and sales cycle efficiency. It provides a clear view of current pipeline health, expected revenue, and operational bottlenecks that impact performance.
 
 The insights below summarize the key findings from the data and highlight actions a sales or RevOps leader could take to improve outcomes.
 
-# Pipeline Health & Revenue Outlook
+## Pipeline Health & Revenue Outlook
 
 Weighted Pipeline Value Shows Moderate Volatility
 
@@ -14,10 +14,10 @@ Using probability‑adjusted revenue (Amount × Probability), the forecast line 
 -Forecast reliability depends heavily on a small number of high‑value opportunities
 -Certain months show sharp dips, suggesting inconsistent pipeline generation
 
-# Implication:  
+ Implication:  
 Sales leadership should focus on smoothing pipeline creation and ensuring consistent top‑of‑funnel activity.
 
-# Owner Performance & Contribution
+## Owner Performance & Contribution
 
 One Owner Dominates the Forecast
 The “Forecast by Owner” visual shows:
@@ -26,7 +26,7 @@ The “Forecast by Owner” visual shows:
 -Secondary contributors add moderate value
 -One owner contributes very little
 
-# Implication:  
+ Implication:  
 Pipeline distribution is imbalanced.
 Leadership may need to:
 
@@ -34,7 +34,7 @@ Leadership may need to:
 -Provide coaching to lower‑performing reps
 -Ensure pipeline coverage is not overly dependent on one individual
 
-# Deal Quality & Sales Cycle Efficiency
+## Deal Quality & Sales Cycle Efficiency
 
 Larger Deals Tend to Take Longer
 The scatter plot (Sales Cycle vs Amount) shows a clear pattern:
@@ -43,10 +43,10 @@ The scatter plot (Sales Cycle vs Amount) shows a clear pattern:
 -Smaller deals close faster
 -Outliers exist where deals took unusually long or stalled in early stages
 
-# Implication:  
+ Implication:  
 This is typical in B2B sales, but long‑cycle deals should be monitored closely to avoid pipeline bloat.
 
-# Stage‑Level Efficiency
+## Stage‑Level Efficiency
 
 Qualification Stage Has the Longest Average Sales Cycle
 The “Average Sales Cycle by Stage” chart reveals:
@@ -54,11 +54,11 @@ The “Average Sales Cycle by Stage” chart reveals:
 -Closed Lost deals also take significant time (≈25 days)
 -Closed Won deals close fastest (≈21 days)
 
-# Implication:  
+ Implication:  
 The qualification process may be inefficient or unclear.
 Improving qualification criteria or lead scoring could reduce cycle time and increase win rates.
 
-# Recommended Actions for Sales Leadership
+## Recommended Actions for Sales Leadership
 
 1. Strengthen Early‑Stage Qualification  
 -Improve lead scoring
@@ -80,7 +80,7 @@ Improving qualification criteria or lead scoring could reduce cycle time and inc
 -Require manager review for stalled opportunities
 -Add automated reminders or follow‑up tasks
 
-# Summary
+ Summary
 This dashboard provides a clear, data‑driven view of pipeline performance and sales efficiency. The insights highlight opportunities to:
 
 -Improve forecasting accuracy
